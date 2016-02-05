@@ -16,7 +16,7 @@ layout: page
     </a>
 
     <p class="post-meta">
-      Publicado em {{ post.date | date: "%B %-d, %Y" }}
+      Publicado a {% include ptdatetime.html date=post.date %}
     </p>
   
     <div class="post-entry">
