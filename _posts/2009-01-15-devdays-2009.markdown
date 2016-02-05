@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: DevDays 2009
+wordpress_id: 485
+wordpress_url: http://www.pedrolamas.com/?p=485
+categories:
+- Tecnologias
+tags:
+- Microsoft
+- DevDaysPT09
+- DevDays
+---
+[![DevDays 2009](/wp-content/uploads/2009/01/devdays-2009.gif "DevDays 2009")](http://www.devdays09.com)É já nos dias 18 e 19 de Fevereiro próximo que irá decorrer o [DevDays 2009](http://www.devdays09.com) no Instituto Superior Técnico, um evento indicado exclusivamente para Programadores, Arquitectos e Designers!
+
+Com uma [agenda](http://www.devdays09.com/Agenda) completa por mais de 50 sessões e 40 eventos laboratoriais, será ainda uma excelente oportunidade para conhecer alguns dos especialistas nas várias tecnologias Microsoft que serão os [oradores](http://www.devdays09.com/Oradores) das sessões.
+
+Nos conteúdos a apresentar podemos encontrar sessões sobre Visual Studio 10 e .NET Framework 4.0, [Windows 7](/tag/windows-7/), Windows Azure e Azure Services Platform, Biztalk 2009, Silverlight e WPF.
+
+As [inscrições](https://vas.ambity.pt/devdays/) são limitadas, pelo que o melhor é fazer já a sua! :D

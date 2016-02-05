@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Windows 7 Build 7000
+wordpress_id: 461
+wordpress_url: http://www.pedrolamas.com/?p=461
+categories:
+- Tecnologias
+tags:
+- Microsoft
+- Beta
+- Windows 7
+---
+![Windows 7 Build 7000](/wp-content/uploads/2009/01/windows-7-build-7000.jpg "Windows 7 Build 7000")Como que por magia(!), surgiu na passada semana na Internet a primeira versão "beta" do [Windows 7](/tag/windows-7/), correspondendo ao Build 7000!
+
+Estando disponível nos "canais do costume", tenho vindo a testar este novo sistema operativo, e estou em condições de poder confirmar os rumores que afirmam tratar-se de um sistema operativo notoriamente mais rápido e leve que o Windows Vista, chegando mesmo a ser mais rápido que o Windows XP em alguns aspectos, como por exemplo em tempo de arranque!
+
+Há quem diga que o surgir desta nova versão se trata mesmo de uma manobra de charme da própria Microsoft; sendo ou não verdade, penso que a equipa de desenvolvimento do Windows 7 está plenamente de parabéns, pois demonstra assim que consegue apresentar um sistema operativo estável, leve, com um aspecto agradável e algumas novidades interessantes, mesmo em versão beta! ;)
+
+**Edit:** Encontrei à pouco [este](http://www.pplware.com/2009/01/05/analise-windows-7-beta-1/) artigo de opinião no [Peopleware](http://www.pplware.com/), e pareceu-me uma boa leitura sobre esta nova versão do Windows 7!

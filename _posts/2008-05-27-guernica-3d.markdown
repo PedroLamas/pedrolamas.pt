@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Guernica 3D
+wordpress_id: 158
+wordpress_url: http://www.pedrolamas.com/?p=158
+categories:
+- Geral
+tags:
+- Picasso
+- Guernica
+- Guernica 3D
+---
+[![Guernica - Pablo Picasso, 1937](/wp-content/uploads/2008/05/picasso_guernica.jpg "picasso_guernica")](http://www.lena-gieseke.com/guernica/movie.html)
+
+Em 1937, durante a guerra civil espanhola, os fascistas devastaram a cidade de Guernica com bombardeamentos aéreos executados pela Nazi Luftwaffe.
+
+O quadro Guernica, de Picasso, foi a sua reação à tragédia.
+
+70 anos depois, Lena Gieseke apresenta-nos uma visão tridimensional da grandiosa obra, fornecendo uma oportunidade de ver o quadro de uma perspectiva única, revelando aspectos que normalmente passariam despercebidos.

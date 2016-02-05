@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: '2011'
+wordpress_id: 1628
+wordpress_url: http://www.pedrolamas.com/?p=1628
+date: 2011-01-01 12:21:47.000000000 +00:00
+categories:
+- Geral
+tags:
+- '2011'
+---
+Este é o meu primeiro post de 2011, um ano que se espera de crise para todos os Portugueses, mas que os analistas classificam como o ano da afirmação das redes sociais (pelo menos do Facebook...)!
+
+A título de balanço pessoal, 2010 não foi um mau ano, apesar de ter começado com alguns problemas profissionais, mas no final o saldo é extremamente positivo!
+
+Assim, espero e desejo que este seja um ano de sucesso para todos, e "puxando a brasa à minha sardinha", que seja o ano da afirmação do Windows Phone 7 no que toca à mobilidade!
+
+Bom Ano de 2011 para todos!!! :D

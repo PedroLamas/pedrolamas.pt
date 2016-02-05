@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: UPX4PPC
+wordpress_id: 200
+wordpress_url: http://www.pedrolamas.com/?p=200
+categories:
+- Mobilidade
+tags:
+- Mobilidade
+- UPX4PPC
+- UPX
+---
+[![UPX4PPC](/wp-content/uploads/2008/07/upx4ppc.jpg "UPX4PPC")](http://www.pocketpt.net/forum/index.php?automodule=blog&blogid=4&showentry=181)O Ricardo Chaves (o mais recente Administrador na comunidade [PocketPT.net](http://www.pocketpt.net)) fala-nos hoje no seu [blog](http://www.pocketpt.net/forum/index.php?automodule=blog&blogid=4&) do [UPX4PPC](http://mobile-sg.com/software/?p=UPX4PPC&platform=ppc), o mais conhecido compactador de ficheiros executáveis, agora compatível com processadores ARM!
+
+No artigo publicado podemos encontrar um teste de compressão ao executável principal do Opera Mobile, que tem cerca de 6MB, ficando com apenas 3MB sem perdas a notar no que toca ao tempo de arranque da aplicação!
+
+Este pequeno aplicativo é altamente recomendado, e mostra-se fenomenal no que toca a ajudar a poupar o pouco espaço que geralmente temos nos nossos equipamentos móveis!

@@ -1,0 +1,15 @@
+---
+layout: post
+status: publish
+published: true
+title: Bem-vindo!
+wordpress_id: 3
+wordpress_url: http://www.pedrolamas.com/?p=3
+categories:
+- Geral
+tags:
+- Bem-vindo
+---
+Pois é, "vendi-me" ao WordPress para começar uma nova fase do meu site... Neste momento ainda há muita coisa por fazer, por isso o melhor é voltar mais tarde! :)
+
+No caso de andarem à procura do **Hattrick Gadget**, podem encontrar o mesmo [aqui](/wp-admin/hattrick.aspx "Hattrick Gadget")!

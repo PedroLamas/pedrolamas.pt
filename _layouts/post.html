@@ -10,7 +10,7 @@ layout: default
         {% if page.subtitle %}
         <h2 class="post-subheading">{{ page.subtitle }}</h2>
         {% endif %}
-        <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+        <span class="post-meta">Publicado em {{ page.date | date: "%B %-d, %Y" }}</span>
       </div>
      </div>
   </div>
@@ -29,12 +29,12 @@ layout: default
     <ul class="pager blog-pager">
       {% if page.previous.url %}
       <li class="previous">
-        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Artigo Anterior</a>
       </li>
       {% endif %}
       {% if page.next.url %}
       <li class="next">
-        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Artigo Seguinte &rarr;</a>
       </li>
       {% endif %}
     </ul>

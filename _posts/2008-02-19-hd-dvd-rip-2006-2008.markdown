@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'HD DVD, RIP: 2006 - 2008'
+wordpress_id: 96
+wordpress_url: http://www.pedrolamas.com/2008/02/19/hd-dvd-rip-2006-2008/
+categories:
+- Tecnologias
+tags:
+- HD DVD
+- Blu-ray
+- Toshiba
+- Sony
+---
+![Blu-ray vs. HD DVD](/wp-content/uploads/2008/02/blu-ray-vs-hd-dvd.jpg)É oficial: a chamada "guerra de formatos" entre o Blu-ray da Sony e o HD DVD da Toshiba chegou hoje finalmente ao fim, com a [Toshiba a descontinuar o seu formato](http://www.toshiba.co.jp/about/press/2008_02/pr1903.htm)!
+
+Para o mercado isso será óptimo, tendo em conta que até este momento os grandes estúdios de Hollywood estavam divididos entre os dois formatos, provocando que um qualquer filme fosse apenas lançado num dado formato mas não no outro!
+
+No meio desta guerra, quem ficou mais a perder foram realmente aqueles que investiram num leitor de HD DVD de sala para ver os seus filmes em formato digital, e que sabem agora que não vão mais ter novos filmes para o mesmo...
+
+@ [Engadget](http://www.engadget.com/2008/02/19/official-hd-dvd-dead-and-buried-format-war-is-over/)

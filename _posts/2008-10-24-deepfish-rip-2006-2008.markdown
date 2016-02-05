@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'Deepfish, RIP: 2006 - 2008'
+wordpress_id: 341
+wordpress_url: http://www.pedrolamas.com/?p=341
+categories:
+- Mobilidade
+tags:
+- Mobilidade
+- Windows Mobile
+- Deepfish
+---
+[![](/wp-content/uploads/2008/10/deepfish.jpg "Deepfish")](http://livelabs.com/deepfish/)O projecto [Deepfish](http://livelabs.com/deepfish/), iniciado em 2006 no [Microsoft Live Labs](http://livelabs.com/), terminou, sem nunca ter chegado a ver a luz do dia!
+
+Segundo a informação que podemos encontrar na página oficial, a equipa que o começou a desenvolver apenas quis provar a teoria de que havia uma grande procura por uma melhor experiência de navegação na Internet, a que na altura não tinha ainda sido dada resposta! Agora, e graças a provas de conceito como a do Deepfish, muitas alternativas emergiram.
+
+Como nota pessoal, há que notar que de facto o Deepfish na altura em que apareceu, e apesar de apenas permitir visualizar páginas, demonstrava certas tecnologias que hoje podemos encontrar em browser móveis como o [Opera Mobile](http://www.opera.com/products/mobile/) (a funcionalidade de zoom a zonas especificas de uma página, por exemplo). Daí que fica sem dúvida o conceito provado (e aplicado), e o resto é apenas história...

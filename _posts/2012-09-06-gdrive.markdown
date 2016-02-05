@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: GDrive
+wordpress_id: 2672
+wordpress_url: http://www.pedrolamas.com/?p=2672
+date: 2012-09-06 10:11:12.000000000 +01:00
+categories:
+- Mobilidade
+tags:
+- Windows Phone
+- WP7
+- Google Drive
+- GDrive
+---
+![](/wp-content/uploads/2012/07/GDrive.png "GDrive")Está finalmente disponível para download a minha aplicação mais recente: **GDrive**, uma aplicação cliente do [Google Drive](http://drive.google.com/)!
+
+Esta aplicação já tinha sido apresentada anteriormente [aqui](/2012/07/27/gdrive-google-drive-no-windows-phone/), no entanto, devido à pausa para férias e a alguns problemas com o processo de certificação, só agora ficou disponível para instalação.
+
+Conforme pude explicar no meu post anterior, este projecto foi desenvolvido mais como um desafio e uma prova de conceito, do que com a intenção de no final ter uma aplicação completa com todas as funcionalidades esperadas de um cliente de "cloud storage"!
+
+O [código fonte](https://github.com/PedroLamas/GDrive) está disponível no [GitHub](http://github.com/), e a instalação pode ser feita clicando no seguinte botão:
+
+[![](/wp-content/uploads/2011/10/Download-EN-Med.png "GDrive")](http://www.windowsphone.com/s?appid=c945c809-5e5d-4db3-b4c9-70c8cebd5235)
+
+Para facilitar, podem utilizar a funcionalidade Bing Vision presente no Search do vosso Windows Phone, e apontar a câmara para a imagem seguinte:
+
+![](/wp-content/uploads/2012/09/GDrive-Tag.png "GDrive")

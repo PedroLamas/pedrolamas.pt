@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Live Mesh
+wordpress_id: 139
+wordpress_url: http://www.pedrolamas.com/?p=139
+categories:
+- Internet
+tags:
+- Microsoft
+- Live
+- Live Mesh
+---
+[![Live Mesh](/wp-content/uploads/2008/04/livemesh.jpg "Live Mesh")](http://www.mesh.com)
+
+A Microsoft apresentou mais um produto a ser integrado na rede de serviços [Live](http://www.live.com), desta vez para a partilha e sincronização de ficheiros entre vários dispositivos: o [Live Mesh](http://www.mesh.com/)
+
+Ainda em fase Beta e sem acesso geral ao público (apenas por convite!), as características apresentadas parecem ser bastante boas:
+
+-   Sincronização de informação entre todos dispositivos, desde computadores pessoais, e brevemente, mac's e telemóveis
+-   Disponibilidade de acesso em qualquer parte, a qualquer altura, pela página web do Live Mesh
+-   Facilidades de partilha com amigos, família, colegas, etc., incluindo capacidades de discussão em grupo
+-   Registo de todas as alterações no Mesh, incluindo quem actualizou o quê e quando
+-   Acesso seguro garantido por ligação SSL (HTTPS) e autenticação via Windows Live ID
+
+Vejam o vídeo disponível [aqui](https://www.mesh.com/Welcome/LearnMore.aspx) para mais informações (É necessário o [Microsoft Silverlight](http://silverlight.net/) para poder ver o vídeo)!

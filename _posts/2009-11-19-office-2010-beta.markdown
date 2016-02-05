@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Office 2010 Beta
+wordpress_id: 1132
+wordpress_url: http://www.pedrolamas.com/?p=1132
+categories:
+- Mobilidade
+tags:
+- Mobilidade
+- Microsoft
+- Office
+- Office 2010
+- Office Mobile 2010
+---
+![Office 2010 Beta](/wp-content/uploads/2009/11/Office-2010-Beta.jpg "Office 2010 Beta")Num único dia, a Microsoft disponibilizou para download as versões beta do [Office 2010](http://www.microsoft.com/office/2010/) e do seu equivalente móvel, o [Office Mobile 2010](http://www.microsoft.com/office/2010/en/mobile/default.aspx)!
+
+Aquela que me parece ser a grande novidade no Office 2010 e a principal aposta da Microsoft, tem a ver c0m o Sharepoint Workspace, algo que vem facilitar o trabalho corporativo/colaborativo entre os utilizadores de empresas e não só.
+
+A versão móvel inclui os tradicionais Word, Excel e Powerpoint Mobile, mas nada de Outlook... no entanto podemos contar com o Sharepoint Mobile! O Office Mobile 2010 Beta está disponível no [Windows Mobile Marketplace](http://marketplace.windowsphone.com/details.aspx?appSKU=a226f64c-d514-4d91-85df-a512bc37c1cd&retURL=/search.aspx%3Fkeywords%3DOffice%2520Mobile) para download.

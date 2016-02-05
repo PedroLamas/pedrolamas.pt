@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: Windows 7
+wordpress_id: 298
+wordpress_url: http://www.pedrolamas.com/?p=298
+categories:
+- Tecnologias
+tags:
+- Microsoft
+- Windows 7
+---
+[![](/wp-content/uploads/2008/09/windows-7.jpg "Windows 7")](http://www.thinknext.net/archives/2268)Ainda o Windows Vista não convenceu realmente os utilizadores, e já começam a aparecer as primeiras imagens do próximo [Windows 7](/wp-content/uploads/2008/09/windows-7-welcome.jpg "Windows 7 Welcome")!
+
+Com um aspecto em tudo igual ao actual Vista, o Windows 7, notam-se bastantes mais diferenças nas aplicações como o [Paint](/wp-content/uploads/2008/09/paint.jpg "Windows 7 Paint"), o [Wordpad](/wp-content/uploads/2008/09/wordpad.jpg "Windows 7 Wordpad"), ou mesmo a [Calculadora](/wp-content/uploads/2008/09/calculator.jpg "Windows 7 Calculator"), do que no sistema operativo em si!
+
+@[Thinknext](http://www.thinknext.net/archives/2268)
