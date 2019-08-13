@@ -13,7 +13,7 @@ tags:
 - Windows Mobile
 - GoogleSync
 ---
-[![GoogleSync](/wp-content/uploads/2009/02/googlesync.jpg "GoogleSync")](http://www.google.com/mobile/default/sync.html)Já é notícia em tudo o quanto é blog ou canal de notícias tecnológico: a Google disponibilizou um novo serviço chamado [GoogleSync](http://www.google.com/mobile/default/sync.html), que permite a sincronização do calendário e dos contactos com dispositivos móveis!
+[![GoogleSync](wp-content/uploads/2009/02/googlesync.jpg "GoogleSync")](http://www.google.com/mobile/default/sync.html)Já é notícia em tudo o quanto é blog ou canal de notícias tecnológico: a Google disponibilizou um novo serviço chamado [GoogleSync](http://www.google.com/mobile/default/sync.html), que permite a sincronização do calendário e dos contactos com dispositivos móveis!
 
 Baseado em [SyncML](http://en.wikipedia.org/wiki/SyncML), utiliza uma tecnologia do tipo "push" com uma ligação sempre activa, o que significa que as alterações efectuados via browser serão reflectidas no dispositivo no espaço de alguns minutos.
 

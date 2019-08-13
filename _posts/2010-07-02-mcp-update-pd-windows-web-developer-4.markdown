@@ -20,7 +20,7 @@ tags:
 - Windows Developer 4
 - Web Developer 4
 ---
-![](/wp-content/uploads/2010/07/PD-Windows-Web-Developer-4.jpg "PD: Windows & Web Developer 4")
+![](wp-content/uploads/2010/07/PD-Windows-Web-Developer-4.jpg "PD: Windows & Web Developer 4")
 
 Com a realização com sucesso dos exames:
 

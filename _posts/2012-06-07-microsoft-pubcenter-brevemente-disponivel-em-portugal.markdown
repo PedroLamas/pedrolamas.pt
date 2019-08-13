@@ -15,7 +15,7 @@ tags:
 - WPDev
 - pubCenter
 ---
-[![](/wp-content/uploads/2012/06/Microsoft-pubCenter.png "Microsoft pubCenter")](http://community.microsoftadvertising.com/en/marketers-agencies/advertising/b/advertising/archive/2012/06/06/pubcenter-expanding-internationally-revenue-fund-transfer-opportunity.aspx)Em breve o [Microsoft pubCenter](https://pubcenter.microsoft.com/) será expandido para 17 novos mercados, entre os quais Portugal, passando assim a suportar um total de 36 mercados!
+[![](wp-content/uploads/2012/06/Microsoft-pubCenter.png "Microsoft pubCenter")](http://community.microsoftadvertising.com/en/marketers-agencies/advertising/b/advertising/archive/2012/06/06/pubcenter-expanding-internationally-revenue-fund-transfer-opportunity.aspx)Em breve o [Microsoft pubCenter](https://pubcenter.microsoft.com/) será expandido para 17 novos mercados, entre os quais Portugal, passando assim a suportar um total de 36 mercados!
 
 Significa isto que os programadores portugueses passam a contar com as soluções de publicidade da Microsoft para as suas aplicações, e a receber os "frutos" dessa publicidade em contas nacionais (algo que até agora não era possível!)
 

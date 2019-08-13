@@ -20,9 +20,9 @@ tags:
 ---
 Esta infelizmente, descobri da pior forma: não é possível publicar uma actualização de uma aplicação Windows Phone, em que essa actualização tenha menos línguas suportadas que a versão anterior!
 
-[![](/wp-content/uploads/2011/11/Update-with-fewer-languages-error-thumb.png "Update with fewer languages error")](/wp-content/uploads/2011/11/Update-with-fewer-languages-error.png)
+[![](wp-content/uploads/2011/11/Update-with-fewer-languages-error-thumb.png "Update with fewer languages error")](wp-content/uploads/2011/11/Update-with-fewer-languages-error.png)
 
-A imagem que podem ver em cima é da minha última actualização do [CTT Objectos](/tag/ctt-objectos/), que originalmente foi publicada em Português e Inglês.
+A imagem que podem ver em cima é da minha última actualização do [CTT Objectos](tag/ctt-objectos/), que originalmente foi publicada em Português e Inglês.
 
 Recentemente recebi um e-mail da equipa de certificação de aplicações da Microsoft, em que davam conta que não poderia publicar novas actualizações sem que **TODA** a interface em inglês estivesse correctamente traduzida! Ora acontece que a aplicação está de facto toda em inglês, excepto o texto retornado pelos serviços dos CTT, o qual não me será possível localizar facilmente.
 

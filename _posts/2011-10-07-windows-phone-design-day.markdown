@@ -15,7 +15,7 @@ tags:
 - WPDev
 - Metro
 ---
-![](/wp-content/uploads/2011/10/Windows-Phone-Design-Day.png "Windows Phone Design Day")A Microsoft Portugal agendou para o próximo dia 24 de Outubro um evento especialmente direccionado para programadores e designers de aplicações para Windows Phone!
+![](wp-content/uploads/2011/10/Windows-Phone-Design-Day.png "Windows Phone Design Day")A Microsoft Portugal agendou para o próximo dia 24 de Outubro um evento especialmente direccionado para programadores e designers de aplicações para Windows Phone!
 
 Neste evento vamos poder contar com dois oradores internacionais, [Corrina Black](http://blogs.msdn.com/b/corrinab/) (Senior User Experience Design Lead, Windows Phone Design Studio) e [Arturo Toledo](http://ux.artu.tv/) (Senior User Experience Designer, Windows Phone Design Studio), que em 5 sessões ao logo do dia nos vão mostrar como tirar melhor partido do "Metro" design nas nossas aplicações para criar a melhor experiência possível para os utilizadores finais!
 

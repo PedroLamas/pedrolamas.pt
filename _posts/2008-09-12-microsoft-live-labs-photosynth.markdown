@@ -12,7 +12,7 @@ tags:
 - Photosynth
 - Live Labs
 ---
-[![](/wp-content/uploads/2008/09/photosynth.jpg "Photosynth")](http://photosynth.net)Desde o passado dia 20 de Agosto que tenho vindo a seguir o mais recente programa a sair dos laboratórios da Microsoft, o [Photosynth](http://photosynth.net/)!
+[![](wp-content/uploads/2008/09/photosynth.jpg "Photosynth")](http://photosynth.net)Desde o passado dia 20 de Agosto que tenho vindo a seguir o mais recente programa a sair dos laboratórios da Microsoft, o [Photosynth](http://photosynth.net/)!
 
 Esta "pérola" (passo a expressão!) analisa fotografias digitais para construir uma nuvem tridimensional do objecto fotografado, juntando as várias imagens entre si. Depois, é só navegar pelo cenário construído pelas várias fotos, permitindo mesmo fazer zoom-in e zoom-out de uma ou outra foto específica para melhor ver os seus detalhes!
 

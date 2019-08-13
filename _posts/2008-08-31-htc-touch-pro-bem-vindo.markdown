@@ -10,7 +10,7 @@ categories:
 tags:
 - HTC Touch Pro
 ---
-![](/wp-content/uploads/2008/08/htc-touch-pro.jpg "HTC Touch Pro")Pois é, finalmente lá dei o merecido descanso ao meu O2 XDA Exec, colocando ao serviço o último grito da HTC, o [Touch Pro](/tag/htc-touch-pro/)!
+![](wp-content/uploads/2008/08/htc-touch-pro.jpg "HTC Touch Pro")Pois é, finalmente lá dei o merecido descanso ao meu O2 XDA Exec, colocando ao serviço o último grito da HTC, o [Touch Pro](tag/htc-touch-pro/)!
 
 Nos primeiros dias de utilização, deu para notar a grande diferença que é em termos de velocidade: é como passar de um Fiat para um Ferrari!! :D
 

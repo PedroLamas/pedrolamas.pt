@@ -9,23 +9,23 @@ categories:
 - Geral
 tags: []
 ---
-![Hattrick Gadget Main View](/wp-content/uploads/2007/12/hattrickmain.png)
+![Hattrick Gadget Main View](wp-content/uploads/2007/12/hattrickmain.png)
 
-(Click [here](/projectos/hattrick-gadget-en/) for english description)
+(Click [here](projectos/hattrick-gadget-en/) for english description)
 
 Atenção!
 --------
 
-**Por favor leia [isto](/2009/11/05/hattrick-gadget-r-i-p/) primeiro!!!**
+**Por favor leia [isto](2009/11/05/hattrick-gadget-r-i-p/) primeiro!!!**
 
-[![Concurso de Gadgets 2007 Portugal](/wp-content/uploads/2007/12/gadgetcompetition.jpg)](http://www.gadgetcompetition.com.pt)
+[![Concurso de Gadgets 2007 Portugal](wp-content/uploads/2007/12/gadgetcompetition.jpg)](http://www.gadgetcompetition.com.pt)
 
 O Hattrick Gadget ganhou o segundo prémio no [Concurso de Gadgets 2007 Portugal](http://www.gadgetcompetition.com.pt/pt/pt/GadgetDetail.aspx?g=920887d5-0e41-4e09-97b7-36d85af1598d). A todos os quantos que votaram no meu gadget fica o meu profundo agradecimento. :)
 
 Download
 --------
 
-Última Versão: [0.4.7](/hattrick.aspx?download)
+Última Versão: [0.4.7](projectos/hattrick-gadget/?download)
 
 Change Log
 ----------
@@ -91,19 +91,19 @@ Este é o primeiro Gadget do Hattrick para o Windows Sidebar!!
 
 Em cima podem ver a imagem do ecrã principal do Gadget, mostrando a hora corrente do Hattrick, o tempo para a sua região, o nome da sua equipa e ligações para as vistas da Série, Economia e Jogos! Em baixo podem encontrar informações acerca do próximo encontro que a sua equipa irá jogar, e se este estiver a decorrer, mostra o resultado actual e os correspondentes eventos de jogo!
 
-![Hattrick Gadget Docked View](/wp-content/uploads/2007/12/hattrickdocked.png)
+![Hattrick Gadget Docked View](wp-content/uploads/2007/12/hattrickdocked.png)
 
 Este é o aspecto do gadget quando alojado na Sidebar. Ele mostra toda a informação do ecrã principal, mas de uma forma mais compacta!
 
-![Hattrick Gadget League View](/wp-content/uploads/2007/12/hattrickleague.png)
+![Hattrick Gadget League View](wp-content/uploads/2007/12/hattrickleague.png)
 
 Esta é a Vista da Série. Aqui pode ver os resultados da sua série, com os Golos Marcados, Sofridos, a diferença, e Pontuação!
 
-![Hattrick Gadget Economy View](/wp-content/uploads/2007/12/hattrickeconomy.png)
+![Hattrick Gadget Economy View](wp-content/uploads/2007/12/hattrickeconomy.png)
 
 Esta é a Vista de Economia! Aqui pode ver o seu currente estado financeiro (despesas e receitas) para a sua equipa, incluindo os resultados da passada semana!
 
-![Hattrick Gadget Matches View](/wp-content/uploads/2007/12/hattrickmatches.png)
+![Hattrick Gadget Matches View](wp-content/uploads/2007/12/hattrickmatches.png)
 
 Esta é a Vista de Jogos! Aqui pode ver os últimos encontros jogados e o seu resultado, bem como os próximos jogos agendados! **Aviso:** esta aplicação é uma versão de teste!! Até ver apenas foi testada no meu computador com Windows Vista, e assim sendo pode ainda ter bugs.
 
@@ -130,6 +130,6 @@ Procurando tradutores!!!
 
 Se quer ajudar e contribuir para este projecto, sinta-se livre para traduzir o ficheiro "localization.js" que está na pasta "en/js" ou "pt" e envie-o para mim em [pedrolamas@gmail.com](mailto:pedrolamas@gmail.com)!
 
-![Hattrick CHPP](/wp-content/uploads/2007/12/hattrickchpp.png)
+![Hattrick CHPP](wp-content/uploads/2007/12/hattrickchpp.png)
 
 This application uses information from the online game service Hattrick.org. This use has been approved by the developers and copyright owners of Hattrick.org, Extralives AB

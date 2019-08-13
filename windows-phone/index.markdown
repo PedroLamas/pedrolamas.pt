@@ -9,7 +9,7 @@ date: 2011-09-17 18:46:28.000000000 +01:00
 categories: []
 tags: []
 ---
-* [Conteúdos no blog](/tag/windows-phone/)
+* [Conteúdos no blog](tag/windows-phone/)
 * [Aplicações publicadas](http://www.windowsphone.com/pt-PT/publishers/Pedro%20Lamas)
 * [Cimbalino Windows Phone Toolkit](http://cimbalino.org)
 * [Nokia Lumia 800 skin](nokia-lumia-800-skin)

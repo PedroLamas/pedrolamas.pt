@@ -25,15 +25,15 @@ Para descobrir, instalei cada um deles numa máquina de testes e apontei para o 
 
 ### Microsoft Internet Explorer 9 Final
 
-[![](/wp-content/uploads/2011/03/HTML5-in-Internet-Explorer-9-Thumb.jpg)](/wp-content/uploads/2011/03/HTML5-in-Internet-Explorer-9.jpg "HTML5 in Internet Explorer 9")
+[![](wp-content/uploads/2011/03/HTML5-in-Internet-Explorer-9-Thumb.jpg)](wp-content/uploads/2011/03/HTML5-in-Internet-Explorer-9.jpg "HTML5 in Internet Explorer 9")
 
 ### Mozilla Firefox 4 Final
 
-[![](/wp-content/uploads/2011/03/HTML5-in-Firefox-4-Thumb.jpg)](/wp-content/uploads/2011/03/HTML5-in-Firefox-4.jpg "HTML5 in Firefox 4")
+[![](wp-content/uploads/2011/03/HTML5-in-Firefox-4-Thumb.jpg)](wp-content/uploads/2011/03/HTML5-in-Firefox-4.jpg "HTML5 in Firefox 4")
 
 ### Google Chrome 10
 
-[![](/wp-content/uploads/2011/03/HTML5-in-Chrome-10-Thumb.jpg)](/wp-content/uploads/2011/03/HTML5-in-Chrome-10.jpg "HTML5 in Chrome 10")
+[![](wp-content/uploads/2011/03/HTML5-in-Chrome-10-Thumb.jpg)](wp-content/uploads/2011/03/HTML5-in-Chrome-10.jpg "HTML5 in Chrome 10")
 
 E aqui podemos ver, o Mozilla Firefox 4 e Google Chrome 10 fortemente destacados em relação ao Microsoft Internet Explorer 9, mas ainda assim o Chrome levando a liderança por alguns pontos! :)
 

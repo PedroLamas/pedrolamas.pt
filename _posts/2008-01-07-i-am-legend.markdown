@@ -15,7 +15,7 @@ tags:
 - Sci-Fi
 - Thriller
 ---
-[![I Am Legend](/wp-content/uploads/2008/01/i-am-legend.thumbnail.jpg)](/wp-content/uploads/2008/01/i-am-legend.jpg "I Am Legend")
+[![I Am Legend](wp-content/uploads/2008/01/i-am-legend.thumbnail.jpg)](wp-content/uploads/2008/01/i-am-legend.jpg "I Am Legend")
 
 Ontem tive o prazer de poder ver um dos filmes mais falados dos últimos tempos: [I Am Legend](http://www.imdb.com/title/tt0480249/) (Eu Sou a Lenda).
 

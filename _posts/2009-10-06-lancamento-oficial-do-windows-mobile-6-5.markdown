@@ -15,7 +15,7 @@ tags:
 - tmn bluebelt II
 - tmn silverbelt
 ---
-![Windows Phone](/wp-content/uploads/2009/10/Windows-Phone.jpg "Windows Phone")Um pouco por todo o mundo, está neste momento a decorrer o lançamento oficial do [Windows Mobile 6.5](/tag/windows-mobile-65/) e do [Windows Mobile Marketplace](/tag/windows-mobile-marketplace/)!
+![Windows Phone](wp-content/uploads/2009/10/Windows-Phone.jpg "Windows Phone")Um pouco por todo o mundo, está neste momento a decorrer o lançamento oficial do [Windows Mobile 6.5](tag/windows-mobile-65/) e do [Windows Mobile Marketplace](tag/windows-mobile-marketplace/)!
 
 O ex-libris deste lançamento está a ser o [HTC Pure](http://www.htc.com/us/product/attpure/specification.html), da operadora norte-americana [AT&T](http://www.att.com/), uma excelente máquina que facilmente demonstra o que de novo a Microsoft tem para oferecer com este sistema operativo!
 

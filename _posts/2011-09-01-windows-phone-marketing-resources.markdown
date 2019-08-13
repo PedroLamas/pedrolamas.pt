@@ -14,7 +14,7 @@ tags:
 - WP7
 - Marketing
 ---
-[![](/wp-content/uploads/2011/09/WP_2-line_red_rgb.png "Windows Phone")](http://create.msdn.com/en-us/education/basics/marketing)
+[![](wp-content/uploads/2011/09/WP_2-line_red_rgb.png "Windows Phone")](http://create.msdn.com/en-us/education/basics/marketing)
 
 A Microsoft já oficializou a nova imagem do Windows Phone e disponibilizou as [guidelines e recursos](http://create.msdn.com/en-us/education/basics/marketing) para que os programadores possam utilizar para promover as suas aplicações.
 

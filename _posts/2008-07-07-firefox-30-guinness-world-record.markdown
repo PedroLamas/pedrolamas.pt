@@ -13,7 +13,7 @@ tags:
 - Download Day
 - Guinness
 ---
-[![Firefox 3 Download Day Certificate](/wp-content/uploads/2008/07/firefox-3-download-day-certificate.jpg "Firefox 3 Download Day Certificate")](http://www.spreadfirefox.com/en-US/worldrecord/certificate_form)E não é que conseguiram mesmo??
+[![Firefox 3 Download Day Certificate](wp-content/uploads/2008/07/firefox-3-download-day-certificate.jpg "Firefox 3 Download Day Certificate")](http://www.spreadfirefox.com/en-US/worldrecord/certificate_form)E não é que conseguiram mesmo??
 
 O [Firefox 3.0](http://www.mozilla.com/en-US/firefox/3.0/releasenotes/) é agora a aplicação recordista do maior número de downloads em apenas 24 horas, com 8.002.530 cópias descarregadas.
 

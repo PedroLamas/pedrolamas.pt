@@ -18,7 +18,7 @@ tags:
 - Windows Phone 7
 - 70-599
 ---
-![](/wp-content/uploads/2011/09/PD-Windows-Phone-7-Developer.png "PD: Windows Phone 7 Developer")
+![](wp-content/uploads/2011/09/PD-Windows-Phone-7-Developer.png "PD: Windows Phone 7 Developer")
 
 Apesar de já ter realizado o exame [70-599 PRO: Designing and Developing Windows Phone Applications](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-599) há vários meses atrás, apenas agora a certificação relativa a este ficou activa: **Professional Developer: Windows Phone 7 Developer**!
 

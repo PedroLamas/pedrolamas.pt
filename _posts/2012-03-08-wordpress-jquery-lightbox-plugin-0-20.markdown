@@ -16,7 +16,7 @@ tags:
 ---
 [tab=Português]
 
-Foi lançada uma nova actualização para o [WordPress jQuery Lightbox Plugin](/projectos/jquery-lightbox/), versão 0.20!
+Foi lançada uma nova actualização para o [WordPress jQuery Lightbox Plugin](projectos/jquery-lightbox/), versão 0.20!
 
 Esta versão inclui as seguintes actualizações:
 
@@ -24,7 +24,7 @@ Esta versão inclui as seguintes actualizações:
 
 [tab=English]
 
-A new update to [WordPress jQuery Lightbox Plugin](/projectos/jquery-lightbox-en/), version 0.20, has been lauched!
+A new update to [WordPress jQuery Lightbox Plugin](projectos/jquery-lightbox-en/), version 0.20, has been lauched!
 
 This version includes the following updates:
 

@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - WPDev
 ---
-![](/wp-content/uploads/2011/11/Windows-Phone-App-Code-Camp.png "Windows Phone App Code Camp")
+![](wp-content/uploads/2011/11/Windows-Phone-App-Code-Camp.png "Windows Phone App Code Camp")
 
 A Microsoft Portugal está a preparar para o fim de semana de 16 a 18 de Dezembro o primeiro Windows Phone App Code Camp!
 
@@ -23,4 +23,4 @@ Esta é sem dúvida uma oportunidade única para implementar aquela ideia para u
 
 Estamos a falar de**3 dias no Palmela Village Golf Resort com tudo pago(!), com o acompanhamento do Nuno Silva para fazer essas aplicações realidade!**
 
-Podem ver o anuncio oficial deste evento com mais informações importantes [aqui](/wp-content/uploads/downloads/2011/11/Windows-Phone-App-Code-Camp.pdf).
+Podem ver o anuncio oficial deste evento com mais informações importantes [aqui](wp-content/uploads/downloads/2011/11/Windows-Phone-App-Code-Camp.pdf).

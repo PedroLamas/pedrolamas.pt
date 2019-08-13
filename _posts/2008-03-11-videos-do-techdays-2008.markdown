@@ -12,7 +12,7 @@ tags:
 - Techdays
 - TechdaysPT08
 ---
-[![Techdays 2008 Videos](/wp-content/uploads/2008/03/techdays08_videos.jpg)](http://videos.techdays.pt/)
+[![Techdays 2008 Videos](wp-content/uploads/2008/03/techdays08_videos.jpg)](http://videos.techdays.pt/)
 
 Ainda hoje foi o primeiro dia do evento (com o lançamentos dos novos produtos Microsoft: Visual Studio 2008, SQL Server 2008, Windows Server 2008) e já podemos contar com alguns vídeos do evento disponíveis na Internet!
 

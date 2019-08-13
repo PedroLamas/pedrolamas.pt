@@ -9,7 +9,7 @@ date: 2012-09-10 13:05:51.000000000 +01:00
 categories: []
 tags: []
 ---
-(Clique [aqui](/windows-phone/nokia-lumia-920-skin/) para descrição em português)
+(Clique [aqui](windows-phone/nokia-lumia-920-skin/) para descrição em português)
 
 Download
 --------
@@ -19,9 +19,9 @@ Download
 About
 -----
 
-Following up on my previous [Nokia Lumia 800 skin](/windows-phone/nokia-lumia-800-skin-en/) for Windows Phone emulator, I now bring you my very own Nokia Lumia 920 skin, and the result is what you can see below! :)
+Following up on my previous [Nokia Lumia 800 skin](windows-phone/nokia-lumia-800-skin-en/) for Windows Phone emulator, I now bring you my very own Nokia Lumia 920 skin, and the result is what you can see below! :)
 
-[![](/wp-content/uploads/2012/09/Nokia-Lumia-920-thumb.png "Nokia Lumia 920 skin for Windows Phone Emulator")](/wp-content/uploads/2012/09/Nokia-Lumia-920.png)
+[![](wp-content/uploads/2012/09/Nokia-Lumia-920-thumb.png "Nokia Lumia 920 skin for Windows Phone Emulator")](wp-content/uploads/2012/09/Nokia-Lumia-920.png)
 
 This skin uses hi-res images, and has the following fully working buttons:
 

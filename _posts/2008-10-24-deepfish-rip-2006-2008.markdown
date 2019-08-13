@@ -12,7 +12,7 @@ tags:
 - Windows Mobile
 - Deepfish
 ---
-[![](/wp-content/uploads/2008/10/deepfish.jpg "Deepfish")](http://livelabs.com/deepfish/)O projecto [Deepfish](http://livelabs.com/deepfish/), iniciado em 2006 no [Microsoft Live Labs](http://livelabs.com/), terminou, sem nunca ter chegado a ver a luz do dia!
+[![](wp-content/uploads/2008/10/deepfish.jpg "Deepfish")](http://livelabs.com/deepfish/)O projecto [Deepfish](http://livelabs.com/deepfish/), iniciado em 2006 no [Microsoft Live Labs](http://livelabs.com/), terminou, sem nunca ter chegado a ver a luz do dia!
 
 Segundo a informação que podemos encontrar na página oficial, a equipa que o começou a desenvolver apenas quis provar a teoria de que havia uma grande procura por uma melhor experiência de navegação na Internet, a que na altura não tinha ainda sido dada resposta! Agora, e graças a provas de conceito como a do Deepfish, muitas alternativas emergiram.
 

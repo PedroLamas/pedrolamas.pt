@@ -19,6 +19,6 @@ Para o Wordpress, já existe uma tradução para Português disponível [aqui](h
 
 Após várias tentativas para traduzir o K2 cheguei à conclusão que esta versão RC3 tem demasiados bugs para tratar, e assim tentei uma versão *Nightly Build* (mais propriamente, a revisão 611 disponível [aqui](http://getk2.com/nightly/k2-RC4-revision-611-2007-12-04.zip)) e até ver está a funcionar a 100%!
 
-Para esta versão, podem descarregar o ficheiro de tradução directamente daqui (ainda não está completo, mas para lá caminha!): [pt\_PT.mo](/wp-content/uploads/2007/12/pt_pt.mo "pt_PT.mo")!
+Para esta versão, podem descarregar o ficheiro de tradução directamente daqui (ainda não está completo, mas para lá caminha!): [pt\_PT.mo](wp-content/uploads/2007/12/pt_pt.mo "pt_PT.mo")!
 
 Vamos a aguardar pelos próximos episódios... ;)

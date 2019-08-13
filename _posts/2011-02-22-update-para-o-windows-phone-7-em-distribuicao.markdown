@@ -14,7 +14,7 @@ tags:
 - Windows Phone 7
 - WP7Update
 ---
-[![](/wp-content/uploads/2011/02/First-Windows-Phone-7-Update-available-Thumb.jpg "First Windows Phone 7 Update available Thumb")](/wp-content/uploads/2011/02/First-Windows-Phone-7-Update-available.jpg "First Windows Phone 7 update")
+[![](wp-content/uploads/2011/02/First-Windows-Phone-7-Update-available-Thumb.jpg "First Windows Phone 7 Update available Thumb")](wp-content/uploads/2011/02/First-Windows-Phone-7-Update-available.jpg "First Windows Phone 7 update")
 
 A primeira actualização do Windows Phone 7 está em distribuição neste momento por todo o mundo!
 

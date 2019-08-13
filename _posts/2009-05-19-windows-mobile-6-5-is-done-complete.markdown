@@ -11,7 +11,7 @@ tags:
 - Mobilidade
 - Windows Mobile 6.5
 ---
-[![Windows Mobile 6.5 no meu HTC Touch Pro](/wp-content/uploads/2009/05/Windows-Mobile-6.5-no-meu-HTC-Touch-Pro-150x150.jpg)](/wp-content/uploads/2009/05/Windows-Mobile-6.5-no-meu-HTC-Touch-Pro.jpg "Windows Mobile 6.5 no meu HTC Touch Pro")E foi assim, com um pequeno [post](http://twitter.com/wmdev/status/1797927736) no [Twitter](http://twitter.com/) que a equipa de desenvolvimento do Windows Mobile 6.5 deu a conhecer à comunidade que o seu trabalho estava completo!
+[![Windows Mobile 6.5 no meu HTC Touch Pro](wp-content/uploads/2009/05/Windows-Mobile-6.5-no-meu-HTC-Touch-Pro-150x150.jpg)](wp-content/uploads/2009/05/Windows-Mobile-6.5-no-meu-HTC-Touch-Pro.jpg "Windows Mobile 6.5 no meu HTC Touch Pro")E foi assim, com um pequeno [post](http://twitter.com/wmdev/status/1797927736) no [Twitter](http://twitter.com/) que a equipa de desenvolvimento do Windows Mobile 6.5 deu a conhecer à comunidade que o seu trabalho estava completo!
 
 Apesar de não se tratar de uma confirmação oficial e de ainda não haver qualquer tipo de novidade relativamente a dispositivos com esta nova versão do Windows Mobile, as várias "leaks" tem dado origem a ROM's totalmente funcionais e completas no XDA-Developers.
 

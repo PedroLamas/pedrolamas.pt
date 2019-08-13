@@ -14,7 +14,7 @@ tags:
 - PDC08
 - Azure
 ---
-[![Live Mesh](/wp-content/uploads/2008/11/live-mesh.jpg "Live Mesh")](http://blogs.msdn.com/livemesh/archive/2008/10/30/update-on-installation-of-live-mesh-for-mobile-fixed.aspx)Juntamente com toda a plataforma [Azure](/tag/azure/) que foi apresentada no [PDC](/tag/pdc08/) deste ano, foi introduzido o [Live Mesh](/tag/live-mesh/) para Windows Mobile!
+[![Live Mesh](wp-content/uploads/2008/11/live-mesh.jpg "Live Mesh")](http://blogs.msdn.com/livemesh/archive/2008/10/30/update-on-installation-of-live-mesh-for-mobile-fixed.aspx)Juntamente com toda a plataforma [Azure](tag/azure/) que foi apresentada no [PDC](tag/pdc08/) deste ano, foi introduzido o [Live Mesh](tag/live-mesh/) para Windows Mobile!
 
 Para quem ainda não conhece, o Live Mesh é uma plataforma que permite a sincronização de conteúdos entre diversos dispositivos e sistemas operativos (neste momento permite a ligação entre o Windows, o Mac OS e agora, Windows Mobile).
 

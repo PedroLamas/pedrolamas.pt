@@ -17,6 +17,6 @@ tags:
 - WP7
 - WP7S
 ---
-[![](/wp-content/uploads/2010/02/Techdays-2010.jpg "Microsoft Techdays 2010 Portugal")](http://www.techdays2010.com/Event/Session/Details/windows-phone-session-2)Este é o título final da [minha sessão](http://www.techdays2010.com/Event/Session/Details/windows-phone-session-2) do [Techdays 2010](/tag/techdayspt10/), onde farei a introdução dos programadores ao desenvolvimento com Silverlight no Windows Phone 7!
+[![](wp-content/uploads/2010/02/Techdays-2010.jpg "Microsoft Techdays 2010 Portugal")](http://www.techdays2010.com/Event/Session/Details/windows-phone-session-2)Este é o título final da [minha sessão](http://www.techdays2010.com/Event/Session/Details/windows-phone-session-2) do [Techdays 2010](tag/techdayspt10/), onde farei a introdução dos programadores ao desenvolvimento com Silverlight no Windows Phone 7!
 
-Esperemos apenas que os [contratempos do ano passado](/2009/02/19/conteudos-da-sessao-mob204-do-devdays-2009/) não se venham a verificar-se também este ano! ;)
+Esperemos apenas que os [contratempos do ano passado](2009/02/19/conteudos-da-sessao-mob204-do-devdays-2009/) não se venham a verificar-se também este ano! ;)

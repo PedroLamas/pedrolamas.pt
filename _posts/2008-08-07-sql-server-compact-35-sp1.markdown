@@ -12,7 +12,7 @@ tags:
 - Programação
 - SQL Server Compact 3.5
 ---
-![SQL Server Compact 3.5](/wp-content/uploads/2008/08/sql-server-compact-35.jpg "SQL Server Compact 3.5")
+![SQL Server Compact 3.5](wp-content/uploads/2008/08/sql-server-compact-35.jpg "SQL Server Compact 3.5")
 
 A Microsoft apresentou o Service Pack 1 do SQL Server Compact 3.5, com algumas novidades de grande valor para os programadores!
 

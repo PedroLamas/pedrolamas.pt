@@ -26,5 +26,5 @@ Em resumo, estas são as novidades:
 -   Actualização dos níveis de preços dos vários mercados.
 -   Expansão dos mercados de publicidade até ao final de 2011 (Infelizmente, Portugal não aparece indicado no artigo...)
 -   Distribuição privada de aplicações (Beta Marketplace e Targeted Distribution)
--   Gestão melhorada das aplicações no App Hub (tal como referido num [artigo anterior](/2011/07/19/app-hub-actualizado-com-novas-funcionalidades/))
+-   Gestão melhorada das aplicações no App Hub (tal como referido num [artigo anterior](2011/07/19/app-hub-actualizado-com-novas-funcionalidades/))
 

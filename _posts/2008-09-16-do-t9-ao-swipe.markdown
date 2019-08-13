@@ -11,7 +11,7 @@ tags:
 - Swipe
 - T9
 ---
-[![](/wp-content/uploads/2008/09/swipe.jpg "Swipe")](http://www.swypeinc.com/)Dos autores da escrita inteligente presente em milhões de telemóveis e dispositivos móveis, o T9, chega agora a alternativa: o [Swipe](http://www.swypeinc.com/)!
+[![](wp-content/uploads/2008/09/swipe.jpg "Swipe")](http://www.swypeinc.com/)Dos autores da escrita inteligente presente em milhões de telemóveis e dispositivos móveis, o T9, chega agora a alternativa: o [Swipe](http://www.swypeinc.com/)!
 
 Randy Marsden e Cliff Kushler (co-criador do T9) apresentaram o Swipe com uma impressionante demonstração de como escrever até 50 palavras por minuto!
 

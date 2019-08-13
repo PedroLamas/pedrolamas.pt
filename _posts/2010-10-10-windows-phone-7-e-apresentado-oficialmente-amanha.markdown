@@ -13,7 +13,7 @@ tags:
 - WP7
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2010/10/Windows-Phone-7-Launch.jpg "Windows Phone 7 Launch")](http://www.microsoft.com/presspass/presskits/windowsphone/)
+[![](wp-content/uploads/2010/10/Windows-Phone-7-Launch.jpg "Windows Phone 7 Launch")](http://www.microsoft.com/presspass/presskits/windowsphone/)
 
 A data de 11 de Outubro de 2010 será marcada para sempre como a data de lançamento oficial da versão final do Windows Phone 7!
 

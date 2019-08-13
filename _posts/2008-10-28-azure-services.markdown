@@ -13,7 +13,7 @@ tags:
 - Azure
 - Cloud Computing
 ---
-[caption id="attachment\_349" align="aligncenter" width="470" caption="Azure Services Platform"][![Azure Services Platform](/wp-content/uploads/2008/10/azure-service-platform.jpg "Azure Services Platform")](http://www.microsoft.com/azure/default.mspx)[/caption]
+[caption id="attachment\_349" align="aligncenter" width="470" caption="Azure Services Platform"][![Azure Services Platform](wp-content/uploads/2008/10/azure-service-platform.jpg "Azure Services Platform")](http://www.microsoft.com/azure/default.mspx)[/caption]
 
 E assim ficou finalmente conhecida a tecnologia de "cloud computing" da Microsoft: o [Azure Services](http://www.microsoft.com/azure/default.mspx)!
 

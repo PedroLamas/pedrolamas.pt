@@ -18,7 +18,7 @@ tags:
 - Mango
 - WPDev
 ---
-[![](/wp-content/uploads/2011/08/Silverlight-for-Windows-Phone-Toolkit-Aug-2011.jpg "Silverlight for Windows Phone Toolkit - Aug 2011")](http://silverlight.codeplex.com/releases/view/71550)Foi ontem disponibilizada a actualização de Agosto do [Silverlight for Windows Phone Toolkit](http://silverlight.codeplex.com/releases/view/71550), sendo que esta versão foi criada com base no SDK do Windows Phone "Mango", e como tal não pode ser utilizado com a versão anterior!
+[![](wp-content/uploads/2011/08/Silverlight-for-Windows-Phone-Toolkit-Aug-2011.jpg "Silverlight for Windows Phone Toolkit - Aug 2011")](http://silverlight.codeplex.com/releases/view/71550)Foi ontem disponibilizada a actualização de Agosto do [Silverlight for Windows Phone Toolkit](http://silverlight.codeplex.com/releases/view/71550), sendo que esta versão foi criada com base no SDK do Windows Phone "Mango", e como tal não pode ser utilizado com a versão anterior!
 
 Para além dos controlos e componentes que já existiam nas versões anteriores, podemos agora contar com os seguintes:
 
@@ -39,4 +39,4 @@ Prometido está ainda o lançamento de uma versão compatível com o Windows Pho
 
 Podem ainda ler o [artigo oficial](http://windowsteamblog.com/windows_phone/b/wpdev/archive/2011/08/17/the-silverlight-for-windows-phone-toolkit-is-now-available-for-mango-application-development.aspx) no blog da equipa do Windows Phone e [mais alguma informação](http://www.jeff.wilcox.name/2011/08/august2011phonetoolkit/) no [blog](http://www.jeff.wilcox.name) do Jeff Wilcox, Senior Software Developer na Silverlight Phone & Devices team!
 
-**Nota:** com esta nova versão e com a reconstrução do controlo ListPicker, deixa de ser necessária a alteração que [aqui](/2011/06/02/listpicker-a-cafeina/) coloquei anteriormente para resolver os problemas de scrolling com listas de muitos items!
+**Nota:** com esta nova versão e com a reconstrução do controlo ListPicker, deixa de ser necessária a alteração que [aqui](2011/06/02/listpicker-a-cafeina/) coloquei anteriormente para resolver os problemas de scrolling com listas de muitos items!

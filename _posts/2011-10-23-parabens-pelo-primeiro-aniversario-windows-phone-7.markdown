@@ -14,7 +14,7 @@ tags:
 - WP7
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2011/10/Windows-Phone-Cake-Thumb.png "Windows Phone Cake")](/wp-content/uploads/2011/10/Windows-Phone-Cake.png)Faz hoje um ano que foi lançado o [Windows Phone 7](/tag/windows-phone-7) na Europa, sendo que Portugal foi mesmo um dos primeiros países a comercializar os novos equipamentos móveis com o inovador sistema operativo da Microsoft!
+[![](wp-content/uploads/2011/10/Windows-Phone-Cake-Thumb.png "Windows Phone Cake")](wp-content/uploads/2011/10/Windows-Phone-Cake.png)Faz hoje um ano que foi lançado o [Windows Phone 7](tag/windows-phone-7) na Europa, sendo que Portugal foi mesmo um dos primeiros países a comercializar os novos equipamentos móveis com o inovador sistema operativo da Microsoft!
 
 Muita coisa aconteceu durante este ano, culminando com a consagração do "Metro" design em praticamente todos os produtos Microsoft, incluindo a próxima versão do Windows 8!
 

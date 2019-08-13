@@ -14,13 +14,13 @@ tags:
 - Geosense
 - Localização
 ---
-![](/wp-content/uploads/2012/01/Geosense.png "Geosense")A minha mais recente aplicação para Windows Phone já se encontra disponível: **Geosense**!
+![](wp-content/uploads/2012/01/Geosense.png "Geosense")A minha mais recente aplicação para Windows Phone já se encontra disponível: **Geosense**!
 
-A ideia para esta aplicação tem uma história que está relacionada com o [Windows Phone App Code Camp](/2011/12/22/rescaldo-do-windows-phone-app-code-camp/): a verdade é que quando estava em viagem para o local do evento, acabei por me perder!!!
+A ideia para esta aplicação tem uma história que está relacionada com o [Windows Phone App Code Camp](2011/12/22/rescaldo-do-windows-phone-app-code-camp/): a verdade é que quando estava em viagem para o local do evento, acabei por me perder!!!
 
 Nessa altura, lembrou-me que na página oficial do evento no Facebook, o Miguel Vicente tinha colocado as coordenadas do local, e então tentei recorrer a elas para chegar a bom porto:
 
-![](/wp-content/uploads/2012/01/Coordenadas-GPS-do-Windows-Phone-App-Code-Camp.png "Coordenadas GPS do Windows Phone App Code Camp")
+![](wp-content/uploads/2012/01/Coordenadas-GPS-do-Windows-Phone-App-Code-Camp.png "Coordenadas GPS do Windows Phone App Code Camp")
 
 Infelizmente, tal acabou por não sei possível, dado que elas estavam num formato que não era reconhecido pelo Windows Phone... aparentemente, a aplicação de mapas do Windows Phone apenas aceita coordenadas no formato *Decimal Degrees* (algo mais do tipo "1.2345, 6.7890"), enquanto que as que podem ver acima estão em formato *DMS* (podem ler [aqui](http://en.wikipedia.org/wiki/Geographic_coordinate_conversion) mais sobre estes formatos de coordenadas GPS)!
 
@@ -32,12 +32,12 @@ Do ecrã de resultados é mesmo possível abrir a aplicação de mapas na locali
 
 Incluído está ainda um botão no ecrã principal para que com um simples toque seja possível obter as coordenadas actuais do dispositivo!
 
-Juntamente com o [CTT Objectos](/tag/ctt-objectos/) e [O meu Salário](/tag/o-meu-salario/), esta é já a minha **terceira aplicação gratuita** que lanço no Marketplace!
+Juntamente com o [CTT Objectos](tag/ctt-objectos/) e [O meu Salário](tag/o-meu-salario/), esta é já a minha **terceira aplicação gratuita** que lanço no Marketplace!
 
 Cliquem no seguinte botão para ver mais detalhes e instalar:
 
-[![](/wp-content/uploads/2011/10/Download-EN-Med.png "Geosense")](http://windowsphone.com/s?appid=7ca9cfea-1b92-4ca4-8559-269936d5361e)
+[![](wp-content/uploads/2011/10/Download-EN-Med.png "Geosense")](http://windowsphone.com/s?appid=7ca9cfea-1b92-4ca4-8559-269936d5361e)
 
 Para facilitar, podem utilizar a funcionalidade Bing Vision presente no Search do vosso Windows Phone, e apontar a câmara para a imagem seguinte:
 
-![](/wp-content/uploads/2012/01/Geosense-Tag.png "Geosense Tag")
+![](wp-content/uploads/2012/01/Geosense-Tag.png "Geosense Tag")

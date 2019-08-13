@@ -16,4 +16,4 @@ Tive hoje o prazer de poder testar por breves momentos um dos primeiros **Apple 
 
 O ecrã multitoque e o sensor de posição horizontal/vertical mostraram ser extremamente eficientes e de grande precisão. Tem um peso relativamente baixo para um dispositivo com um ecrã tão generoso, mas ainda tenho algumas dúvidas quanto à autonomia da bateria... há que esperar que esteja desbloqueado para fazer um verdadeiro teste! ;)
 
-[![Apple iPhone](/wp-content/uploads/2007/12/image_00039.thumbnail.jpg)](/wp-content/uploads/2007/12/image_00039.jpg "Apple iPhone")
+[![Apple iPhone](wp-content/uploads/2007/12/image_00039.thumbnail.jpg)](wp-content/uploads/2007/12/image_00039.jpg "Apple iPhone")

@@ -10,7 +10,7 @@ categories:
 tags:
 - Sexta-feira
 ---
-[caption id="attachment\_534" align="alignnone" width="487" caption=""Quando os técnicos de informática sonham""]!["Quando os técnicos de informática sonham"](/wp-content/uploads/2009/02/g112.gif "g112")[/caption]
+[caption id="attachment\_534" align="alignnone" width="487" caption=""Quando os técnicos de informática sonham""]!["Quando os técnicos de informática sonham"](wp-content/uploads/2009/02/g112.gif "g112")[/caption]
 
 Esta semana recebi um e-mail que reflecte o flagelo que actualmente uma pessoa pode passar por ser... o "gajo da informática"!
 

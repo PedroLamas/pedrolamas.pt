@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Mango
 ---
-Se num dia a Microsoft [dava a conhecer](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2011/07/26/windows-phone-mango-released-to-manufacturing.aspx) que tinha terminado o Windows Phone "Mango" ([RTM](/2011/07/27/windows-phone-mango-rtm/) com a build final 7720), no seguinte estava a [actualizar a Beta2](http://windowsteamblog.com/windows_phone/b/wpdev/archive/2011/07/27/wpsdk-beta-2-refresh-for-mango-devs.aspx) do SDK que tinha lançado à umas semanas (disponibilizando a build 7712)!
+Se num dia a Microsoft [dava a conhecer](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2011/07/26/windows-phone-mango-released-to-manufacturing.aspx) que tinha terminado o Windows Phone "Mango" ([RTM](2011/07/27/windows-phone-mango-rtm/) com a build final 7720), no seguinte estava a [actualizar a Beta2](http://windowsteamblog.com/windows_phone/b/wpdev/archive/2011/07/27/wpsdk-beta-2-refresh-for-mango-devs.aspx) do SDK que tinha lançado à umas semanas (disponibilizando a build 7712)!
 
 A actualização é bastante simples, e todo o processo está devidamente descrito na documentação que se encontra no [Microsoft Connect](http://connect.microsoft.com/), juntamente com os ficheiros da actualização em si. Tomem nota de que antes de iniciarem o processo **devem remover o Zune e o "Windows Phone Engeneering Flash Tool" e proceder à instalação das novas versões destas ferramentas!**
 

@@ -89,7 +89,7 @@ public partial class MainPage : PhoneApplicationPage
 
 Depois, lancei o emulador, mudei todas as definições para Português, e este foi o resultado ao executar a aplicação:
 
-[![](/wp-content/uploads/2011/07/LanguageTestApp-original-version.jpg "LanguageTestApp: original version")](/wp-content/uploads/2011/07/LanguageTestApp-original-version.jpg)
+[![](wp-content/uploads/2011/07/LanguageTestApp-original-version.jpg "LanguageTestApp: original version")](wp-content/uploads/2011/07/LanguageTestApp-original-version.jpg)
 
 Ora se o sistema operativo, o CurrentCulture, e o CurrentUICulture estão todos "pt-PT", de onde vem aquele "en-US"?
 
@@ -120,8 +120,8 @@ Uma nota final: para ter o efeito esperado, esta correcção tem de ser efectuad
 
 E aqui está o resultado final:
 
-[![](/wp-content/uploads/2011/07/LanguageTestApp-fixed-version.jpg "LanguageTestApp: fixed version")](/wp-content/uploads/2011/07/LanguageTestApp-fixed-version.jpg)
+[![](wp-content/uploads/2011/07/LanguageTestApp-fixed-version.jpg "LanguageTestApp: fixed version")](wp-content/uploads/2011/07/LanguageTestApp-fixed-version.jpg)
 
 Francamente não sei o porquê deste comportamento, mas é um factor muito importante a ter em conta quando estivermos a pensar em Globalization nas nossas aplicações Windows Phone!
 
-Se quiserem experimentar, podem fazer o [download do código](/wp-content/uploads/2011/07/PedroLamas.LanguageTestApp.zip) que utilizei neste artigo!
+Se quiserem experimentar, podem fazer o [download do código](wp-content/uploads/2011/07/PedroLamas.LanguageTestApp.zip) que utilizei neste artigo!

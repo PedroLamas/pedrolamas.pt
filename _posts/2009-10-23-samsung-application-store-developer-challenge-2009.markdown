@@ -12,7 +12,7 @@ tags:
 - Windows Mobile
 - Samsung
 ---
-[![Samsung Application Store Developer Challenge 2009](/wp-content/uploads/2009/10/Samsung-Application-Store-Developer-Challenge-2009.jpg "Samsung Application Store Developer Challenge 2009")](http://seller.samsungapps.com/login/signIn.as?returnURL=/main/sellerMain.as)
+[![Samsung Application Store Developer Challenge 2009](wp-content/uploads/2009/10/Samsung-Application-Store-Developer-Challenge-2009.jpg "Samsung Application Store Developer Challenge 2009")](http://seller.samsungapps.com/login/signIn.as?returnURL=/main/sellerMain.as)
 
 Numa acção de promoção da sua própria Application Store (mais uma!), a [Samsung](http://www.samsung.com) lançou um concurso de desenvolvimento de aplicações para Windows Mobile (mais um!).
 

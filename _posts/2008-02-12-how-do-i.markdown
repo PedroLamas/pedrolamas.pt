@@ -14,6 +14,6 @@ tags:
 - MSDN
 - How Do I
 ---
-![Microsoft Developers Network](/wp-content/uploads/2008/02/msdn.jpg)A Microsoft tem uma série de tutoriais no MSDN em formato de vídeo intitulados "How Do I", com os quais pretende demonstrar a utilização das suas mais variadas tecnologias. Esta é sem dúvida uma ferramenta muito importante, pois permite ver e ouvir os comentários dos próprios programadores, enquanto fazem as demonstrações.
+![Microsoft Developers Network](wp-content/uploads/2008/02/msdn.jpg)A Microsoft tem uma série de tutoriais no MSDN em formato de vídeo intitulados "How Do I", com os quais pretende demonstrar a utilização das suas mais variadas tecnologias. Esta é sem dúvida uma ferramenta muito importante, pois permite ver e ouvir os comentários dos próprios programadores, enquanto fazem as demonstrações.
 
 A lista completa de vídeos pode ser consultada [aqui](http://msdn2.microsoft.com/en-us/bb629407.aspx)!

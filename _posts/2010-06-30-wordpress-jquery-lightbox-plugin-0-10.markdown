@@ -16,7 +16,7 @@ tags:
 ---
 [tab=Português]
 
-Foi lançada uma nova actualização para o [Wordpress jQuery Lightbox Plugin](/projectos/jquery-lightbox/), versão 0.10!
+Foi lançada uma nova actualização para o [Wordpress jQuery Lightbox Plugin](projectos/jquery-lightbox/), versão 0.10!
 
 Esta versão inclui as seguintes actualizações:
 
@@ -25,7 +25,7 @@ Esta versão inclui as seguintes actualizações:
 
 [tab=English]
 
-A new update to [Wordpress jQuery Lightbox Plugin](/projectos/jquery-lightbox-en/), version 0.10, has been lauched!
+A new update to [Wordpress jQuery Lightbox Plugin](projectos/jquery-lightbox-en/), version 0.10, has been lauched!
 
 This version includes the following updates:
 

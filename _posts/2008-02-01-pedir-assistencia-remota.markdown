@@ -19,4 +19,4 @@ A ideia é permitir que um contacto no Messenger consiga ver o nosso ecrã tal c
 
 Para usarem esta função, basta que na janela de conversação cliquem em "Acções" e depois em "Pedir assistência remota"; a imagem seguinte demonstra exactamente isto!
 
-[![Assistência Remota](/wp-content/uploads/2008/02/remote-assistance.thumbnail.jpg)](/wp-content/uploads/2008/02/remote-assistance.jpg "Assistência Remota")
+[![Assistência Remota](wp-content/uploads/2008/02/remote-assistance.thumbnail.jpg)](wp-content/uploads/2008/02/remote-assistance.jpg "Assistência Remota")

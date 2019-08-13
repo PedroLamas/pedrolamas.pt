@@ -14,7 +14,7 @@ tags:
 - Windows Phone 7
 - Samsung Omnia 7
 ---
-[![](/wp-content/uploads/2010/11/Samsung-Omnia-7-thumb.jpg "Samsung Omnia 7 thumb")](/wp-content/uploads/2010/11/Samsung-Omnia-7.jpg)Desde a passada semana que substituí o meu HTC Touch Pro que tanta alegria sempre me deu (e que está agora [à venda](http://www.pocketpt.net/forum/index.php?showtopic=32130)), por um equipamento Windows Phone 7 novinho em folha, o Samsung Omnia 7!
+[![](wp-content/uploads/2010/11/Samsung-Omnia-7-thumb.jpg "Samsung Omnia 7 thumb")](wp-content/uploads/2010/11/Samsung-Omnia-7.jpg)Desde a passada semana que substituí o meu HTC Touch Pro que tanta alegria sempre me deu (e que está agora [à venda](http://www.pocketpt.net/forum/index.php?showtopic=32130)), por um equipamento Windows Phone 7 novinho em folha, o Samsung Omnia 7!
 
 Segue um pequeno conjunto de prós e contras do novo sistema operativo em conjunto com o Omnia 7, que encontrei ao final de uma semana de uso!
 

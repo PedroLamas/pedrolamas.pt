@@ -13,7 +13,7 @@ tags:
 - Techdays
 - TechdaysPT10
 ---
-[![](/wp-content/uploads/2010/02/Techdays-2010.jpg "Microsoft Techdays 2010 Portugal")](http://www.techdays2010.com/)As notícias em volta da edição do [Microsoft Techdays 2010](http://www.techdays2010.com/) já começaram, e desde já posso avançar com mais algumas:
+[![](wp-content/uploads/2010/02/Techdays-2010.jpg "Microsoft Techdays 2010 Portugal")](http://www.techdays2010.com/)As notícias em volta da edição do [Microsoft Techdays 2010](http://www.techdays2010.com/) já começaram, e desde já posso avançar com mais algumas:
 
 -   Estão neste momento planeadas [5 sessões](http://www.techdays2010.com/Event/Session/Index?track=MOB) dedicadas a Windows Phone
 -   Eu [estarei presente](http://www.techdays2010.com/Event/Speaker/Details/pedro-lamas) para apresentar pelo menos uma delas! :)

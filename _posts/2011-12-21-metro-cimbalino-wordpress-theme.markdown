@@ -14,11 +14,11 @@ tags:
 - Theme
 - Metro
 ---
-![](/wp-content/uploads/2011/12/Metro-Cimbalino-Wordpress-Theme.png "Metro Cimbalino Wordpress Theme")Desde que mudei para o tema que podem ver neste blog, muitas foram as pessoas que me pediram para o disponibilizar!
+![](wp-content/uploads/2011/12/Metro-Cimbalino-Wordpress-Theme.png "Metro Cimbalino Wordpress Theme")Desde que mudei para o tema que podem ver neste blog, muitas foram as pessoas que me pediram para o disponibilizar!
 
 A dada altura, tentei submeter o mesmo ao repositório de temas do [Wordpress.org](http://wordpress.org/extend/themes/), mas tal não foi possível dado que este é um "child-theme" (depende assim de outro tema instalado, o [Twenty Eleven](http://theme.wordpress.com/themes/twentyeleven/)).
 
-Para cumprir (finalmente) com o prometido, [aqui](/wp-content/uploads/downloads/2011/12/Metro-Cimbalino-Wordpress-Theme.zip) está o tema, prontinho para fazer download e instalar!
+Para cumprir (finalmente) com o prometido, [aqui](wp-content/uploads/downloads/2011/12/Metro-Cimbalino-Wordpress-Theme.zip) está o tema, prontinho para fazer download e instalar!
 
 Depois de fazerem download, procedam da seguinte forma para instalar o tema:
 

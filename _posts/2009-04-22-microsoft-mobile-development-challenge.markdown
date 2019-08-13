@@ -12,7 +12,7 @@ tags:
 - Programação
 - Windows Mobile
 ---
-[![Microsoft Windows Mobile](/wp-content/uploads/2009/04/microsoft-windows-mobile.jpg "Microsoft Windows Mobile")](http://www.netsquared.org/microsoft)A Microsoft acaba de lançar um [desafio](http://www.netsquared.org/microsoft) à comunidade para o desenvolvimento de aplicações móveis que vão de encontro às necessidades dos povos nos Países em Desenvolvimento, contribuindo para os objectivos da [United Nations Millennium Development Goals](http://www.mdgmonitor.org/browse_goal.cfm) e assim ajudando na resolução de alguns dos maiores problemas actuais.
+[![Microsoft Windows Mobile](wp-content/uploads/2009/04/microsoft-windows-mobile.jpg "Microsoft Windows Mobile")](http://www.netsquared.org/microsoft)A Microsoft acaba de lançar um [desafio](http://www.netsquared.org/microsoft) à comunidade para o desenvolvimento de aplicações móveis que vão de encontro às necessidades dos povos nos Países em Desenvolvimento, contribuindo para os objectivos da [United Nations Millennium Development Goals](http://www.mdgmonitor.org/browse_goal.cfm) e assim ajudando na resolução de alguns dos maiores problemas actuais.
 
 Um júri constituído por 5 pessoas irá escolher os três vencedores, que iram receber \$15.000, \$10.000 e \$5000 respectivamente, para financiar a investigação e implementação das suas ideias.
 

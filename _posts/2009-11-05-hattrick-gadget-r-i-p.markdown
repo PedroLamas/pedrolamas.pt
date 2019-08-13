@@ -13,9 +13,9 @@ tags:
 - Sidebar
 - CHPP
 ---
-![Hattrick Gadget not working](/wp-content/uploads/2009/11/Hattrick-Gadget-not-working.jpg "Hattrick Gadget not working")[tab=Português]
+![Hattrick Gadget not working](wp-content/uploads/2009/11/Hattrick-Gadget-not-working.jpg "Hattrick Gadget not working")[tab=Português]
 
-Desde o início desta semana que tenho recebido muitas questões relativamente ao [Hattrick Gadget](/projectos/hattrick-gadget/) e ao facto deste, neste momento não estar a funcionar!
+Desde o início desta semana que tenho recebido muitas questões relativamente ao [Hattrick Gadget](projectos/hattrick-gadget/) e ao facto deste, neste momento não estar a funcionar!
 
 Acontece que já há algum tempo que deixei de jogar [Hattrick](http://www.hattrick.org) e como tal, a minha conta foi apagada! Isso não me levanta questão alguma, até porque eu já sabia das regras(!), mas o problema é que eu não contava que a licença do Hattrick Gadget fosse também ela cancelada...
 
@@ -25,7 +25,7 @@ Estou neste momento aberto a sugestões e até mesmo a aceitar a ajuda de algum 
 
 [tab=English]
 
-Since the beginning of this week I have received many questions regarding my [Hattrick Gadget](/projectos/hattrick-gadget-en/) and the fact that it's currently not working!
+Since the beginning of this week I have received many questions regarding my [Hattrick Gadget](projectos/hattrick-gadget-en/) and the fact that it's currently not working!
 
 It just turns out that I stopped playing [Hattrick](http://www.hattrick.org) for a while now, and as such, my account has been deleted! This doesn't raise any issue to me, because I already knew the rules(!), but the problem is that I didn't know that the Hattrick Gadget license would be canceled too...
 

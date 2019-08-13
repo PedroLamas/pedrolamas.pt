@@ -15,7 +15,7 @@ tags:
 - WPDev
 - GitHub
 ---
-[![](/wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org)Está disponível desde ontem o [Cimbalino Windows Phone Toolkit](http://cimbalino.org), as minhas ferramentas pessoais no desenvolvimento de aplicações para Windows Phone!
+[![](wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org)Está disponível desde ontem o [Cimbalino Windows Phone Toolkit](http://cimbalino.org), as minhas ferramentas pessoais no desenvolvimento de aplicações para Windows Phone!
 
 O *toolkit* está dividido por projectos, cada um específico às [capabilities](http://msdn.microsoft.com/en-us/library/ff769509(v=vs.92).aspx#BKMK_Capabilities) disponíveis nas aplicações de Windows Phone.
 

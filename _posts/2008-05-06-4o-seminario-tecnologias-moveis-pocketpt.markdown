@@ -11,7 +11,7 @@ tags:
 - PocketPT
 - Seminário
 ---
-[![4º Seminário Tecnologias Móveis PocketPT](/wp-content/uploads/2008/05/seminario_pocketpt_2008.jpg "seminario_pocketpt_2008")](http://www.mtechseminar.com/2008/)
+[![4º Seminário Tecnologias Móveis PocketPT](wp-content/uploads/2008/05/seminario_pocketpt_2008.jpg "seminario_pocketpt_2008")](http://www.mtechseminar.com/2008/)
 
 Vem ai mais uma edição do Seminário anual do [PocketPT.net](http://www.pocketpt.net)!
 

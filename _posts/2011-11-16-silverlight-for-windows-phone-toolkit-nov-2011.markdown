@@ -17,7 +17,7 @@ tags:
 - Silverlight Toolkit
 - WPDev
 ---
-[![](/wp-content/uploads/2011/11/Silverlight-for-Windows-Phone-Toolkit-Nov-2011.png "Silverlight for Windows Phone Toolkit - Nov 2011")](http://silverlight.codeplex.com/releases/view/75888)Já se encontra disponível a versão de Novembro do [Silverlight for Windows Phone Toolkit](http://silverlight.codeplex.com/releases/view/75888)!
+[![](wp-content/uploads/2011/11/Silverlight-for-Windows-Phone-Toolkit-Nov-2011.png "Silverlight for Windows Phone Toolkit - Nov 2011")](http://silverlight.codeplex.com/releases/view/75888)Já se encontra disponível a versão de Novembro do [Silverlight for Windows Phone Toolkit](http://silverlight.codeplex.com/releases/view/75888)!
 
 A lista completa de novidades e correcções é relativamente extensa, e está disponível num [artigo](http://www.jeff.wilcox.name/2011/11/nov2011phonetoolkit/) do Jeff Wilcox (Senior Software Developer na Silverlight Phone & Devices team).
 

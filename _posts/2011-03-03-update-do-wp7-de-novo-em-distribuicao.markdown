@@ -14,7 +14,7 @@ tags:
 - Windows Phone 7
 - WP7Update
 ---
-[![](/wp-content/uploads/2011/03/First-WP7-update-on-Samsung-Omnia-7-success-Thumb.jpg)](/wp-content/uploads/2011/03/First-WP7-update-on-Samsung-Omnia-7-success.jpg "First WP7 update on Samsung Omnia 7 success")
+[![](wp-content/uploads/2011/03/First-WP7-update-on-Samsung-Omnia-7-success-Thumb.jpg)](wp-content/uploads/2011/03/First-WP7-update-on-Samsung-Omnia-7-success.jpg "First WP7 update on Samsung Omnia 7 success")
 
 Fui à pouco notificado pelo meu Samsung Omnia 7 de que a primeira actualização para o Windows Phone 7 estava novamente disponível, e ao efectuar essa mesma actualização pude confirmar que desta vez a consegui fazer sem qualquer problema ou dificuldade!
 

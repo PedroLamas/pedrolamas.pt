@@ -14,7 +14,7 @@ tags:
 - WP7
 - Nokia Lumia 800
 ---
-[![](/wp-content/uploads/2011/12/Nokia-Lumia-800-thumb.png "Nokia Lumia 800")](/wp-content/uploads/2011/12/Nokia-Lumia-800.png)Faz pouco mais de um ano que escrevi um artigo semelhante a este sobre a minha experiência pessoal com o [Samsung Omnia 7 ao fim de uma semana de uso](/2010/11/17/eu-e-o-meu-samsung-omnia-7-uma-semana-depois/); dado que actualmente passei a utilizar um [Nokia Lumia 800](http://www.nokia.co.uk/gb-en/products/phone/lumia800/), pareceu-me adequado escrever um pouco sobre este fantástico equipamento!
+[![](wp-content/uploads/2011/12/Nokia-Lumia-800-thumb.png "Nokia Lumia 800")](wp-content/uploads/2011/12/Nokia-Lumia-800.png)Faz pouco mais de um ano que escrevi um artigo semelhante a este sobre a minha experiência pessoal com o [Samsung Omnia 7 ao fim de uma semana de uso](2010/11/17/eu-e-o-meu-samsung-omnia-7-uma-semana-depois/); dado que actualmente passei a utilizar um [Nokia Lumia 800](http://www.nokia.co.uk/gb-en/products/phone/lumia800/), pareceu-me adequado escrever um pouco sobre este fantástico equipamento!
 
 O que salta mesmo à primeira vista no Lumia 800 é o seu ecrã AMOLED curvado, com tecnologia Gorilla Glass, que o torna praticamente à prova de riscos! O design do equipamento é fabuloso e os materiais do corpo parecem ser de grande qualidade.
 

@@ -16,7 +16,7 @@ tags:
 - Windows Phone 7
 - Silverlight Toolkit
 ---
-[![](/wp-content/uploads/2010/11/Silverlight-Toolkit.jpg "Silverlight Toolkit")](http://silverlight.codeplex.com/releases/view/60291)Foi publicada mais uma [actualização](http://silverlight.codeplex.com/releases/view/60291) ao Silverlight for Windows Phone Toolkit, e de entre os vários melhoramentos e correcções, apresenta ainda as seguintes novidades:
+[![](wp-content/uploads/2010/11/Silverlight-Toolkit.jpg "Silverlight Toolkit")](http://silverlight.codeplex.com/releases/view/60291)Foi publicada mais uma [actualização](http://silverlight.codeplex.com/releases/view/60291) ao Silverlight for Windows Phone Toolkit, e de entre os vários melhoramentos e correcções, apresenta ainda as seguintes novidades:
 
 -   **TiltEffect**
 -   **PerformanceProgressBar**

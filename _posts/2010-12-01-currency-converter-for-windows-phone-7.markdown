@@ -18,7 +18,7 @@ tags:
 - Marketplace
 - Currency Converter
 ---
-Já está publicado no [Coding4Fun](http://blogs.msdn.com/b/coding4fun/) o meu [artigo](http://blogs.msdn.com/b/coding4fun/archive/2010/11/30/10098706.aspx) sobre o desenvolvimento do [Currency Converter](/tag/currency-converter/), uma simples aplicação de conversão de moedas para o Windows Phone 7, utilizando por base o [Bing](http://www.bing.com) para fazer os câmbios!
+Já está publicado no [Coding4Fun](http://blogs.msdn.com/b/coding4fun/) o meu [artigo](http://blogs.msdn.com/b/coding4fun/archive/2010/11/30/10098706.aspx) sobre o desenvolvimento do [Currency Converter](tag/currency-converter/), uma simples aplicação de conversão de moedas para o Windows Phone 7, utilizando por base o [Bing](http://www.bing.com) para fazer os câmbios!
 
 O [código-fonte](http://currency.codeplex.com/) está disponível no [Codeplex](http://www.codeplex.com/), e a aplicação completa pode ser instalada através do [Zune Marketplace](http://social.zune.net/redirect?type=phoneApp&id=e01bf520-cfe6-df11-a844-00237de2db9e).
 
@@ -53,7 +53,7 @@ A Microsoft fez um trabalho absolutamente incrível com o Windows Phone 7, dando
 
 Vejamos o que acontece quando abro o Bing no meu Internet Explorer, e pesquisar por algo como "1 US Dollar in Euros":
 
-[![](/wp-content/uploads/2010/12/Using-Bing-to-exchange-currencies-thumb.jpg)](/wp-content/uploads/2010/12/Using-Bing-to-exchange-currencies.jpg "Utilizar o Bing para efectuar câmbios")
+[![](wp-content/uploads/2010/12/Using-Bing-to-exchange-currencies-thumb.jpg)](wp-content/uploads/2010/12/Using-Bing-to-exchange-currencies.jpg "Utilizar o Bing para efectuar câmbios")
 
 Como podem verificar, o Bing entendeu perfeitamente a minha questão, e sabia que eu estava a procurar uma taxa de câmbio. Aí então o MSN Money fez o câmbio e apresentado o resultado.
 
@@ -63,7 +63,7 @@ http://www.bing.com/search?q=**1+US+Dollar+in+Euros**&go=&form=QBRE&qs=n&sk=&sc=
 
 OK, mas como podemos nós usar isso para alimentar a nossa aplicação WP7? Abram o Internet Explorer Developer Tools (no IE8 ou superior, basta carregar em F12), escolham a opção "Select element by click" (Ctrl + B) e cliquem sobre o resultado na página para ver o código HTML. O resultado será algo como isto:
 
-[![](/wp-content/uploads/2010/12/Using-IE-Developer-Tools-thumb.jpg)](/wp-content/uploads/2010/12/Using-IE-Developer-Tools.jpg "Utilizando o IE Developer Tools")
+[![](wp-content/uploads/2010/12/Using-IE-Developer-Tools-thumb.jpg)](wp-content/uploads/2010/12/Using-IE-Developer-Tools.jpg "Utilizando o IE Developer Tools")
 
 Agora já sabemos como fazer um pedido ao Bing para fazer câmbios (usando "http://www.bing.com/search?q=**{VALUE}**+**{SOURCE\_CURRENCY}**+in+**{DESTINATION\_CURRENCY}**&go=&form=QBRE&qs=n&sk=&sc=1-20") e também como encontrar os resultados no HTML devolvido (procurando por "\<span class="sc\_bigLine"\>**RESULT**\</span\>").
 
@@ -87,7 +87,7 @@ Basicamente, o objectivo é separar claramente a interface de utilizador de toda
 
 Podemos resumir o padrão MVVM com este esquema:
 
-[![](/wp-content/uploads/2010/12/The-MVVM-pattern.jpg)](/wp-content/uploads/2010/12/The-MVVM-pattern.jpg "O padrão MVVM")
+[![](wp-content/uploads/2010/12/The-MVVM-pattern.jpg)](wp-content/uploads/2010/12/The-MVVM-pattern.jpg "O padrão MVVM")
 
 A View (Vista) é o XAML que serve de base à interface de utilizador (embora às vezes ele possa ter um ficheiro de C\# anexado) e que vai utilizar a fonte de dados para ler e alterar as propriedades da ViewModel e Actions para invocar os métodos.
 
@@ -107,7 +107,7 @@ Podem ler mais sobre MVVM por toda a internet, mas há um artigo de Shawn Wilder
 
 Vamos começar na parte mais abaixo (também conhecido por, The Model) e, para tal criei as seguintes interfaces de apoio ao nosso modelo de dados:
 
-[![](/wp-content/uploads/2010/12/Base-interfaces.jpg)](/wp-content/uploads/2010/12/Base-interfaces.jpg "Interfaces base")
+[![](wp-content/uploads/2010/12/Base-interfaces.jpg)](wp-content/uploads/2010/12/Base-interfaces.jpg "Interfaces base")
 
 ```csharp
 using System;
@@ -144,7 +144,7 @@ Temos também uma implementação básica da interface ICurrency chamada BingCur
 
 Esta é a implementação da classe abstracta CurrencyExchangeServiceBase:
 
-[![](/wp-content/uploads/2010/12/BingCurrency-classes.jpg)](/wp-content/uploads/2010/12/BingCurrency-classes.jpg "Classes de suporte ao BingCurrency")
+[![](wp-content/uploads/2010/12/BingCurrency-classes.jpg)](wp-content/uploads/2010/12/BingCurrency-classes.jpg "Classes de suporte ao BingCurrency")
 
 ```csharp
 public abstract class CurrencyExchangeServiceBase : ICurrencyExchangeService
@@ -427,7 +427,7 @@ Depois, mudamos controle raiz "ContentPanel" de uma Grid para um StackPanel, e a
 
 E aqui está como ela vai aparecer:
 
-[![](/wp-content/uploads/2010/12/Main-user-interface.jpg)](/wp-content/uploads/2010/12/Main-user-interface.jpg "Interface do Utilizador")
+[![](wp-content/uploads/2010/12/Main-user-interface.jpg)](wp-content/uploads/2010/12/Main-user-interface.jpg "Interface do Utilizador")
 
 Repararam no Style CurrencyListPicker que foi aplicado nos dois controlos ListPicker no código acima? Aqui está ele:
 

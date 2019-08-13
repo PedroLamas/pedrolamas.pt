@@ -18,9 +18,9 @@ tags:
 ---
  
 
-[![](/wp-content/uploads/2012/01/App-Me-Up.png "App Me Up")](https://www.app-me-up.com/)
+[![](wp-content/uploads/2012/01/App-Me-Up.png "App Me Up")](https://www.app-me-up.com/)
 
-Depois do estrondoso sucesso do [Windows Phone App Code Camp](/2011/12/22/rescaldo-do-windows-phone-app-code-camp/) em Dezembro passado, a Microsoft apresenta mais uma iniciativa de promoção ao desenvolvimento para Windows Phone: [App Me Up](https://www.app-me-up.com/)!
+Depois do estrondoso sucesso do [Windows Phone App Code Camp](2011/12/22/rescaldo-do-windows-phone-app-code-camp/) em Dezembro passado, a Microsoft apresenta mais uma iniciativa de promoção ao desenvolvimento para Windows Phone: [App Me Up](https://www.app-me-up.com/)!
 
 Numa página muito completa, reuniu toda a informação necessária para ajudar aqueles que querem desenvolver aplicações para Windows Phone, independentemente de serem iniciados ou profissionais: o software necessário, a documentação e vários tutoriais e vídeos de aprendizagem, a informação relativa à publicação no Marketplace (até mesmo informação para quem pretender publicar as suas aplicações, mas que ainda não tem conta no [AppHub](http://create.msdn.com/en-US/)), e a projecção das aplicações feitas em Portugal! :)
 

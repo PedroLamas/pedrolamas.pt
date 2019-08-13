@@ -14,7 +14,7 @@ tags:
 - Windows Mobile 6.5
 - Windows Mobile Widgets
 ---
-![Windows Mobile Widgets Part 3](/wp-content/uploads/2009/11/Windows-Mobile-Widgets-Part-3.jpg "Windows Mobile Widgets Part 3")Em mais um artigo da série sobre desenvolvimento de [Windows Mobile Widgets](/tag/windows-mobile-widgets/), hoje venho falar sobre o seu modelo de objectos (object model) de Javascript.
+![Windows Mobile Widgets Part 3](wp-content/uploads/2009/11/Windows-Mobile-Widgets-Part-3.jpg "Windows Mobile Widgets Part 3")Em mais um artigo da série sobre desenvolvimento de [Windows Mobile Widgets](tag/windows-mobile-widgets/), hoje venho falar sobre o seu modelo de objectos (object model) de Javascript.
 
 Voltando ao essencial, um Widget é apenas HTML + CSS + Javascript... sendo o HTML e o CSS utilizado para o desenho da interface, o Javascript serve para a implementação da lógica e programação do Widget.
 
@@ -46,13 +46,13 @@ Esta é a definição do objecto *widget*:
 
     -   **onShow** - Ocorre ao focar a janela do Widget
 
-Para efeito de exemplo, vamos utilizar novamente o nosso "Hello World" (a versão [deste](/2009/08/21/windows-mobile-widgets-parte-2/) post), e fazer com que este apresente no ecrã principal o seu nome e versão, alterando para isso o ficheiro *default.htm*:
+Para efeito de exemplo, vamos utilizar novamente o nosso "Hello World" (a versão [deste](2009/08/21/windows-mobile-widgets-parte-2/) post), e fazer com que este apresente no ecrã principal o seu nome e versão, alterando para isso o ficheiro *default.htm*:
 
 [html highlight="8,14"]\<html\> \<head\> \<title\>Hello World\</title\> \<script type="text/javascript" src="resources.js"\>\</script\> \<script type="text/javascript"\> window.onload = function() { HelloWorldLabel.innerText = Resources.HelloWorldText; WidgetInformation.innerText = widget.name + " v" + widget.version; }; \</script\> \</head\> \<body\> \<p id="HelloWorldLabel"\>\</p\> \<p id="WidgetInformation"\>\</p\> \</body\> \</html\>[/html]
 
 Abrindo o Widget no emulador, o resultado deverá ser como a seguinte imagem:
 
-![Hello World Widget with identification](/wp-content/uploads/2009/11/Hello-World-Widget-with-identification.jpg "Hello World Widget with identification")
+![Hello World Widget with identification](wp-content/uploads/2009/11/Hello-World-Widget-with-identification.jpg "Hello World Widget with identification")
 
 Como pudemos ver acima, existem ainda pelo menos mais dois objectos: o *WidgetIcon* e o *Menu*.
 
@@ -93,6 +93,6 @@ var menu = widget.menu; var aboutMenuItem = menu.createMenuItem(1001); aboutMenu
 
 A imagem seguinte mostrar o resultado obtido; reparem bem na tecla (soft key) da esquerda:
 
-![Hello World Widget custom Menu](/wp-content/uploads/2009/11/Hello-World-Widget-custom-Menu.jpg "Hello World Widget custom Menu")
+![Hello World Widget custom Menu](wp-content/uploads/2009/11/Hello-World-Widget-custom-Menu.jpg "Hello World Widget custom Menu")
 
-Podem [aqui](/2009/11/13/windows-mobile-widgets-parte-4/hello-world-2/) encontrar o ficheiro "Hello World.wgt" com o resultado das alterações... e até à próxima! :)
+Podem [aqui](2009/11/13/windows-mobile-widgets-parte-4/hello-world-2/) encontrar o ficheiro "Hello World.wgt" com o resultado das alterações... e até à próxima! :)

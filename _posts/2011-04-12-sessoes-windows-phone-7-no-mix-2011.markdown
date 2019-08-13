@@ -16,7 +16,7 @@ tags:
 - WP7Dev
 - MIX11
 ---
-[![](/wp-content/uploads/2011/04/MIX11.jpg "MIX11")](http://live.visitmix.com/)Dentro de algumas horas vai começar mais um MIX, sendo a abertura a cargo do [Dean Hachamovitch](http://www.microsoft.com/presspass/exec/Hachamovitch/) (Internet Explorer), [Joe Belfiore](http://www.microsoft.com/presspass/exec/joeb/) (Windows Phone), e do [Scott Guthrie](http://www.microsoft.com/presspass/exec/guthrie/) (.NET Developer Platform).
+[![](wp-content/uploads/2011/04/MIX11.jpg "MIX11")](http://live.visitmix.com/)Dentro de algumas horas vai começar mais um MIX, sendo a abertura a cargo do [Dean Hachamovitch](http://www.microsoft.com/presspass/exec/Hachamovitch/) (Internet Explorer), [Joe Belfiore](http://www.microsoft.com/presspass/exec/joeb/) (Windows Phone), e do [Scott Guthrie](http://www.microsoft.com/presspass/exec/guthrie/) (.NET Developer Platform).
 
 Para quem não está presente, as keynotes serão [transmitidas ao vivo](http://live.visitmix.com/) através da Internet!
 

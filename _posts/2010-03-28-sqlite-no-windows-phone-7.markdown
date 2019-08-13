@@ -17,7 +17,7 @@ tags:
 - WP7S
 - SQLite
 ---
-[![](/wp-content/uploads/2010/03/SQLite-on-Windows-Phone-7.jpg "SQLite on Windows Phone 7")](http://sviluppomobile.blogspot.com/2010/03/sqlite-for-wp-7-series-proof-of-concept.html)Quando as ferramentas de desenvolvimento para Windows Phone 7 foram apresentadas pela Microsoft, os programadores foram apanhados de surpresa com a notícia de que o suporte para base de dados seria inexistente, pelo que todos os dados teriam que ser guardados na Isolated Storage da aplicação (XML ou outro), ou via internet (Cloud?)!
+[![](wp-content/uploads/2010/03/SQLite-on-Windows-Phone-7.jpg "SQLite on Windows Phone 7")](http://sviluppomobile.blogspot.com/2010/03/sqlite-for-wp-7-series-proof-of-concept.html)Quando as ferramentas de desenvolvimento para Windows Phone 7 foram apresentadas pela Microsoft, os programadores foram apanhados de surpresa com a notícia de que o suporte para base de dados seria inexistente, pelo que todos os dados teriam que ser guardados na Isolated Storage da aplicação (XML ou outro), ou via internet (Cloud?)!
 
 Mas agora [Dan Aldelean](http://sviluppomobile.blogspot.com/) mostrou numa [prova de conceito](http://sviluppomobile.blogspot.com/2010/03/sqlite-for-wp-7-series-proof-of-concept.html) que é possível utilizar o [SQLite](http://www.sqlite.org/) dentro de uma aplicação Silverlight no Windows Phone 7!
 

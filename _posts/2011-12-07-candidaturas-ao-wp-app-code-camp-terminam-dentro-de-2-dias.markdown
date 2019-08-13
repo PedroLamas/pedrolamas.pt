@@ -19,7 +19,7 @@ tags:
 
 Relembro: 3 dias (de 16 a 18 de Dezembro), no Palmela Village Golf Resort com tudo pago(!), para terem todo o tempo e apoio para concretizarem aquela ideia que tiveram para uma aplicação no Windows Phone!
 
-Para quem não viu anteriormente o [anúncio do evento](/2011/11/28/windows-phone-app-code-camp/), aqui tem a informação sobre o registo:
+Para quem não viu anteriormente o [anúncio do evento](2011/11/28/windows-phone-app-code-camp/), aqui tem a informação sobre o registo:
 
 *O registo no WP7 App Code Camp é **gratuito** (yup!), e porque as vagas são muito, muito limitadas, para assegurar o teu lugar deverás **enviar um e-mail até 9 de Dezembro para [t-andma@microsoft.com](mailto:t-andma@microsoft.com)** e provar que tu, ou a tua equipa, merecem uma vaga. Como? Basta que no e-mail incluas as seguintes informações:*
 

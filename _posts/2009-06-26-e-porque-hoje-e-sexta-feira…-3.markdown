@@ -11,7 +11,7 @@ tags:
 - Sexta-feira
 - Michael Jackson
 ---
-[![Michael Jackson - Thriller](/wp-content/uploads/2009/06/Michael-Jackson-Thriller.jpg "Michael Jackson - Thriller")](http://en.wikipedia.org/wiki/Michael_Jackson)
+[![Michael Jackson - Thriller](wp-content/uploads/2009/06/Michael-Jackson-Thriller.jpg "Michael Jackson - Thriller")](http://en.wikipedia.org/wiki/Michael_Jackson)
 
 Morreu ontem aquele que será para sempre lembrado como o Rei da Música Pop: o coração de Michael Jackson deixou de bater aos 50 anos, a alguns dias de começar uma nova *tour* de concertos.
 

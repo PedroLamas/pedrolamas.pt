@@ -12,4 +12,4 @@ tags:
 ---
 Pois é, "vendi-me" ao WordPress para começar uma nova fase do meu site... Neste momento ainda há muita coisa por fazer, por isso o melhor é voltar mais tarde! :)
 
-No caso de andarem à procura do **Hattrick Gadget**, podem encontrar o mesmo [aqui](/wp-admin/hattrick.aspx "Hattrick Gadget")!
+No caso de andarem à procura do **Hattrick Gadget**, podem encontrar o mesmo [aqui](projectos/hattrick-gadget/ "Hattrick Gadget")!

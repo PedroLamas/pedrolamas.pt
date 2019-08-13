@@ -18,9 +18,9 @@ tags:
 - Windows 8
 - App Day
 ---
-[![](/wp-content/uploads/2012/03/Microsoft@Porto-App-Day.png "Microsoft@Porto - App Day")](https://www.facebook.com/AppDay)
+[![](wp-content/uploads/2012/03/Microsoft@Porto-App-Day.png "Microsoft@Porto - App Day")](https://www.facebook.com/AppDay)
 
-No passado mês de Fevereiro foi apresentado na Mobile World Conference a versão [Consumer Preview do Windows 8](/2012/03/01/windows-8-consumer-preview/), estando desde o dia 29 de Fevereiro disponível para download.
+No passado mês de Fevereiro foi apresentado na Mobile World Conference a versão [Consumer Preview do Windows 8](2012/03/01/windows-8-consumer-preview/), estando desde o dia 29 de Fevereiro disponível para download.
 
 No seguimento deste anuncio, o [App Day](https://www.facebook.com/AppDay) dá a conhecer melhor esta plataforma, a oportunidade existente no desenvolvimento de aplicações para a Windows Store, e a conhecer como desenvolver aplicações Metro.
 

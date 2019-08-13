@@ -13,7 +13,7 @@ tags:
 - Apple
 - RIP
 ---
-[![](/wp-content/uploads/2011/10/RIP-Steve-Jobs.png "RIP Steve Jobs")](http://en.wikipedia.org/wiki/Steve_Jobs)
+[![](wp-content/uploads/2011/10/RIP-Steve-Jobs.png "RIP Steve Jobs")](http://en.wikipedia.org/wiki/Steve_Jobs)
 
 Por todo o mundo são prestadas homenagens a um dos maiores visionários do nosso tempo, no momento da sua morte.
 

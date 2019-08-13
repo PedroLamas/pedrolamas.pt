@@ -18,7 +18,7 @@ tags:
 - Marketplace
 - Currency Converter
 ---
-Algumas semanas atrás foi publicado no [Channel9](http://channel9.msdn.com/) o meu [segundo artigo](http://channel9.msdn.com/coding4fun/articles/Currency-Converter-v2--Now-on-Caffeine) para o Coding4Fun, sobre a versão 2 do [Currency Converter](/tag/currency-converter/)!
+Algumas semanas atrás foi publicado no [Channel9](http://channel9.msdn.com/) o meu [segundo artigo](http://channel9.msdn.com/coding4fun/articles/Currency-Converter-v2--Now-on-Caffeine) para o Coding4Fun, sobre a versão 2 do [Currency Converter](tag/currency-converter/)!
 
 Este é esse mesmo artigo, agora traduzido para Português e com algumas correcções à mistura! :)
 
@@ -64,7 +64,7 @@ Para além disso, o MSN Money fornece uma página onde podemos ver as taxas de c
 
 [http://moneycentral.msn.com/investor/market/exchangerates.aspx](http://moneycentral.msn.com/investor/market/exchangerates.aspx)
 
-[![](/wp-content/uploads/2011/05/Taxas-de-Câmbio-para-USD-no-MSN-Money-Thumb.jpg)](/wp-content/uploads/2011/05/Taxas-de-Câmbio-para-USD-no-MSN-Money.jpg "Taxas de Câmbio para USD no MSN Money")
+[![](wp-content/uploads/2011/05/Taxas-de-Câmbio-para-USD-no-MSN-Money-Thumb.jpg)](wp-content/uploads/2011/05/Taxas-de-Câmbio-para-USD-no-MSN-Money.jpg "Taxas de Câmbio para USD no MSN Money")
 
 Como podem ver aqui, temos todos os dados que precisamos para converter de X para USD e de USD para X, e até conseguimos converter de X para USD para Y.
 
@@ -72,7 +72,7 @@ Então, porque não obter todos estes dados num único pedido, fazer cache deles
 
 Tal como anteriormente, vamos obter os dados que precisamos directamente do HTML da página utilizando expressões regulares (Regular Expressions). Para isso, abram o Internet Explorer Develop Tools (carreguem em F12), utilizem a ferramenta "Seleccionar elemento por click" (Ctrl + B), e cliquem sobre o texto "Argentine Peso"; deverão obter algo similar a esta imagem:
 
-[![](/wp-content/uploads/2011/05/Utilizando-o-IE-Developer-Tools-Thumb.jpg)](/wp-content/uploads/2011/05/Utilizando-o-IE-Developer-Tools.jpg "Utilizando o IE Developer Tools")
+[![](wp-content/uploads/2011/05/Utilizando-o-IE-Developer-Tools-Thumb.jpg)](wp-content/uploads/2011/05/Utilizando-o-IE-Developer-Tools.jpg "Utilizando o IE Developer Tools")
 
 Utilizando a informação acima, conseguimos facilmente detectar um padrão no código:
 
@@ -100,7 +100,7 @@ Aqui estão as modificações que vamos precisar de fazer no nosso Model de form
 
 E aqui está todo o modelo de classes completo, com as alterações marcadas:
 
-[![](/wp-content/uploads/2011/05/Interfaces-base-Thumb.jpg)](/wp-content/uploads/2011/05/Interfaces-base.jpg "Interfaces base")
+[![](wp-content/uploads/2011/05/Interfaces-base-Thumb.jpg)](wp-content/uploads/2011/05/Interfaces-base.jpg "Interfaces base")
 
 [code language="csharp" highlight="7,11,18,20,32,33,34,35,36,37"] using System;
 
@@ -136,7 +136,7 @@ Foi ainda adicionada uma nova interface chamada ICachedExchangeRatesUpdateResult
 
 Vamos agora ver a implementação das interfaces:
 
-[![](/wp-content/uploads/2011/05/Classes-de-suporte-ao-MsnMoneyV2CurrencyExchangeService-Thumb.jpg)](/wp-content/uploads/2011/05/Classes-de-suporte-ao-MsnMoneyV2CurrencyExchangeService.jpg "Classes de suporte ao MsnMoneyV2CurrencyExchangeService")
+[![](wp-content/uploads/2011/05/Classes-de-suporte-ao-MsnMoneyV2CurrencyExchangeService-Thumb.jpg)](wp-content/uploads/2011/05/Classes-de-suporte-ao-MsnMoneyV2CurrencyExchangeService.jpg "Classes de suporte ao MsnMoneyV2CurrencyExchangeService")
 
 A primeira novidade é que agora temos uma classe abstracta chamada CurrencyBase. É desta classe que vamos estender a classe MsnMoneyCurrency, adicionando uma simples propriedade Id para guardar o valor numérico do identificador da moeda encontrado no MSN Money.
 

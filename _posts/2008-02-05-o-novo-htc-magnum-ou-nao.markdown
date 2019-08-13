@@ -14,7 +14,7 @@ tags:
 - Fake
 - Carnaval
 ---
-[![HTC Magnum](/wp-content/uploads/2008/02/htc_magnum.thumbnail.jpg)](/wp-content/uploads/2008/02/htc_magnum.jpg "HTC Magnum")
+[![HTC Magnum](wp-content/uploads/2008/02/htc_magnum.thumbnail.jpg)](wp-content/uploads/2008/02/htc_magnum.jpg "HTC Magnum")
 
 Pois é, este ano o PocketPT.net decidiu entrar na brincadeira de carnaval e então lançamos um dos maiores (e bota grande nisso!) "fakes" que conseguimos pensar!!
 

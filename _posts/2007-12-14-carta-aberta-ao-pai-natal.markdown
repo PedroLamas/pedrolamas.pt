@@ -13,7 +13,7 @@ tags:
 - Carta
 - Prendas
 ---
-![Pai Natal a ler as cartas de Natal](/wp-content/uploads/2007/12/23465837.jpg)Caro Nicolau,
+![Pai Natal a ler as cartas de Natal](wp-content/uploads/2007/12/23465837.jpg)Caro Nicolau,
 
 Espero que esteja tudo bem contigo e com a tua esposa e que as renas andem bem e de boa saúde!
 

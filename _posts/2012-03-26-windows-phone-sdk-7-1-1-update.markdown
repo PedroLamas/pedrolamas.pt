@@ -17,7 +17,7 @@ tags:
 ---
 Já se encontra disponível para download o [Windows Phone SDK 7.1.1 Update](http://www.microsoft.com/download/en/details.aspx?id=29233).
 
-Tratando-se apenas de uma actualização da [versão 7.1](/2011/09/29/windows-phone-sdk-7-1-rtw/) lançada em Setembro do ano passado, as novidade prendem-se com o suporte para os equipamentos com 256MB de memória, e a compatibilidade com o Windows 8 RC!
+Tratando-se apenas de uma actualização da [versão 7.1](2011/09/29/windows-phone-sdk-7-1-rtw/) lançada em Setembro do ano passado, as novidade prendem-se com o suporte para os equipamentos com 256MB de memória, e a compatibilidade com o Windows 8 RC!
 
 Esta é uma actualização é aconselhada a todos os programadores, pois vai permitir testar o comportamento das aplicações num (novo) emulador específico que simula equipamentos com menos memória, antes mesmo de as submeter ao Marketplace!
 

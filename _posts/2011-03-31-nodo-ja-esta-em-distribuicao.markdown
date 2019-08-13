@@ -15,7 +15,7 @@ tags:
 - WP7Update
 - NoDo
 ---
-A segunda actualização ao Windows Phone 7 (com o nome de código NoDo) está já em distribuição, mas tal como se sucedeu aconteceu com a [primeira actualização](/2011/02/22/update-para-o-windows-phone-7-em-distribuicao/), também esta não passa incólume de [problemas](/2011/02/23/update-do-wp7-desactivado-para-samsungs/)...
+A segunda actualização ao Windows Phone 7 (com o nome de código NoDo) está já em distribuição, mas tal como se sucedeu aconteceu com a [primeira actualização](2011/02/22/update-para-o-windows-phone-7-em-distribuicao/), também esta não passa incólume de [problemas](2011/02/23/update-do-wp7-desactivado-para-samsungs/)...
 
 A situação é que, apesar da Microsoft ter dado a actualização por "pronta para distribuição" no passado dia, esta está agora dependente da "boa vontade" dos operadores, que são os responsáveis pela fase final de testes antes da verdadeira distribuição; resultado: a maior parte dos equipamentos está ainda por receber a tão esperada actualização que, entre outras coisas, vem com a muito pedida funcionalidade de "copiar e colar" (copy & paste).
 

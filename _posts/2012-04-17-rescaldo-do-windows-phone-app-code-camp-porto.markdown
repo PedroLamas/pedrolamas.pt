@@ -16,10 +16,10 @@ tags:
 - WPDev
 - WPCodeCamp
 ---
-[![](/wp-content/uploads/2012/04/Windows-Phone-App-Code-Camp-Porto-Thumb.png "Windows Phone App Code Camp Porto")](/wp-content/uploads/2012/04/Windows-Phone-App-Code-Camp-Porto.png)
+[![](wp-content/uploads/2012/04/Windows-Phone-App-Code-Camp-Porto-Thumb.png "Windows Phone App Code Camp Porto")](wp-content/uploads/2012/04/Windows-Phone-App-Code-Camp-Porto.png)
 
 Fim de semana no Hotel Ipanema Porto com as melhores condições para aprenderem a desenvolver aplicações para Windows Phone, a ajuda de alguns "experts" disponíveis para tirar dúvidas ou simplesmente apontar no caminho certo, e francesinhas à mistura!
 
-Tal como no [primeiro em Palmela](/2011/12/22/rescaldo-do-windows-phone-app-code-camp/), também este App Code Camp do Porto só pode ser classificado de **sucesso**, e com um sentimento pessoal de "missão cumprida"! :)
+Tal como no [primeiro em Palmela](2011/12/22/rescaldo-do-windows-phone-app-code-camp/), também este App Code Camp do Porto só pode ser classificado de **sucesso**, e com um sentimento pessoal de "missão cumprida"! :)
 
 Até ao próximo Windows Phone App Code Camp! ;)

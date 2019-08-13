@@ -14,7 +14,7 @@ tags:
 - Windows Mobile 6.5
 - Windows Mobile Widgets
 ---
-Continuando a "saga" do desenvolvimento de [Windows Mobile Widgets](/tag/windows-mobile-widgets/), este terceiro artigo vai focar o manifesto dos Widgets, mostrando para que serve e como o podemos utilizar para nosso próprio proveito.
+Continuando a "saga" do desenvolvimento de [Windows Mobile Widgets](tag/windows-mobile-widgets/), este terceiro artigo vai focar o manifesto dos Widgets, mostrando para que serve e como o podemos utilizar para nosso próprio proveito.
 
 O manifesto de um Widget para Windows Mobile tem obrigatoriamente o nome de "***config.xml***" e obedece ao standard definido pelo [draft para desenho de Widgets da W3C, de 22 Dezembro de 2008](http://www.w3.org/TR/2008/WD-widgets-20081222/). Este standard é um rascunho (draft) do que é pretendido para a versão final; no entanto, no seu aspecto base é garantida pelo Windows Mobile a retro-compatibilidade das próximas versões com as mais antigas.
 

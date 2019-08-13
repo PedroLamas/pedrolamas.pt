@@ -14,7 +14,7 @@ tags:
 - Mango
 - Mango RTM
 ---
-![](/wp-content/uploads/2011/09/Windows-Phone-Mango-install.png "Windows Phone "Mango" install")
+![](wp-content/uploads/2011/09/Windows-Phone-Mango-install.png "Windows Phone "Mango" install")
 
 Esta imagem é do meu próprio computador tirada a alguns minutos atrás, quando fiz a actualização para o Windows Phone "Mango" versão final (RTM)!
 

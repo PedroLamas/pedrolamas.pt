@@ -15,7 +15,7 @@ tags:
 - AVP
 - Acção
 ---
-[![Alien vs. Predator - Requiem](/wp-content/uploads/2008/01/avpr.thumbnail.jpg)](/wp-content/uploads/2008/01/avpr.jpg "Alien vs. Predator - Requiem")Tendo em conta o sucesso do [AVP: Alien vs. Predator](http://www.imdb.com/title/tt0370263/), ontem vi (finalmente) a sequela [AVPR: Alien vs. Predator - Requiem](http://www.imdb.com/title/tt0758730/).
+[![Alien vs. Predator - Requiem](wp-content/uploads/2008/01/avpr.thumbnail.jpg)](wp-content/uploads/2008/01/avpr.jpg "Alien vs. Predator - Requiem")Tendo em conta o sucesso do [AVP: Alien vs. Predator](http://www.imdb.com/title/tt0370263/), ontem vi (finalmente) a sequela [AVPR: Alien vs. Predator - Requiem](http://www.imdb.com/title/tt0758730/).
 
 Uma pequena cidade nas colinas do Colorado vai tornar-se campo de batalha entre duas das mais mortíferas raças alienígenas: o Alien e o Predator! Quando uma nave de Predator's se despenha nas colinas da cidade, parasitas de Alien's são libertados, e um híbrido entre um Alien/Predator. Um homem e o seu filho que caçavam na floresta tornam-se as primeiras vítimas dos parasitas, e quando um Predator recebe informação no seu planeta da queda da nave, ele vem à Terra.
 

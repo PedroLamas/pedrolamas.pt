@@ -15,6 +15,6 @@ tags:
 ---
 A versão final do Internet Explorer 9 está disponível desde a passada semana, e posso-vos garantir que é notória a diferença de velocidade para a anterior versão 8!!!
 
-[![](/wp-content/uploads/2011/03/Internet-Explorer-9-Final.jpg "Internet Explorer 9 Final")](http://www.voanaweb.com/Follower.aspx?v=5m264357)
+[![](wp-content/uploads/2011/03/Internet-Explorer-9-Final.jpg "Internet Explorer 9 Final")](http://www.voanaweb.com/Follower.aspx?v=5m264357)
 
 Mas nada como experimentar e ver com os próprios olhos: podem proceder ao download e instalação directamente [daqui](http://www.voanaweb.com/Follower.aspx?v=5m264357)!

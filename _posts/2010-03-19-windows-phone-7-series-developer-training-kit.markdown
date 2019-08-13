@@ -15,4 +15,4 @@ tags:
 - WP7
 - WP7S
 ---
-[![](/wp-content/uploads/2010/02/Windows-Phone-7-Series.jpg "Windows Phone 7 Series")](http://channel9.msdn.com/learn/courses/WP7TrainingKit/)Para todos os que pretendam iniciar-se no desenvolvimento de aplicações para o Windows Phone 7 Series, aconselho que passem pelo [Channel 9](http://channel9.msdn.com/) e façam uso do [Training Kit](http://channel9.msdn.com/learn/courses/WP7TrainingKit/) que lá podem encontrar sobre esta temática! :)
+[![](wp-content/uploads/2010/02/Windows-Phone-7-Series.jpg "Windows Phone 7 Series")](http://channel9.msdn.com/learn/courses/WP7TrainingKit/)Para todos os que pretendam iniciar-se no desenvolvimento de aplicações para o Windows Phone 7 Series, aconselho que passem pelo [Channel 9](http://channel9.msdn.com/) e façam uso do [Training Kit](http://channel9.msdn.com/learn/courses/WP7TrainingKit/) que lá podem encontrar sobre esta temática! :)

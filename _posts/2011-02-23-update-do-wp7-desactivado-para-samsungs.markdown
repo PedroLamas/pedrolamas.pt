@@ -15,7 +15,7 @@ tags:
 - Windows Phone 7
 - WP7Update
 ---
-Depois do lançamento atribulado da [primeira actualização para o Windows Phone 7](/2011/02/22/update-para-o-windows-phone-7-em-distribuicao/) e dos problemas reportados com os equipamentos Samsung após a instalação, a Microsoft vem agora confirmar que identificou um problema na actualização destes equipamentos especificamente, e como tal desactivou a actualização dos Samsungs.
+Depois do lançamento atribulado da [primeira actualização para o Windows Phone 7](2011/02/22/update-para-o-windows-phone-7-em-distribuicao/) e dos problemas reportados com os equipamentos Samsung após a instalação, a Microsoft vem agora confirmar que identificou um problema na actualização destes equipamentos especificamente, e como tal desactivou a actualização dos Samsungs.
 
 Existem neste momento um número desconhecido ainda de utilizadores que ficaram com os seus equipamentos WP7 Samsung completamente sem funcionar, tendo apenas a indicação de ligar ao PC, sem a conseguirem remover de forma alguma; a estes utilizadores, a Microsoft está a pedir que se dirijam às lojas e efectuem a troca do seu equipamento por um novo a funcionar.
 

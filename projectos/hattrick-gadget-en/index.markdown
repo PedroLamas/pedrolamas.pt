@@ -9,19 +9,19 @@ categories:
 - Geral
 tags: []
 ---
-![Hattrick Gadget Main View](/wp-content/uploads/2007/12/hattrickmain.png)
+![Hattrick Gadget Main View](wp-content/uploads/2007/12/hattrickmain.png)
 
-(Clique [aqui](/projectos/hattrick-gadget/) para descrição em português)
+(Clique [aqui](projectos/hattrick-gadget/) para descrição em português)
 
 Attention!
 ----------
 
-**Please read [this](/2009/11/05/hattrick-gadget-r-i-p/) first!!!**
+**Please read [this](2009/11/05/hattrick-gadget-r-i-p/) first!!!**
 
 Download
 --------
 
-Latest Version: [0.4.7](/hattrick.aspx?download)
+Latest Version: [0.4.7](projectos/hattrick-gadget/?download)
 
 Change Log
 ----------
@@ -87,19 +87,19 @@ This is the first Hattrick Gadget for Windows Sidebar!!
 
 You can seen above the main screen of the Gadget, showing the current Hattrick time, the weather for your region, your team's name and links for the League, Economy and Matches View! Bellow you can find information about the next match your team will be playing, and if the match is ongoing, it shows the live result and the corresponding events!
 
-![Hattrick Gadget Docked View](/wp-content/uploads/2007/12/hattrickdocked.png)
+![Hattrick Gadget Docked View](wp-content/uploads/2007/12/hattrickdocked.png)
 
 This is how the Gadget appears when it's docked to the Sidebar. It has the information shown on the main screen, but on a compacted basis!
 
-![Hattrick Gadget League View](/wp-content/uploads/2007/12/hattrickleague.png)
+![Hattrick Gadget League View](wp-content/uploads/2007/12/hattrickleague.png)
 
 This is the League View. It shows your current status on your league, with the Goals For, Against, the diference, and Points!
 
-![Hattrick Gadget Economy View](/wp-content/uploads/2007/12/hattrickeconomy.png)
+![Hattrick Gadget Economy View](wp-content/uploads/2007/12/hattrickeconomy.png)
 
 This is the Economy View! It shows the current finantial status (expenses and revenues) for your team, including last week's results!
 
-![Hattrick Gadget Matches View](/wp-content/uploads/2007/12/hattrickmatches.png)
+![Hattrick Gadget Matches View](wp-content/uploads/2007/12/hattrickmatches.png)
 
 This is the Matches View! It shows the last played matches and their results, and the scheduled next matches! **Warning:** This application is a test version!! So far it has been only tested on my computer with Windows Vista, and so it can still have bugs.
 

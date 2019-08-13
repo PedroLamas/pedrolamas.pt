@@ -12,7 +12,7 @@ tags:
 - Photoshop
 - Adobe Photoshop Express
 ---
-[![Adobe Photoshop Express](/wp-content/uploads/2008/03/adobe-photoshop-express.jpg)](http://www.photoshop.com/express/)
+[![Adobe Photoshop Express](wp-content/uploads/2008/03/adobe-photoshop-express.jpg)](http://www.photoshop.com/express/)
 
 A Adobe lançou hoje um serviço online para o alojamento e tratamento de fotos, o [Adobe Photoshop Express](http://www.photoshop.com/express/)!
 

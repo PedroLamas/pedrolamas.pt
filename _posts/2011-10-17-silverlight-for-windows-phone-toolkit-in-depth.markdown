@@ -17,8 +17,8 @@ tags:
 - Silverlight Toolkit
 - WPDev
 ---
-[![](/wp-content/uploads/2011/10/Silverlight-for-Windows-Phone-Toolkit-In-Depth.png "Silverlight for Windows Phone Toolkit In Depth")](http://www.windowsphonegeek.com/WPToolkitBook)O [WindowsPhoneGeek.com](http://www.windowsphonegeek.com/) tem sido uma das maiores fontes de informação para quem está ou pretende começar a desenvolver para o Windows Phone.
+[![](wp-content/uploads/2011/10/Silverlight-for-Windows-Phone-Toolkit-In-Depth.png "Silverlight for Windows Phone Toolkit In Depth")](http://www.windowsphonegeek.com/WPToolkitBook)O [WindowsPhoneGeek.com](http://www.windowsphonegeek.com/) tem sido uma das maiores fontes de informação para quem está ou pretende começar a desenvolver para o Windows Phone.
 
-Recentemente, disponibilizou gratuitamente o e-Book "[Silverlight for Windows Phone Toolkit In Depth](http://www.windowsphonegeek.com/WPToolkitBook)", escrito por Boryana Miloshevska, onde é apresentada a maior compilação de documentação sobre o [Silverlight for Windows Phone Toolkit](/tag/silverlight-toolkit/) que já foi feita!
+Recentemente, disponibilizou gratuitamente o e-Book "[Silverlight for Windows Phone Toolkit In Depth](http://www.windowsphonegeek.com/WPToolkitBook)", escrito por Boryana Miloshevska, onde é apresentada a maior compilação de documentação sobre o [Silverlight for Windows Phone Toolkit](tag/silverlight-toolkit/) que já foi feita!
 
 É sem dúvida um e-Book de referência essencial na biblioteca digital de qualquer programador Windows Phone que se preze! ;)

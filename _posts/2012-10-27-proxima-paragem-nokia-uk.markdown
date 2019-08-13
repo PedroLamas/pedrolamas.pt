@@ -14,7 +14,7 @@ tags:
 - United Kingdom
 - Reino Unido
 ---
-[![](/wp-content/uploads/2012/10/Nokia.png "Nokia")](/wp-content/uploads/2012/10/Nokia.png)É com um enorme orgulho que anuncio que a partir da próxima segunda-feira, 29 de Outubro, passo a integrar a equipa da **Nokia**, no papel de Senior Engineer, desenvolvendo software para os melhores telemóveis do mundo! :)
+[![](wp-content/uploads/2012/10/Nokia.png "Nokia")](wp-content/uploads/2012/10/Nokia.png)É com um enorme orgulho que anuncio que a partir da próxima segunda-feira, 29 de Outubro, passo a integrar a equipa da **Nokia**, no papel de Senior Engineer, desenvolvendo software para os melhores telemóveis do mundo! :)
 
 É fácil perceber o meu foco em tecnologias Microsoft e em particular no Windows Phone, pelo que não poderia deixar passar esta fantástica oportunidade quando tal me foi apresentada!
 

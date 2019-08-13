@@ -19,12 +19,12 @@ Uma das funcionalidades mais interessantes no Windows Phone quanto à introduç�
 
 Quer isto dizer que, por exemplo, se uma dada caixa de texto vai apenas conter números, nada melhor que que colocar um teclado adequado, utilizando o [InputScopeNameValue.Number](http://msdn.microsoft.com/en-us/library/system.windows.input.inputscopenamevalue(v=VS.95).aspx), o que resulta no seguinte teclado contextual:
 
-[![](/wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-pré-Mango-Thumb.jpg "Windows Phone InputScope: Number (pré Mango)")](/wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-pré-Mango.jpg)
+[![](wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-pré-Mango-Thumb.jpg "Windows Phone InputScope: Number (pré Mango)")](wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-pré-Mango.jpg)
 
 O teclado numérico que podemos ver em cima era considerado pouco prático por apresentar um conjunto de símbolos completamente inúteis para quem apenas pretendia introduzir um número, facto que levou os programadores muitas vezes a optarem pelo InputScopeNameValue.TelephoneNumber não só para números de telefone, mas também para número regulares:
 
-[![](/wp-content/uploads/2011/08/Windows-Phone-InputScope-TelephoneNumber-Thumb.jpg "Windows Phone InputScope: TelephoneNumber")](/wp-content/uploads/2011/08/Windows-Phone-InputScope-TelephoneNumber.jpg)
+[![](wp-content/uploads/2011/08/Windows-Phone-InputScope-TelephoneNumber-Thumb.jpg "Windows Phone InputScope: TelephoneNumber")](wp-content/uploads/2011/08/Windows-Phone-InputScope-TelephoneNumber.jpg)
 
 A nova versão do Windows Phone "Mango" vem agora "corrigir" esta lacuna, modificando o teclado Number para algo muito mais adequado:
 
-[![](/wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-post-Mango-Thumb.jpg "Windows Phone InputScope: Number (post Mango)")](/wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-post-Mango.jpg)
+[![](wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-post-Mango-Thumb.jpg "Windows Phone InputScope: Number (post Mango)")](wp-content/uploads/2011/08/Windows-Phone-InputScope-Number-post-Mango.jpg)

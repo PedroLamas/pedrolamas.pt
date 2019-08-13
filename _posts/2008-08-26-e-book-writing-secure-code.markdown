@@ -11,7 +11,7 @@ tags:
 - E-books
 - Writing Secure Code
 ---
-[![Writing Secure Code](/wp-content/uploads/2008/08/writing-secure-code.jpg "Writing Secure Code")](http://www.microsoft.com/mspress/books/authors/auth5957.aspx)A Microsoft disponibilizou na integra o livro [Writing Secure Code](http://www.microsoft.com/mspress/books/authors/auth5957.aspx) (Second Edition), de [Michael Howard](http://www.michaelhowardmp.com/) e [David LeBlanc](http://blogs.msdn.com/david_leblanc/).
+[![Writing Secure Code](wp-content/uploads/2008/08/writing-secure-code.jpg "Writing Secure Code")](http://www.microsoft.com/mspress/books/authors/auth5957.aspx)A Microsoft disponibilizou na integra o livro [Writing Secure Code](http://www.microsoft.com/mspress/books/authors/auth5957.aspx) (Second Edition), de [Michael Howard](http://www.michaelhowardmp.com/) e [David LeBlanc](http://blogs.msdn.com/david_leblanc/).
 
 Este é um livro muito bom, em que são abrangidos os vários aspectos a ter em conta na implementação de software realmente seguro!
 

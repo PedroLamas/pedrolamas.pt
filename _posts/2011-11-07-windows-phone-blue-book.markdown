@@ -16,7 +16,7 @@ tags:
 - Blue Book
 - Yellow Book
 ---
-[![](/wp-content/uploads/2011/11/Windows-Phone-Blue-Book-by-Rob-Miles.png "Windows Phone Blue Book, by Rob Miles")](http://www.robmiles.com/journal/2011/10/27/windows-phone-blue-book-available.html)[Rob Miles](http://www.robmiles.com/) é um dos melhores e mais divertidos oradores que alguma vez tive o prazer de escutar, mas mais do que isso, tem sido um dos que mais tem ajudado as comunidades de desenvolvimento!
+[![](wp-content/uploads/2011/11/Windows-Phone-Blue-Book-by-Rob-Miles.png "Windows Phone Blue Book, by Rob Miles")](http://www.robmiles.com/journal/2011/10/27/windows-phone-blue-book-available.html)[Rob Miles](http://www.robmiles.com/) é um dos melhores e mais divertidos oradores que alguma vez tive o prazer de escutar, mas mais do que isso, tem sido um dos que mais tem ajudado as comunidades de desenvolvimento!
 
 À uns anos atrás ele lançou o [C\# Yellow Book](http://www.robmiles.com/c-yellow-book/) que rapidamente se tornou uma referência essencial no desenvolvimento em C\# e é actualmente utilizado no 1º ano do curso de programação do [Department of Cumputer Science](http://www.dcs.hull.ac.uk/), [University of Hull](http://www.hull.ac.uk/).
 

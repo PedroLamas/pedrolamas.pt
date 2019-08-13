@@ -20,11 +20,11 @@ Estes métodos de extensão permitem aos programadores adicionar métodos aos ti
 
 suponhamos que no meu código eu tinha um método que me permite verificar se uma dada cadeia de caracteres contém apenas dígitos, poderia ser algo do género:
 
-![Static Method](/wp-content/uploads/2008/04/extensionmethods01.jpg "Static Method")
+![Static Method](wp-content/uploads/2008/04/extensionmethods01.jpg "Static Method")
 
 Assim, bastava fazer **OnlyDigits(myString)** para saber se a string é ou não composta apenas de números! Um método de extensão equivalente seria o seguinte:
 
-![Extension Method](/wp-content/uploads/2008/04/extensionmethods02.jpg "Extension Method")
+![Extension Method](wp-content/uploads/2008/04/extensionmethods02.jpg "Extension Method")
 
 A diferença é que agora, podemos fazer algo do tipo **myString.OnlyDigits()** para obter exactamente o mesmo resultado! Na verdade, até algo tipo **"a minha string".OnlyDigits()** funcionará na perfeição.
 

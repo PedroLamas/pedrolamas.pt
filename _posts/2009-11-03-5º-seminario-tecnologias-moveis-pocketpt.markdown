@@ -11,7 +11,7 @@ tags:
 - PocketPT
 - Seminário
 ---
-[![5º Seminário Tecnologias Móveis PocketPT](/wp-content/uploads/2009/11/5º-Seminário-Tecnologias-Móveis-PocketPT.jpg "5º Seminário Tecnologias Móveis PocketPT")](http://www.mtechseminar.com/mtech5/index.htm)
+[![5º Seminário Tecnologias Móveis PocketPT](wp-content/uploads/2009/11/5º-Seminário-Tecnologias-Móveis-PocketPT.jpg "5º Seminário Tecnologias Móveis PocketPT")](http://www.mtechseminar.com/mtech5/index.htm)
 
 Começaram as inscrições para o [5º Seminário de Tecnologias Móveis PocketPT](http://www.mtechseminar.com/mtech5/index.htm)!
 

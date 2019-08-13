@@ -10,7 +10,7 @@ categories:
 - Mobilidade
 tags: []
 ---
-[![](/wp-content/uploads/2011/01/WP7-January-Update-with-Copy-and-Paste.jpg "WP7 January Update with Copy and Paste")](http://www.microsoft.com/windowsphone/en-us/features/january-update.aspx)A Microsoft já divulgou alguns detalhes daquela que será a primeira actualização do Windows Phone 7, a ser distribuida ainda este mês!
+[![](wp-content/uploads/2011/01/WP7-January-Update-with-Copy-and-Paste.jpg "WP7 January Update with Copy and Paste")](http://www.microsoft.com/windowsphone/en-us/features/january-update.aspx)A Microsoft já divulgou alguns detalhes daquela que será a primeira actualização do Windows Phone 7, a ser distribuida ainda este mês!
 
 Estes são os pontos já indicados:
 

@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Silverlight Toolkit
 ---
-[![](/wp-content/uploads/2010/11/Silverlight-Toolkit.jpg "Silverlight Toolkit")](http://silverlight.codeplex.com/releases/view/55034)Está disponível uma [nova versão](http://silverlight.codeplex.com/releases/view/55034) do Silverlight for Windows Phone Toolkit com algumas novidades, destacando-se os seguinte controlos:
+[![](wp-content/uploads/2010/11/Silverlight-Toolkit.jpg "Silverlight Toolkit")](http://silverlight.codeplex.com/releases/view/55034)Está disponível uma [nova versão](http://silverlight.codeplex.com/releases/view/55034) do Silverlight for Windows Phone Toolkit com algumas novidades, destacando-se os seguinte controlos:
 
 -   **ListPicker** (o tão esperado controlo!)
 -   **LongListSelector**

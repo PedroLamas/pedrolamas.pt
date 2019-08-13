@@ -11,7 +11,7 @@ tags:
 - Touchless SDK
 - CodePlex
 ---
-[![](/wp-content/uploads/2008/10/touchless-sdk.jpg "Touchless SDK")](http://www.codeplex.com/touchless)Numa altura em que se falam em interfaces baseadas no toque (Touch Based Interfaces), especialmente para dispositivos móveis, começam a surgir outras experiências de utilização que provavelmente serão o futuro das interfaces utilizar - máquina.
+[![](wp-content/uploads/2008/10/touchless-sdk.jpg "Touchless SDK")](http://www.codeplex.com/touchless)Numa altura em que se falam em interfaces baseadas no toque (Touch Based Interfaces), especialmente para dispositivos móveis, começam a surgir outras experiências de utilização que provavelmente serão o futuro das interfaces utilizar - máquina.
 
 Uma dessas possibilidades é mesmo através de gestos reconhecidos por uma simples câmara, cuja interpretação digital poderiam efectuar comandos num dado programa. Nesse sentido, há pouco mais de uma semana apareceu no [CodePlex](http://www.codeplex.com/) o [Touchless SDK](http://www.codeplex.com/touchless), que serve como plataforma para o desenvolvimento de soluções baseadas no seguimento de objectos filmados por câmaras.
 

@@ -15,7 +15,7 @@ tags:
 - WP7Update
 - Mango
 ---
-Esta é a pergunta que mais tem sido feita nas últimas semanas, dado que a Microsoft já tinha dado a conhecer à mais de um mês que o [desenvolvimento da actualização "Mango" tinha terminado](/2011/07/27/windows-phone-mango-rtm/)!
+Esta é a pergunta que mais tem sido feita nas últimas semanas, dado que a Microsoft já tinha dado a conhecer à mais de um mês que o [desenvolvimento da actualização "Mango" tinha terminado](2011/07/27/windows-phone-mango-rtm/)!
 
 E quando não há notícias em concreto, começam a rolar rumores (na maior parte das vezes, totalmente infundados!)
 

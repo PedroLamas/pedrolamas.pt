@@ -13,7 +13,7 @@ tags:
 - Trojan
 - Fishing
 ---
-![Spam](/wp-content/uploads/2008/01/spam.jpg)
+![Spam](wp-content/uploads/2008/01/spam.jpg)
 
 Todos os dias quando abro o meu e-mail deparo-me com umas boas dezenas de e-mails que nada mais são do que lixo electrónico, o vulgarmente conhecido "spam"...
 

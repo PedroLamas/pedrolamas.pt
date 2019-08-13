@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-![](/wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")Com o aproximar da versão final do Windows Phone 7, é de prever novidades e actualizações do software de desenvolvimento; assim, foi ontem lançada a primeira [versão beta](http://www.microsoft.com/downloads/details.aspx?FamilyID=c8496c2a-54d9-4b11-9491-a1bfaf32f2e3&displaylang=en) das Windows Phone Developer Tools!
+![](wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")Com o aproximar da versão final do Windows Phone 7, é de prever novidades e actualizações do software de desenvolvimento; assim, foi ontem lançada a primeira [versão beta](http://www.microsoft.com/downloads/details.aspx?FamilyID=c8496c2a-54d9-4b11-9491-a1bfaf32f2e3&displaylang=en) das Windows Phone Developer Tools!
 
 As alterações são algo substanciais, e podem ser consultadas [aqui](http://msdn.microsoft.com/en-us/library/ff637516(v=VS.92).aspx)!
 

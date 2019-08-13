@@ -19,7 +19,7 @@ tags:
 ---
 Desde que o [Google Drive](http://drive.google.com) foi apresentado que fiquei sempre atento à publicação e evolução da [API](https://developers.google.com/drive) de comunicação deste produto, com vista a criar um cliente para Windows Phone.
 
-![](/wp-content/uploads/2012/07/GDrive.png "GDrive")Nasceu assim o **GDrive**, uma pequena aplicação cliente do Google Drive para equipamentos WP7, o qual está neste momento ainda a passar pelo processo de certificação!
+![](wp-content/uploads/2012/07/GDrive.png "GDrive")Nasceu assim o **GDrive**, uma pequena aplicação cliente do Google Drive para equipamentos WP7, o qual está neste momento ainda a passar pelo processo de certificação!
 
 A aplicação propriamente dita não está terminada (faltam ainda várias funcionalidades), mas podemos encontrar lá o básico.
 

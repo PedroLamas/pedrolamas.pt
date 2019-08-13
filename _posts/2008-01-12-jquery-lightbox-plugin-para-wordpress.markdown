@@ -12,7 +12,7 @@ tags:
 - jQuery
 - Lightbox
 ---
-Um novo projecto acaba de ser disponibilizado para download: o [Wordpress jQuery Lightbox Plugin](/projectos/jquery-lightbox/)!
+Um novo projecto acaba de ser disponibilizado para download: o [Wordpress jQuery Lightbox Plugin](projectos/jquery-lightbox/)!
 
 Esta foi a minha primeira tentativa de fazer um plugin para o [Wordpress](http://www.wordpress.org "Wordpress"), tendo em conta a sua utilização no meu próprio blog! ;)
 

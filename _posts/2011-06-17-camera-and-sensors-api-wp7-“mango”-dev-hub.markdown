@@ -16,7 +16,7 @@ tags:
 - WP7Dev
 - Mango
 ---
-[![](/wp-content/uploads/2011/06/Windows-Phone-Mango.jpg "Windows Phone Mango")](https://msevents.microsoft.com/CUI/EventDetail.aspx?culture=pt-PT&EventID=1032488458)
+[![](wp-content/uploads/2011/06/Windows-Phone-Mango.jpg "Windows Phone Mango")](https://msevents.microsoft.com/CUI/EventDetail.aspx?culture=pt-PT&EventID=1032488458)
 
 No próximo dia 29 de Junho decorre no Auditório Microsoft no Tagus Park (Lisboa) o [Windows Phone 7 “Mango” Developer Hub](https://msevents.microsoft.com/CUI/EventDetail.aspx?culture=pt-PT&EventID=1032488458), aquele será o primeiro evento da Microsoft Portugal totalmente dedicado à nova versão do Windows Phone!
 

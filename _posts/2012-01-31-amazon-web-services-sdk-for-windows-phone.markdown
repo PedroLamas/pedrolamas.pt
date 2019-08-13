@@ -18,7 +18,7 @@ tags:
 - Amazon
 - AWS
 ---
-[![](/wp-content/uploads/2012/01/Windows-Phone-Interoperability.png "Windows Phone Interoperability")](http://blogs.msdn.com/b/interoperability/archive/2012/01/20/beta-of-aws-sdk-for-windows-phone-released.aspx)
+[![](wp-content/uploads/2012/01/Windows-Phone-Interoperability.png "Windows Phone Interoperability")](http://blogs.msdn.com/b/interoperability/archive/2012/01/20/beta-of-aws-sdk-for-windows-phone-released.aspx)
 
 A Microsoft apresentou ontem a primeira versão Beta do [Amazon Web Services SDK for Windows Phone](https://github.com/Microsoft-Interop/AWS-SDK-for-WP)!
 

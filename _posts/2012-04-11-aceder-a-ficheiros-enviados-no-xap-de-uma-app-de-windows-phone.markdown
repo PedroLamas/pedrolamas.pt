@@ -50,4 +50,4 @@ using (var stream = streamResourceInfo.Stream) { using (var streamReader = new S
 
 No bloco de código em cima é fácil de perceber onde está toda a magia: na linha 5 utilizamos o método [Application.GetResourceStream](http://msdn.microsoft.com/en-us/library/ms596994(v=vs.95).aspx) para obter uma referência ao ficheiro pretendido e que foi distribuído com a aplicação; na linha abaixo vemos a ser feito o acesso à stream read-only do ficheiro propriamente dito.
 
-E [aqui](/wp-content/uploads/downloads/2012/04/GetFileFromXap.zip) tem o código fonte deste exemplo!
+E [aqui](wp-content/uploads/downloads/2012/04/GetFileFromXap.zip) tem o código fonte deste exemplo!

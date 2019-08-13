@@ -12,7 +12,7 @@ tags:
 - Windows Mobile 6
 - Review
 ---
-[![Windows Mobile 6.1](/wp-content/uploads/2008/02/wm61.jpg)](http://www.pocketpt.net/forum/index.php?showtopic=20433 "Windows Mobile 6.1")
+[![Windows Mobile 6.1](wp-content/uploads/2008/02/wm61.jpg)](http://www.pocketpt.net/forum/index.php?showtopic=20433 "Windows Mobile 6.1")
 
 O Francisco Viana apresentou no [PocketPT.net](http://www.pocketpt.net) uma pequena review do que se espera com o novo Windows Mobile 6.1
 

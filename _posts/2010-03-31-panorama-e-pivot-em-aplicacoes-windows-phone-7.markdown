@@ -20,7 +20,7 @@ Dois conceitos foram introduzidos no Windows Phone 7 quanto à navegação dentr
 
 A navegação Panorama é uma forma de apresentar um grande conjunto de informação no ecrã, fazendo-a simplesmente deslizar lateralmente como se de quadros se tratasse!
 
-[caption id="attachment\_1240" align="aligncenter" width="470" caption="Exemplo do Office Panorama View no WP7"][![](/wp-content/uploads/2010/03/Windows-Phone-7-Series-Office-Panorama-Screen-Thumb.jpg "Windows Phone 7 Series Office Panorama Screen")](/wp-content/uploads/2010/03/Windows-Phone-7-Series-Office-Panorama-Screen.jpg)[/caption]
+[caption id="attachment\_1240" align="aligncenter" width="470" caption="Exemplo do Office Panorama View no WP7"][![](wp-content/uploads/2010/03/Windows-Phone-7-Series-Office-Panorama-Screen-Thumb.jpg "Windows Phone 7 Series Office Panorama Screen")](wp-content/uploads/2010/03/Windows-Phone-7-Series-Office-Panorama-Screen.jpg)[/caption]
 
 Já a navegação Pivot é uma forma de modificar a vista actual no ecrã, utilizando também um deslizamento lateral do ecrã para o conseguir.
 

@@ -15,7 +15,7 @@ tags:
 - MCP
 - 70-506
 ---
-![](/wp-content/uploads/2011/01/TS-Silverlight-4-Development.jpg "TS: Silverlight 4, Development")
+![](wp-content/uploads/2011/01/TS-Silverlight-4-Development.jpg "TS: Silverlight 4, Development")
 
 Nova actualização do perfil de MCP, desta vez com o exame [70-506 TS: Silverlight 4, Development](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-506)!
 

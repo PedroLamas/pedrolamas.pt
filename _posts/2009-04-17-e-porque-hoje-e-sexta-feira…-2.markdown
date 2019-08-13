@@ -13,7 +13,7 @@ tags:
 - Britains Got Talent
 - BGT
 ---
-[caption id="attachment\_697" align="alignnone" width="468" caption="Susan Boyle @ Britains Got Talent"][![Susan Boyle @ Britains Got Talent](/wp-content/uploads/2009/04/susan-boyle.jpg "Susan Boyle @ Britains Got Talent")](http://www.youtube.com/watch?v=9lp0IWv8QZY)[/caption]
+[caption id="attachment\_697" align="alignnone" width="468" caption="Susan Boyle @ Britains Got Talent"][![Susan Boyle @ Britains Got Talent](wp-content/uploads/2009/04/susan-boyle.jpg "Susan Boyle @ Britains Got Talent")](http://www.youtube.com/watch?v=9lp0IWv8QZY)[/caption]
 
 Esta é a história recente de [Susan Boyle](http://en.wikipedia.org/wiki/Susan_Boyle), uma escocesa desempregada de 47 anos, que em apenas 5 dias conseguiu ter praticamente todo o mundo aos seus pés!
 

@@ -22,6 +22,6 @@ Juntamente com esta notícia, mais algumas foram dadas como por exemplo a data d
 
 Ficam algumas imagens de exemplo do que se poderá vir a esperar do Windows Mobile Marketplace a correr num dispositivo:
 
-![Windows Mobile Marketplace Sample01](/wp-content/uploads/2009/07/Windows-Mobile-Marketplace-Sample01.jpg "Windows Mobile Marketplace Sample01")![Windows Mobile Marketplace Sample02](/wp-content/uploads/2009/07/Windows-Mobile-Marketplace-Sample02.jpg "Windows Mobile Marketplace Sample02")
+![Windows Mobile Marketplace Sample01](wp-content/uploads/2009/07/Windows-Mobile-Marketplace-Sample01.jpg "Windows Mobile Marketplace Sample01")![Windows Mobile Marketplace Sample02](wp-content/uploads/2009/07/Windows-Mobile-Marketplace-Sample02.jpg "Windows Mobile Marketplace Sample02")
 
 Podem ver [aqui](http://windowsteamblog.com/blogs/windowsphone/archive/2009/07/14/get-ready-windows-marketplace-for-mobile-offers-millions-of-potential-new-customers.aspx) o artigo original no [Windows Mobile Blog](http://windowsteamblog.com/blogs/windowsphone/)!

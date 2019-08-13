@@ -13,7 +13,7 @@ tags:
 - Sexta-feira
 - iPhone 3G
 ---
-![iPhone 3G Launch](/wp-content/uploads/2008/07/iphone-3g-launch.jpg "iPhone 3G Launch")
+![iPhone 3G Launch](wp-content/uploads/2008/07/iphone-3g-launch.jpg "iPhone 3G Launch")
 
 Hoje foi dia de lançamento do já longamente falado [Apple iPhone 3G](http://www.apple.com/iphone/)!
 

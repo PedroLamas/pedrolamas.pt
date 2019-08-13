@@ -16,7 +16,7 @@ tags:
 - 70-579
 - 70-580
 ---
-[![](/wp-content/uploads/2010/03/TS-Windows-Mobile-6.5.jpg "TS: Windows Mobile 6.5 Development & Configuration")](/wp-content/uploads/2010/03/TS-Windows-Mobile-6.5.jpg)
+[![](wp-content/uploads/2010/03/TS-Windows-Mobile-6.5.jpg "TS: Windows Mobile 6.5 Development & Configuration")](wp-content/uploads/2010/03/TS-Windows-Mobile-6.5.jpg)
 
 Nova actualização do meu curriculum de MCP, com a inclusão dos exames [70-579 TS: Windows Mobile 6.5, Configuring](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-579) e [70-580 TS: Windows Mobile 6.5, Application Development](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-580).
 

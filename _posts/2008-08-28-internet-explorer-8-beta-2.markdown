@@ -12,7 +12,7 @@ tags:
 - Internet Explorer
 - Internet Explorer 8
 ---
-[![Internet Explorer 8 Beta](/wp-content/uploads/2008/03/ie8_beta.gif)](http://www.microsoft.com/windows/internet-explorer/beta/ "Internet Explorer 8 Beta")Foi disponibilizada a segunda versão beta para o [Internet Explorer 8](http://www.microsoft.com/windows/internet-explorer/beta/)!
+[![Internet Explorer 8 Beta](wp-content/uploads/2008/03/ie8_beta.gif)](http://www.microsoft.com/windows/internet-explorer/beta/ "Internet Explorer 8 Beta")Foi disponibilizada a segunda versão beta para o [Internet Explorer 8](http://www.microsoft.com/windows/internet-explorer/beta/)!
 
 Para além das visíveis melhorias a nível de velocidade de acesso a páginas, destacam-se ainda a barra de navegação melhorada, os separadores inteligentes, a pesquisa optimizada, entre outras novidades.
 

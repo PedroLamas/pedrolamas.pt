@@ -12,7 +12,7 @@ tags:
 - Microsoft
 - NetPonto
 ---
-[![](/wp-content/uploads/2011/09/2º-Aniversário-da-Comunidade-NetPonto.png "2º Aniversário da Comunidade NetPonto")](http://netponto.org/)No próximo sábado dia 24 de Setembro de 2011 a [Comunidade NetPonto](http://netponto.org/) comemora o seu segundo aniversário!
+[![](wp-content/uploads/2011/09/2º-Aniversário-da-Comunidade-NetPonto.png "2º Aniversário da Comunidade NetPonto")](http://netponto.org/)No próximo sábado dia 24 de Setembro de 2011 a [Comunidade NetPonto](http://netponto.org/) comemora o seu segundo aniversário!
 
 *"Ao longo dos últimos dois anos a comunidade NetPonto promoveu mais mais 60 apresentações em mais de duas dezenas de eventos em Lisboa, a que se juntam mais dois em Coimbra, um em Vila Real e um no Porto.*
 

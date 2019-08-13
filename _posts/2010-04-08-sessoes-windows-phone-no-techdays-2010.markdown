@@ -17,7 +17,7 @@ tags:
 - WP7S
 - WP7Dev
 ---
-Já são conhecidos os detalhes relacionados com as [5 sessões](http://www.techdays2010.com/Event/Session/Index?track=MOB) da track de Windows Phone no [Techdays](/tag/techdayspt10/); são elas:
+Já são conhecidos os detalhes relacionados com as [5 sessões](http://www.techdays2010.com/Event/Session/Index?track=MOB) da track de Windows Phone no [Techdays](tag/techdayspt10/); são elas:
 
 -   20 de Abril
     -   **14:15 - [MOB 101](http://www.techdays2010.com/Event/Session/Details/windows-phone-session-1) - Overview of the Windows Phone 7 Application Platform**[Charlie Kindle](http://blogs.msdn.com/ckindel/)

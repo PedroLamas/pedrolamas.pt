@@ -14,7 +14,7 @@ tags:
 - Windows Phone 7
 - Appbar Icons
 ---
-**Actualizado a 12-09-2011:** a colecção foi aumentada para 132 ícones, contando agora com os novos ícones do Windows Phone "Mango"; podem aceder ao novo artigo [aqui](/2011/09/12/wp7-1-application-bar-icons/)!
+**Actualizado a 12-09-2011:** a colecção foi aumentada para 132 ícones, contando agora com os novos ícones do Windows Phone "Mango"; podem aceder ao novo artigo [aqui](2011/09/12/wp7-1-application-bar-icons/)!
 
 A equipa de desenvolvimento do Windows Phone 7 colocou no SDK do Windows Phone 7 um conjunto de 32 ícones para serem utilizados pelos programadores nos items da Application Bar dos seus programas.
 
@@ -22,7 +22,7 @@ Para mim, este número revelou-se muito insuficiente para suprir as minhas neces
 
 Dessa forma, apresento-vos uma colecção de 105 ícones extra relativamente à dos 32 que vem no SDK (cliquem na imagem abaixo para terem uma visualização da colecção no tamanho original)
 
-[![](/wp-content/uploads/2011/03/Windows-Phone-7-Application-Bar-Icons-Thumb.jpg)](/wp-content/uploads/2011/03/Windows-Phone-7-Application-Bar-Icons.jpg "Windows Phone 7 +105 Application Bar Icons")
+[![](wp-content/uploads/2011/03/Windows-Phone-7-Application-Bar-Icons-Thumb.jpg)](wp-content/uploads/2011/03/Windows-Phone-7-Application-Bar-Icons.jpg "Windows Phone 7 +105 Application Bar Icons")
 
 Grande parte destes ícones são realmente os originais que aparecem nas aplicações do Windows Phone 7 (obtidos binariamente dos "resources" das aplicações), outros foram simplesmente modificados de forma a ficarem com as medidas correctas (modificado o "canvas" para 48x48, o tamanho correcto para este tipo de ícones).
 

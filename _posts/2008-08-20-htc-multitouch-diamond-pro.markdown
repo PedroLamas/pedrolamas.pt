@@ -11,7 +11,7 @@ tags:
 - HTC Touch Diamond
 - HTC Touch Pro
 ---
-[caption id="attachment\_252" align="alignnone" width="359" caption="Demonstrando as capacidades multi-toque no HTC Touch Diamond"]![Demonstrando as capacidades multi-toque no HTC Touch Diamond](/wp-content/uploads/2008/08/htc-touch-diamond-multi-touch.jpg "HTC Touch Diamond multi-touch")[/caption]
+[caption id="attachment\_252" align="alignnone" width="359" caption="Demonstrando as capacidades multi-toque no HTC Touch Diamond"]![Demonstrando as capacidades multi-toque no HTC Touch Diamond](wp-content/uploads/2008/08/htc-touch-diamond-multi-touch.jpg "HTC Touch Diamond multi-touch")[/caption]
 
 No blog [wmpoweruser.com](http://wmpoweruser.com/) surgiu um [artigo](http://wmpoweruser.com/?p=693) sobre a potencialidade de utilização do painél de comandos que o HTC Touch Diamond e o HTC Touch Pro tem abaixo do ecrã, de forma a permitir o uso de multi-toque!
 

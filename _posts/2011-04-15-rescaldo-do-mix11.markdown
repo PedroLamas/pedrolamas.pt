@@ -17,7 +17,7 @@ tags:
 - MIX11
 - Mango
 ---
-Este [MIX11](/tag/mix11/) prometia grandes novidades para o Windows Phone, e não deixou nada por cumprir!
+Este [MIX11](tag/mix11/) prometia grandes novidades para o Windows Phone, e não deixou nada por cumprir!
 
 A próxima actualização (com o nome de código "Mango") foi apurada, e as novidades são boas tanto para os Utilizadores como para os próprios Programadores!
 

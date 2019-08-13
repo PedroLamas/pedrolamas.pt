@@ -12,7 +12,7 @@ tags:
 - Live
 - Live Mesh
 ---
-[![Live Mesh](/wp-content/uploads/2008/04/livemesh.jpg "Live Mesh")](http://www.mesh.com)
+[![Live Mesh](wp-content/uploads/2008/04/livemesh.jpg "Live Mesh")](http://www.mesh.com)
 
 A Microsoft apresentou mais um produto a ser integrado na rede de serviços [Live](http://www.live.com), desta vez para a partilha e sincronização de ficheiros entre vários dispositivos: o [Live Mesh](http://www.mesh.com/)
 

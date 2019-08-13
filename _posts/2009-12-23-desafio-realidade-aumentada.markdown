@@ -12,7 +12,7 @@ tags:
 - Concurso
 - Microsoft
 ---
-[![](/wp-content/uploads/2009/12/Desafio-Realidade-Aumentada.jpg "Desafio Realidade Aumentada")](http://www.wmobiletek.com/rafaq.htm)
+[![](wp-content/uploads/2009/12/Desafio-Realidade-Aumentada.jpg "Desafio Realidade Aumentada")](http://www.wmobiletek.com/rafaq.htm)
 
 Um novo desafio por parte da Microsoft acaba de surgir na Internet: desenvolver uma aplicação que utilize o conceito de [Realidade Aumentada](http://pt.wikipedia.org/wiki/Realidade_aumentada) ([Augmented Reality](http://en.wikipedia.org/wiki/Augmented_reality)) num equipamento Windows Mobile.
 

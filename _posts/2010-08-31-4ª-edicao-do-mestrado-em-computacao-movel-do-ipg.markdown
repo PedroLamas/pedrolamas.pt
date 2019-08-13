@@ -12,7 +12,7 @@ tags:
 - IPG
 - Mestrado em Computação Móvel
 ---
-Está a decorrer até 10 de Setembro o período de candidaturas da 4ª edição do [Mestrado em Computação Móvel do Instituto Politécnico da Guarda](/tag/mestrado-em-computacao-movel/).
+Está a decorrer até 10 de Setembro o período de candidaturas da 4ª edição do [Mestrado em Computação Móvel do Instituto Politécnico da Guarda](tag/mestrado-em-computacao-movel/).
 
 Este Mestrado centra-se especificamente na temática da mobilidade e ubiquidade dos sistemas informáticos. O curso vai ao encontro do crescente interesse pelos sistemas informáticos móveis e sobretudo da grande necessidade de recursos humanos qualificados capazes de responder às necessidades de desenvolvimento de sistemas e serviços inovadores nas áreas das redes de comunicação móveis, dos dispositivos móveis e dos serviços informáticos móveis.
 

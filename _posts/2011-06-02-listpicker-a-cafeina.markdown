@@ -17,7 +17,7 @@ tags:
 - Silverlight Toolkit
 - ListPicker
 ---
-**Actualizado a 18/08/2011:** este artigo deixa neste momento de ser válido, dado que a Microsoft já disponibilizou a [actualização de Agosto de 2011 para o Silverlight for Windows Phone Toolkit](/2011/08/18/silverlight-for-windows-phone-toolkit-aug-2011/), o qual resolve a situação aqui descrita! ;)
+**Actualizado a 18/08/2011:** este artigo deixa neste momento de ser válido, dado que a Microsoft já disponibilizou a [actualização de Agosto de 2011 para o Silverlight for Windows Phone Toolkit](2011/08/18/silverlight-for-windows-phone-toolkit-aug-2011/), o qual resolve a situação aqui descrita! ;)
 
 De todos os controlos que a equipa do Silverlight lançou no Toolkit para Windows Phone 7, o que utilizo com mais regularidade é mesmo o ListPicker!
 
@@ -55,4 +55,4 @@ if (e.AddedItems.Count \> 0) selectedItem = e.AddedItems[0]; else if (e.RemovedI
 
 E está pronto: passamos a ter um ListPicker devidamente optimizado com o VirtualizingStackPanel!
 
-Para facilitar, os passos acima estão disponíveis [neste patch](/wp-content/uploads/2011/06/ListPicker-with-VirtualizedStackPanel.zip) que eu criei especificamente para quem utiliza o TortoiseSVN para obter o código do Silverlight Toolkit directamente do Codeplex!
+Para facilitar, os passos acima estão disponíveis [neste patch](wp-content/uploads/2011/06/ListPicker-with-VirtualizedStackPanel.zip) que eu criei especificamente para quem utiliza o TortoiseSVN para obter o código do Silverlight Toolkit directamente do Codeplex!

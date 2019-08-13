@@ -14,7 +14,7 @@ tags:
 - WP7Dev
 - WPDev
 ---
-[![](/wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org)Ultimamente não tenho tido a oportunidade de actualizar o blog com a mesma frequência que vinha a fazer, e a principal razão foi mesmo de me ter dedicado a melhorar o [**Cimbalino Windows Phone Toolkit**](/tag/cimbalino/), culminando hoje esses melhoramentos com o lançamento da **versão 1.2**!
+[![](wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org)Ultimamente não tenho tido a oportunidade de actualizar o blog com a mesma frequência que vinha a fazer, e a principal razão foi mesmo de me ter dedicado a melhorar o [**Cimbalino Windows Phone Toolkit**](tag/cimbalino/), culminando hoje esses melhoramentos com o lançamento da **versão 1.2**!
 
 As alterações são (mesmo) muitas, especialmente no número de serviços agora suportados e nos  *extension methods*, mas para além disso foram adicionados três novos projectos:
 

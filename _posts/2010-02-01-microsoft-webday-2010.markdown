@@ -10,7 +10,7 @@ categories:
 - .NET
 tags: []
 ---
-[![](/wp-content/uploads/2010/02/Microsoft-WebDay-2010.jpg "Microsoft WebDay 2010")](http://www.mswebday.com)Estamos a menos de 24 horas do [Microsoft Webday 2010](http://www.mswebday.com), um evento dedicado às novas tendências e tecnologias orientadas para a internet: Silverlight, Internet Explorer, Expression, ASP.net, e Windows Azure!
+[![](wp-content/uploads/2010/02/Microsoft-WebDay-2010.jpg "Microsoft WebDay 2010")](http://www.mswebday.com)Estamos a menos de 24 horas do [Microsoft Webday 2010](http://www.mswebday.com), um evento dedicado às novas tendências e tecnologias orientadas para a internet: Silverlight, Internet Explorer, Expression, ASP.net, e Windows Azure!
 
 O evento será na [Fundação Dr. António Cupertino de Miranda, no Porto](http://www.mswebday.com/Page/Details/local), e sendo o primeiro evento Microsoft do ano, pode-se dizer que começa muito bem, dado que está já lotado há mais de uma semana!
 

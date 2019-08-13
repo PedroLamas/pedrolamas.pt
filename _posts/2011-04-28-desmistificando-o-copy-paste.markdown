@@ -23,7 +23,7 @@ A sua utilização é muito simples: em qualquer caixa de texto (e no Internet E
 
 Depois é ir à caixa de texto onde pretendemos colar o texto, e carregar no botão que aparece logo acima do teclado (uma dica: podem fazer multiplas colagens simplesmente deslizando o dedo na área do botão de "colar" para que ele torne a aparecer).
 
-[![](/wp-content/uploads/2011/04/Funcionalidade-Copy-Paste-no-Windows-Phone-7-thumb.jpg)](/wp-content/uploads/2011/04/Funcionalidade-Copy-Paste-no-Windows-Phone-7.jpg "Funcionalidade Copy & Paste no Windows Phone 7")
+[![](wp-content/uploads/2011/04/Funcionalidade-Copy-Paste-no-Windows-Phone-7-thumb.jpg)](wp-content/uploads/2011/04/Funcionalidade-Copy-Paste-no-Windows-Phone-7.jpg "Funcionalidade Copy & Paste no Windows Phone 7")
 
 Seguindo a documentação disponibilizada pela Microsoft, quem desenvolve aplicações para o Windows Phone 7 tem apenas que colocar na interface controlos TextBox para que automaticamente o sistema operativo disponibilize esta funcionalidade nesses controlos!
 

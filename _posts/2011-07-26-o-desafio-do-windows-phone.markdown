@@ -20,4 +20,4 @@ tags:
 
 Até ao momento, duas personalidades aceitaram o desafio: [Scott Adams](http://www.dilbert.com/blog/), o autor do imensamente conhecido cartoon [Dilbert](http://www.dilbert.com/), e [Molly Wood](http://news.com/molly-rants), que faz o popular podcast [Buzz Out Loud](http://www.cnet.com/buzz-out-loud-podcast/) na CNet!
 
-[![](/wp-content/uploads/2011/07/Dilbert-Phone-vs.-Hammer-Thumb.jpg "Dilbert: Phone vs. Hammer")](/wp-content/uploads/2011/07/Dilbert-Phone-vs.-Hammer.jpg)
+[![](wp-content/uploads/2011/07/Dilbert-Phone-vs.-Hammer-Thumb.jpg "Dilbert: Phone vs. Hammer")](wp-content/uploads/2011/07/Dilbert-Phone-vs.-Hammer.jpg)

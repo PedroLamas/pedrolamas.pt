@@ -12,7 +12,7 @@ tags:
 - Widgets
 - Vodafone
 ---
-[![Concurso Apps Vodafone](/wp-content/uploads/2009/05/concurso-apps-vodafone.jpg "Concurso Apps Vodafone")](http://www.vodafone.pt/main/Particulares/Servicos/concursoapps.htm)Seguindo o [exemplo da TMN](/2009/03/24/tmn-appstore/), surge agora a [Vodafone](http://www.vodafone.pt) com a intenção de abrir uma *Application Store* para a venda de aplicações para dispositivos móveis!
+[![Concurso Apps Vodafone](wp-content/uploads/2009/05/concurso-apps-vodafone.jpg "Concurso Apps Vodafone")](http://www.vodafone.pt/main/Particulares/Servicos/concursoapps.htm)Seguindo o [exemplo da TMN](2009/03/24/tmn-appstore/), surge agora a [Vodafone](http://www.vodafone.pt) com a intenção de abrir uma *Application Store* para a venda de aplicações para dispositivos móveis!
 
 E para promover a sua loja e chamar os programadores, nada melhor que um [concurso](http://www.vodafone.pt/main/Particulares/Servicos/concursoapps.htm) de desenvolvimento de aplicações... mas é nos prémios que a Vodafone difere da TMN: a aplicação que ficar em o 1º lugar receberá um prémio no valor de 20.000€! Já o 2º será de 5.000€, e o 3º, 4º e 5º receberam cada um 2.500€!
 

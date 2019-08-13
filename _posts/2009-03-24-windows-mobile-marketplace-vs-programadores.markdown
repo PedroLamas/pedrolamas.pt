@@ -13,7 +13,7 @@ tags:
 - Windows Mobile 6.5
 - Windows Mobile Marketplace
 ---
-![Microsoft Windows Mobile Marketplace](/wp-content/uploads/2009/03/microsoft-windows-mobile-marketplace.jpg "Microsoft Windows Mobile Marketplace")Já são conhecidas as condições de utilização da Microsoft Windows Mobile Marketplace no que toca à comercialização de aplicações para o Windows Mobile, e as condições a manterem-se, deixam muito a desejar!!!
+![Microsoft Windows Mobile Marketplace](wp-content/uploads/2009/03/microsoft-windows-mobile-marketplace.jpg "Microsoft Windows Mobile Marketplace")Já são conhecidas as condições de utilização da Microsoft Windows Mobile Marketplace no que toca à comercialização de aplicações para o Windows Mobile, e as condições a manterem-se, deixam muito a desejar!!!
 
 Assim temos o seguinte pressuposto:
 

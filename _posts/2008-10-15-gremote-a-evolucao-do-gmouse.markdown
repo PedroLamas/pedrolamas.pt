@@ -13,7 +13,7 @@ tags:
 - XDA Developers
 - GRemote
 ---
-[![](/wp-content/uploads/2008/10/gremote.jpg "GRemote")](http://forum.xda-developers.com/showthread.php?t=427097)Há alguns dias atrás falei aqui de uma aplicação fantástica que utilizava os sensores de movimento presentes no HTC Touch Diamond e Pro para controlar o rato num computador!
+[![](wp-content/uploads/2008/10/gremote.jpg "GRemote")](http://forum.xda-developers.com/showthread.php?t=427097)Há alguns dias atrás falei aqui de uma aplicação fantástica que utilizava os sensores de movimento presentes no HTC Touch Diamond e Pro para controlar o rato num computador!
 
 Esta aplicação evoluiu, sendo agora chamada de [GRemote](http://forum.xda-developers.com/showthread.php?t=427097), e trazendo um agora uma nova série de opções:
 

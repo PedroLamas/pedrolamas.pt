@@ -9,7 +9,7 @@ categories:
 - Geral
 tags: []
 ---
-![TodayTime Main Window](/wp-content/uploads/2007/12/todaytimemain.png)
+![TodayTime Main Window](wp-content/uploads/2007/12/todaytimemain.png)
 
 Código Fonte
 ------------
@@ -19,7 +19,7 @@ Disponível no [GitHub](https://github.com/PedroLamas/TodayTime)!
 Download
 --------
 
-Última Versão: [0.1.3.1](/wp-content/uploads/2007/12/todaytimecab_0131.zip "TodayTime 0.1.3.1")
+Última Versão: [0.1.3.1](wp-content/uploads/2007/12/todaytimecab_0131.zip "TodayTime 0.1.3.1")
 
 Change Log
 ----------

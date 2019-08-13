@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2010/05/Windows-Phone-7-Developer-Hub-Tour-Event.jpg "Windows Phone 7 Developer Hub Tour Event")](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=pt-PT&EventID=1032451344)
+[![](wp-content/uploads/2010/05/Windows-Phone-7-Developer-Hub-Tour-Event.jpg "Windows Phone 7 Developer Hub Tour Event")](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=pt-PT&EventID=1032451344)
 
 No próximo dia 7 de Junho a Microsoft Portugal apresenta um evento dedicado em exclusido ao devenvolvimento para o Windows Phone 7: o [Windows Phone 7 – Developer Hub Tour](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=pt-PT&EventID=1032451344)!
 

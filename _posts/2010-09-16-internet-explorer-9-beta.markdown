@@ -14,7 +14,7 @@ tags:
 - Internet Explorer
 - Internet Explorer 9
 ---
-[![](/wp-content/uploads/2010/09/Internet-Explorer-9-Beta.jpg "Internet Explorer 9 Beta")](http://www.beautyoftheweb.com/)
+[![](wp-content/uploads/2010/09/Internet-Explorer-9-Beta.jpg "Internet Explorer 9 Beta")](http://www.beautyoftheweb.com/)
 
 Foi ontem apresentado ao mundo o [Microsoft Internet Explorer 9](http://www.beautyoftheweb.com/), para já em versão Beta!
 

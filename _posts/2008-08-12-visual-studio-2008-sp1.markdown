@@ -12,7 +12,7 @@ tags:
 - Programação
 - Visual Studio 2008 SP1
 ---
-[![Visual Studio 2008](/wp-content/uploads/2008/08/visual-studio-2008.jpg "Visual Studio 2008")](http://msdn.microsoft.com/en-us/vstudio/cc533448.aspx)
+[![Visual Studio 2008](wp-content/uploads/2008/08/visual-studio-2008.jpg "Visual Studio 2008")](http://msdn.microsoft.com/en-us/vstudio/cc533448.aspx)
 
 Está disponível para [download](http://msdn.microsoft.com/en-us/vstudio/cc533448.aspx) o Service Pack 1 do Visual Studio 2008!
 

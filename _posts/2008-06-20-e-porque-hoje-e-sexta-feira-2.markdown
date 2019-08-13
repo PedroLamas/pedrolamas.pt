@@ -11,7 +11,7 @@ tags:
 - Euro 2008
 - Sexta-feira
 ---
-![Ricardo vs. Ballack](/wp-content/uploads/2008/06/ricardo-versus-ballack.jpg "Ricardo vs. Ballack")
+![Ricardo vs. Ballack](wp-content/uploads/2008/06/ricardo-versus-ballack.jpg "Ricardo vs. Ballack")
 
 Inicio hoje aqui uma nova rúbrica aqui no blog, dedicada a alguns eventos generalistas e coisas estranhas que me vão aparecendo pelo meu e-mail...
 

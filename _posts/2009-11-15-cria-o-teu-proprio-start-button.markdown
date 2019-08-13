@@ -12,7 +12,7 @@ tags:
 - Windows Mobile
 - Start Button
 ---
-[![My Start Button](/wp-content/uploads/2009/11/My-Start-Button-Thumb.jpg)](/wp-content/uploads/2009/11/My-Start-Button.jpg "My Start Button")Dentro do site oficial do [Windows Phone](http://www.microsoft.com/windowsmobile), podemos agora encontrar uma curiosa ferramenta, que através das escolhas do utilizador, cria um "Start Button" (botão Iniciar) personalizado!
+[![My Start Button](wp-content/uploads/2009/11/My-Start-Button-Thumb.jpg)](wp-content/uploads/2009/11/My-Start-Button.jpg "My Start Button")Dentro do site oficial do [Windows Phone](http://www.microsoft.com/windowsmobile), podemos agora encontrar uma curiosa ferramenta, que através das escolhas do utilizador, cria um "Start Button" (botão Iniciar) personalizado!
 
 As minhas escolhas deram origem à imagem que podem ver neste post! :)
 

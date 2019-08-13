@@ -9,7 +9,7 @@ categories:
 - Geral
 tags: []
 ---
-(Click [here](/projectos/jquery-lightbox-en/) for english description)
+(Click [here](projectos/jquery-lightbox-en/) for english description)
 
 Download
 --------
@@ -33,7 +33,7 @@ Exemplo
 
 Clique na imagem em baixo! :)
 
-[![Nação do Cimbalino](/wp-content/themes/cimbalino/cimbalino-header.png)](/wp-content/themes/cimbalino/cimbalino-header.png "Nação do Cimbalino")
+[![Nação do Cimbalino](wp-content/themes/cimbalino/cimbalino-header.png)](wp-content/themes/cimbalino/cimbalino-header.png "Nação do Cimbalino")
 
 Exemplo de código HTML:
 

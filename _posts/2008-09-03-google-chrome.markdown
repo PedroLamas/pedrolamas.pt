@@ -11,7 +11,7 @@ tags:
 - Beta
 - Google Chrome
 ---
-[![](/wp-content/uploads/2008/09/google-chrome.jpg "Google Chrome")](http://tools.google.com/chrome/)A Google abalou ontem a comunidade de internautas, com o lançamento da primeira versão beta do seu explorador de internet, o [Google Chrome](http://tools.google.com/chrome/)!
+[![](wp-content/uploads/2008/09/google-chrome.jpg "Google Chrome")](http://tools.google.com/chrome/)A Google abalou ontem a comunidade de internautas, com o lançamento da primeira versão beta do seu explorador de internet, o [Google Chrome](http://tools.google.com/chrome/)!
 
 Estive a experimentar este mesmo browser enquanto escrevia este post, e noto que para uma versão dita "beta", parece-me algo avançada e bastante estável, algo que não pude dizer ao utilizar o Internet Explorer 8 Beta 2, que já me deu uma série de "crashes"...
 

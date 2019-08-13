@@ -15,7 +15,7 @@ tags:
 - WP7
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2011/02/Stephen-Elop-Nokia-CEO-and-Steve-Balmer-Microsoft-CEO.jpg "Stephen Elop (Nokia CEO) and Steve Balmer (Microsoft CEO)")](http://www.microsoft.com/presspass/press/2011/feb11/02-11partnership.mspx)De há uma semana para cá corria o boato na Internet de que uma parceria Microsoft/Nokia estaria para breve; e heis que hoje foi confirmada oficialmente num [comunicado de imprensa](http://www.microsoft.com/presspass/press/2011/feb11/02-11partnership.mspx)!
+[![](wp-content/uploads/2011/02/Stephen-Elop-Nokia-CEO-and-Steve-Balmer-Microsoft-CEO.jpg "Stephen Elop (Nokia CEO) and Steve Balmer (Microsoft CEO)")](http://www.microsoft.com/presspass/press/2011/feb11/02-11partnership.mspx)De há uma semana para cá corria o boato na Internet de que uma parceria Microsoft/Nokia estaria para breve; e heis que hoje foi confirmada oficialmente num [comunicado de imprensa](http://www.microsoft.com/presspass/press/2011/feb11/02-11partnership.mspx)!
 
 E o que significa esta parceria no imediato? Que a Nokia vai definitivamente adoptar o Windows Phone 7 na sua principal estratégia quanto a smartphones, trazendo todo o seu "know-how" de vários anos como líder de vendas de telemóveis em todo o mundo para melhorar a experiência que é actualmente o WP7!
 

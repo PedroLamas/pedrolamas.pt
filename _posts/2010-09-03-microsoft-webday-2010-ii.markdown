@@ -15,7 +15,7 @@ tags:
 - Windows Phone 7
 - WebDay
 ---
-[![](/wp-content/uploads/2010/09/Microsoft-Webday-2010.jpg "Microsoft Webday 2010")](http://www.mswebday.com/)Decorre já nos próximos dias 12 de Outubro no Porto e 14 de Outubro em Lisboa, mais um [Microsoft Webday](http://www.mswebday.com/), um evento dedicado às tecnologias de desenvolvimento para a internet.
+[![](wp-content/uploads/2010/09/Microsoft-Webday-2010.jpg "Microsoft Webday 2010")](http://www.mswebday.com/)Decorre já nos próximos dias 12 de Outubro no Porto e 14 de Outubro em Lisboa, mais um [Microsoft Webday](http://www.mswebday.com/), um evento dedicado às tecnologias de desenvolvimento para a internet.
 
 Sendo já o segundo evento deste tipo este ano, a agenda ainda não está fechada mas promete ser bastante interessante, com sessões "essentials" na parte da manhã, e sessões "deep dive" na parte da tarde, com temas que devem passar por Azure, Silverlight 4, Windows Phone 7, HTML5, IE9, ASP .NET 4, ASP .NET MVC 3, WebMatrix, Razor, e outros!
 

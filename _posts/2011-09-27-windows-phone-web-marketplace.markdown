@@ -14,7 +14,7 @@ tags:
 - WP7
 - Marketplace
 ---
-[![](/wp-content/uploads/2011/09/Windows-Phone-Web-Marketplace.png "Windows Phone Web Marketplace")](http://www.windowsphone.com/pt-PT/marketplace)
+[![](wp-content/uploads/2011/09/Windows-Phone-Web-Marketplace.png "Windows Phone Web Marketplace")](http://www.windowsphone.com/pt-PT/marketplace)
 
 Até hoje, para aceder ao Marketplace do Windows Phone, tinhamos que utilizar o Zune no computador, ou então recorrer directamente ao Marketplace através do próprio dispositivo móvel.
 

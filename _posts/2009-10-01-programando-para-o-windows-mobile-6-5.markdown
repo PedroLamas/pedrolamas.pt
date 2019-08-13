@@ -13,7 +13,7 @@ tags:
 - Windows Mobile
 - Windows Mobile 6.5
 ---
-[![Windows Mobile 6.5 Professional Emulator](/wp-content/uploads/2009/06/Windows-Mobile-6.5-Professional-Emulator.jpg "Windows Mobile 6.5 Professional Emulator")](http://msdn.microsoft.com/en-us/library/ee373423.aspx)Agora que o Windows Mobile 6.5 está a dias de ser lançado oficialmente, a Microsoft colocou na [MSDN](http://msdn.microsoft.com/) uma [página](http://msdn.microsoft.com/en-us/library/ee373423.aspx) onde concentra todas as informações necessárias para desenvolver para esta nova versão do Windows Mobile.
+[![Windows Mobile 6.5 Professional Emulator](wp-content/uploads/2009/06/Windows-Mobile-6.5-Professional-Emulator.jpg "Windows Mobile 6.5 Professional Emulator")](http://msdn.microsoft.com/en-us/library/ee373423.aspx)Agora que o Windows Mobile 6.5 está a dias de ser lançado oficialmente, a Microsoft colocou na [MSDN](http://msdn.microsoft.com/) uma [página](http://msdn.microsoft.com/en-us/library/ee373423.aspx) onde concentra todas as informações necessárias para desenvolver para esta nova versão do Windows Mobile.
 
 É sem dúvida um local a consultar por todos os programadores interessados! ;)
 

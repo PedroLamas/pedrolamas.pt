@@ -11,6 +11,6 @@ tags:
 - Microsoft
 - Windows Mobile
 ---
-[![Aplicações nacionais](/wp-content/uploads/2009/10/Aplicações-nacionais.jpg "Aplicações nacionais")](http://www.microsoft.com/windowsmobile/pt-pt/downloads/downloads-portugueses.mspx)De forma a promover as aplicações "tugas" para Windows Mobile, a Microsoft Portugal colocou uma [secção](http://www.microsoft.com/windowsmobile/pt-pt/downloads/downloads-portugueses.mspx) no site dedicado ao seu sistema operativo móvel, para que os programadores portugueses desta plataforma possam disponibilizar as suas aplicações, em formato de demonstração ou versão completa!
+[![Aplicações nacionais](wp-content/uploads/2009/10/Aplicações-nacionais.jpg "Aplicações nacionais")](http://www.microsoft.com/windowsmobile/pt-pt/downloads/downloads-portugueses.mspx)De forma a promover as aplicações "tugas" para Windows Mobile, a Microsoft Portugal colocou uma [secção](http://www.microsoft.com/windowsmobile/pt-pt/downloads/downloads-portugueses.mspx) no site dedicado ao seu sistema operativo móvel, para que os programadores portugueses desta plataforma possam disponibilizar as suas aplicações, em formato de demonstração ou versão completa!
 
 Quem pretender figurar as suas próprias aplicações, poderá fazer-lo directamente [aqui](http://www.wmobiletek.com/).

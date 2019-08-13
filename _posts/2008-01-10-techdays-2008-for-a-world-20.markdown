@@ -13,7 +13,7 @@ tags:
 - Techdays
 - TechdaysPT08
 ---
-[![Techdays 2008 Portugal](/wp-content/uploads/2008/01/techdays2008.jpg)](http://www.techdays.pt "Techdays 2008 Portugal")Começam a aparecer notícias do próximo da 3ª edição do Techdays em Portugal, a realizar do 12 ao 14 de Março de 2008!
+[![Techdays 2008 Portugal](wp-content/uploads/2008/01/techdays2008.jpg)](http://www.techdays.pt "Techdays 2008 Portugal")Começam a aparecer notícias do próximo da 3ª edição do Techdays em Portugal, a realizar do 12 ao 14 de Março de 2008!
 
 Sob o lema "For a World 2.0", o tema da edição de 2008 é exactamente, o ambiente: "a tecnologia ao serviço da protecção, requalificação e formação ambiental."
 

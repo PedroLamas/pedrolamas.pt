@@ -12,7 +12,7 @@ tags:
 - BitTorrent
 - Windows Vista
 ---
-É incrível a velocidade a que hoje a informação circula na Internet... Prova disso mesmo foi o que se passou com o pseudo "[HTC Magnum](/2008/02/05/o-novo-htc-magnum-ou-nao/)", que apesar de nunca tendo existido, as fotos do Francisco segurando o maravilhoso dispositivo correu o mundo em menos de 10 horas!!
+É incrível a velocidade a que hoje a informação circula na Internet... Prova disso mesmo foi o que se passou com o pseudo "[HTC Magnum](2008/02/05/o-novo-htc-magnum-ou-nao/)", que apesar de nunca tendo existido, as fotos do Francisco segurando o maravilhoso dispositivo correu o mundo em menos de 10 horas!!
 
 Agora é Service Pack 1 para o Windows Vista que, juntamente com o Windows Server 2008, tinha sido lançado apenas e só para os fabricantes faz dois dias, e já é facilmente encontrado em tudo o que é servidor de Torrents!
 

@@ -12,7 +12,7 @@ tags:
 - Windows 7
 - Windows 7 RC1
 ---
-[![Windows 7 Release Candidate](/wp-content/uploads/2009/05/windows-7-release-candidate.jpg "Windows 7 Release Candidate")](http://msdn.microsoft.com/en-us/subscriptions/downloads/default.aspx?pv=36:350)Já está disponível para download a primeira *Release Candidate* do [Windows 7](/tag/windows-7/), correspondente ao Build 7100!
+[![Windows 7 Release Candidate](wp-content/uploads/2009/05/windows-7-release-candidate.jpg "Windows 7 Release Candidate")](http://msdn.microsoft.com/en-us/subscriptions/downloads/default.aspx?pv=36:350)Já está disponível para download a primeira *Release Candidate* do [Windows 7](tag/windows-7/), correspondente ao Build 7100!
 
 Esta semana tive a oportunidade de experimentar em primeira mão esta mesma versão, e apenas posso dizer maravilhas dela: desde a velocidade na abertura de aplicações, e no arranque e encerramento da máquina, passando pelos excelentes melhoramentos nas experiência visual prestada ao utilizador, este é sem dúvida a resposta da Microsoft aos constantes problemas que o Windows Vista nos habituou...
 

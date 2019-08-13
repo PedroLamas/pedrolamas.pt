@@ -17,11 +17,11 @@ tags:
 - Marketplace
 - Currency Converter
 ---
-[![](/wp-content/uploads/2010/11/Coding4Fun-Currency-Converter-thumb.jpg "Coding4Fun Currency Converter (thumb)")](/wp-content/uploads/2010/11/Coding4Fun-Currency-Converter.jpg)É com grande satisfação que dou a conhecer a minha primeira aplicação submetida e aprovada para o Marketplace do Windows Phone 7: **Currency Converter**!
+[![](wp-content/uploads/2010/11/Coding4Fun-Currency-Converter-thumb.jpg "Coding4Fun Currency Converter (thumb)")](wp-content/uploads/2010/11/Coding4Fun-Currency-Converter.jpg)É com grande satisfação que dou a conhecer a minha primeira aplicação submetida e aprovada para o Marketplace do Windows Phone 7: **Currency Converter**!
 
 Trata-se de um projecto conjunto com a iniciativa [Coding4Fun](http://blogs.msdn.com/b/coding4fun/) da Microsoft, que consistia no desenvolvimento de uma pequena aplicação de câmbio de valores, utilizando por base o [Bing](http://www.bing.com) como motor de câmbio.
 
-[![](/wp-content/uploads/2010/11/Coding4Fun-Currency-Converter-on-Marketplace-thumb.jpg "Coding4Fun Currency Converter on Marketplace (thumb)")](/wp-content/uploads/2010/11/Coding4Fun-Currency-Converter-on-Marketplace.jpg)
+[![](wp-content/uploads/2010/11/Coding4Fun-Currency-Converter-on-Marketplace-thumb.jpg "Coding4Fun Currency Converter on Marketplace (thumb)")](wp-content/uploads/2010/11/Coding4Fun-Currency-Converter-on-Marketplace.jpg)
 
 Juntamente com esta aplicação, o projecto consistia ainda na publicação de um artigo no blog do Coding4Fun que explique detalhadamente todo o processo de desenvolvimento.
 

@@ -16,7 +16,7 @@ tags:
 - WP7
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2011/05/3º-Seminário-TIPRO-PocketPT.jpg "3º Seminário TI&PRO PocketPT")](http://mtechseminar.pocketpt.net/2011/)Caminhamos a passos largos para o [3º Seminário TI&PRO PocketPT](http://mtechseminar.pocketpt.net/2011/), um evento sobre Windows Phone direccionado especialmente para os profissionais da área da mobilidade!
+[![](wp-content/uploads/2011/05/3º-Seminário-TIPRO-PocketPT.jpg "3º Seminário TI&PRO PocketPT")](http://mtechseminar.pocketpt.net/2011/)Caminhamos a passos largos para o [3º Seminário TI&PRO PocketPT](http://mtechseminar.pocketpt.net/2011/), um evento sobre Windows Phone direccionado especialmente para os profissionais da área da mobilidade!
 
 Iremos ter oradores de grande relevância no panorama nacional da mobilidade, bem como os oradores do [PocketPT](http://www.pocketpt.net) e da Microsoft Portugal que iram sem dúvida enriquecer o evento e os seus participantes em termos de conteúdos.
 

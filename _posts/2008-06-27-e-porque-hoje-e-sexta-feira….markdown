@@ -11,7 +11,7 @@ tags:
 - Vale e Azevedo
 - Sexta-feira
 ---
-![Vale e Azevedo](/wp-content/uploads/2008/06/vale-e-azevedo.jpg "Vale e Azevedo")
+![Vale e Azevedo](wp-content/uploads/2008/06/vale-e-azevedo.jpg "Vale e Azevedo")
 
 Vale e Azevedo, antigo presidente do Benfica e logo a seguir a Pinto da Costa, quiçá o homem mais odiado daquele clube!
 

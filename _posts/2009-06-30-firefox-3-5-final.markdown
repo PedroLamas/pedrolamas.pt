@@ -12,7 +12,7 @@ tags:
 - Mozilla
 - Firefox 3.5
 ---
-[![Firefox 3.5](/wp-content/uploads/2009/06/Firefox-3.5.jpg "Firefox 3.5")](http://www.mozilla.com/en-US/firefox/upgrade.html)
+[![Firefox 3.5](wp-content/uploads/2009/06/Firefox-3.5.jpg "Firefox 3.5")](http://www.mozilla.com/en-US/firefox/upgrade.html)
 
 A Mozilla lançou à poucas horas o [Firefox 3.5](http://www.mozilla.com/en-US/firefox/upgrade.html), a mais recente versão do seu explorador de internet!
 

@@ -38,7 +38,7 @@ Do lado do código temos uma propriedade Items que tem apenas e só 3 items e qu
 
 Até aqui tudo bem, ao executar a aplicação o resultado deverá ser este:
 
-![](/wp-content/uploads/2012/02/ListBox-with-left-aligned-items.png "ListBox with left aligned items")
+![](wp-content/uploads/2012/02/ListBox-with-left-aligned-items.png "ListBox with left aligned items")
 
 Digamos que agora pretendemos alinhar o texto de cada item à direita; normalmente, a seguinte alteração seria suficiente:
 
@@ -64,6 +64,6 @@ O código corrigido ficará estão da seguinte forma:
 
 E aqui temos o resultado final:
 
-![](/wp-content/uploads/2012/02/ListBox-with-right-aligned-items.png "ListBox with right aligned items")
+![](wp-content/uploads/2012/02/ListBox-with-right-aligned-items.png "ListBox with right aligned items")
 
 Pessoalmente, coloco sempre o [ListBoxItem.HorizontalAlignment](http://msdn.microsoft.com/en-us/library/system.windows.frameworkelement.horizontalalignment(v=vs.95).aspx) com o valor [HorizontalAlignment.Stretch](http://msdn.microsoft.com/en-us/library/system.windows.horizontalalignment(v=vs.95).aspx), e depois controlo o alinhamento do item propriamente dito dentro do template; com esta segunda abordagem tenho a garantia de que o item dispõe realmente da largura total da ListBox para apresentar resultados!

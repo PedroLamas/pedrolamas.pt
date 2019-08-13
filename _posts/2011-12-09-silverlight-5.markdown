@@ -13,7 +13,7 @@ tags:
 - Silverlight
 - Silverlight 5
 ---
-[![](/wp-content/uploads/2011/12/Silverlight.png "Silverlight")](http://www.silverlight.net/)Depois de meses com rumores (infundados) de que a Microsoft ia largar o [Silverlight](http://www.silverlight.net) em prole do HTML5, heis que é chegado finalmente o dia de lançamento oficial do [Silverlight 5](http://www.silverlight.net/learn/overview/what's-new-in-silverlight-5/)!
+[![](wp-content/uploads/2011/12/Silverlight.png "Silverlight")](http://www.silverlight.net/)Depois de meses com rumores (infundados) de que a Microsoft ia largar o [Silverlight](http://www.silverlight.net) em prole do HTML5, heis que é chegado finalmente o dia de lançamento oficial do [Silverlight 5](http://www.silverlight.net/learn/overview/what's-new-in-silverlight-5/)!
 
 As novidades são muitas, mas estas são as que mais se destacam:
 

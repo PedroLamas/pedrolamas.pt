@@ -12,7 +12,7 @@ tags:
 - Rato
 - Douglas Engelbart
 ---
-[caption id="attachment\_427" align="aligncenter" width="300" caption="O primeiro rato de computador, na mão de Douglas Engelbart"][![O primeiro "rato", desenvolvido por Douglas Engelbart](/wp-content/uploads/2008/12/primeiro-rato.jpg "Primeiro Rato")](http://en.wikipedia.org/wiki/Douglas_Engelbart)[/caption]
+[caption id="attachment\_427" align="aligncenter" width="300" caption="O primeiro rato de computador, na mão de Douglas Engelbart"][![O primeiro "rato", desenvolvido por Douglas Engelbart](wp-content/uploads/2008/12/primeiro-rato.jpg "Primeiro Rato")](http://en.wikipedia.org/wiki/Douglas_Engelbart)[/caption]
 
 Actualmente presente em tudo o que é computador, o nosso conhecido rato está de parabéns, pois fez esta semana 40 anos de existência!
 

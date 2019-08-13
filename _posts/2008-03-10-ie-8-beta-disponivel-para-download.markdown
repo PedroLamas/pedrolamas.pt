@@ -13,7 +13,7 @@ tags:
 - Internet Explorer
 - Internet Explorer 8
 ---
-[![Internet Explorer 8 Beta](/wp-content/uploads/2008/03/ie8_beta.gif)](http://www.microsoft.com/windows/products/winfamily/ie/ie8/getitnow.mspx "Internet Explorer 8 Beta")
+[![Internet Explorer 8 Beta](wp-content/uploads/2008/03/ie8_beta.gif)](http://www.microsoft.com/windows/products/winfamily/ie/ie8/getitnow.mspx "Internet Explorer 8 Beta")
 
 Indo de encontro com a versão beta do Firefox 3.0, também a Microsoft disponibilizou para download a versão beta do seu novo Internet Explorer 8!
 

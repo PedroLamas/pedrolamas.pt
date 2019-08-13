@@ -12,7 +12,7 @@ tags:
 - Microsoft
 - PDC10
 ---
-[![](/wp-content/uploads/2010/10/Microsoft-PDC10.jpg "Microsoft PDC10")](http://www.microsoftpdc.com/)Estamos a poucas horas do início de mais um Microsoft Professional Developers Conference, ou simplesmente, [PDC10](http://www.microsoftpdc.com/)!
+[![](wp-content/uploads/2010/10/Microsoft-PDC10.jpg "Microsoft PDC10")](http://www.microsoftpdc.com/)Estamos a poucas horas do início de mais um Microsoft Professional Developers Conference, ou simplesmente, [PDC10](http://www.microsoftpdc.com/)!
 
 O evento deste ano passará essencialmente pelas tecnologias da Cloud (focando o Azure), e o novo sistema operativo móvel, o Windows Phone 7.
 

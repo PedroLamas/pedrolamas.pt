@@ -15,7 +15,7 @@ tags:
 - MIX
 - MIX10
 ---
-![](/wp-content/uploads/2010/03/MIX-2010.jpg "MIX 2010")O [MIX10](/tag/mix10/) já deu a conhecer as ferramentas de desenvolvimento para o novo Windows Phone 7 Series, mas a parte mais interessante foi mesmo de saber que estas ferramentas são gratuitas e vão-se manter gratuitas!
+![](wp-content/uploads/2010/03/MIX-2010.jpg "MIX 2010")O [MIX10](tag/mix10/) já deu a conhecer as ferramentas de desenvolvimento para o novo Windows Phone 7 Series, mas a parte mais interessante foi mesmo de saber que estas ferramentas são gratuitas e vão-se manter gratuitas!
 
 O Alberto Silva colocou no seu [blog](http://msmvps.com/blogs/albertosilva/) uma série de posts com [links](http://msmvps.com/blogs/albertosilva/archive/tags/WP7dev/default.aspx) de tudo o que foi apresentado no MIX sobre o desenvolvimento para o WP7, dos quais destaco de imediato o site oficial do [Windows Phone Developer Home](http://developer.windowsphone.com/windows-phone-7-series/)!
 

@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")](http://developer.windowsphone.com)Se ontem foi o [Internet Explorer 9 Beta](/2010/09/16/internet-explorer-9-beta/) de "ver a luz", hoje foram as [Windows Phone Developer Tools](http://developer.windowsphone.com/) que chegaram finalmente à maturidade!
+[![](wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")](http://developer.windowsphone.com)Se ontem foi o [Internet Explorer 9 Beta](2010/09/16/internet-explorer-9-beta/) de "ver a luz", hoje foram as [Windows Phone Developer Tools](http://developer.windowsphone.com/) que chegaram finalmente à maturidade!
 
 Entre outras coisas e como era de se esperar, esta versão trás finalmente os tão esperados controlos Panorama e Pivot para o desenvolvimento de aplicações WP7 compatíveis com Windows Phone Design System (conhecido com o nome de código "Metro")!
 

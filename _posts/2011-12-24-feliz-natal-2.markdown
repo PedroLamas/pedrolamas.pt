@@ -11,6 +11,6 @@ categories:
 tags:
 - Natal
 ---
-![](/wp-content/uploads/2011/12/Merry-Christmas.png "Merry Christmas")Um Feliz Natal para todos os que acompanham o Nação do Cimbalino! :)
+![](wp-content/uploads/2011/12/Merry-Christmas.png "Merry Christmas")Um Feliz Natal para todos os que acompanham o Nação do Cimbalino! :)
 
 Um abraço, Pedro Lamas

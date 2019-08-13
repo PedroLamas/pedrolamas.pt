@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=49b9d0c5-6597-4313-912a-f0cca9c7d277)Juntamente com o início das vendas ao público dos equipamentos com Windows Phone 7, a Microsoft lançou uma [actualização](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=49b9d0c5-6597-4313-912a-f0cca9c7d277) para as Windows Phone Developer Tools.
+[![](wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=49b9d0c5-6597-4313-912a-f0cca9c7d277)Juntamente com o início das vendas ao público dos equipamentos com Windows Phone 7, a Microsoft lançou uma [actualização](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=49b9d0c5-6597-4313-912a-f0cca9c7d277) para as Windows Phone Developer Tools.
 
 Esta nova versão trás algumas correcções e novidades, destacando-se:
 

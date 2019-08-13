@@ -14,7 +14,7 @@ tags:
 - Facebook
 - last.fm
 ---
-![Xbox 360 with Facebook](/wp-content/uploads/2009/10/Xbox-360-with-Facebook.jpg "Xbox 360 with Facebook")Está para breve uma actualização da interface da Xbox 360, que apresenta algumas novidades muito interessantes, como a integração dos serviços [Twitter](http://twitter.com), [Facebook](http://www.facebook.com) e [last.fm](http://www.last.fm/)!
+![Xbox 360 with Facebook](wp-content/uploads/2009/10/Xbox-360-with-Facebook.jpg "Xbox 360 with Facebook")Está para breve uma actualização da interface da Xbox 360, que apresenta algumas novidades muito interessantes, como a integração dos serviços [Twitter](http://twitter.com), [Facebook](http://www.facebook.com) e [last.fm](http://www.last.fm/)!
 
 Quem quiser, estão abertas as [inscrições](https://connect.microsoft.com/XboxLIVEUpdate) para o programa beta.
 

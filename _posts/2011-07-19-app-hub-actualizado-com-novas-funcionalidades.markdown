@@ -20,11 +20,11 @@ Ontem a Microsoft desligou para manutenção grande parte das funcionalidades do
 
 Ao entrar no App Hub, a primeira com que somos logo confrontados é com um quadro com a aceitação dos termos legais a que estamos obrigados:
 
-[![](/wp-content/uploads/2011/07/New-App-Hub-Legal-Terms-of-Use-Thumb.jpg "New App Hub: Legal Terms of Use Thumb")](/wp-content/uploads/2011/07/New-App-Hub-Legal-Terms-of-Use.jpg)
+[![](wp-content/uploads/2011/07/New-App-Hub-Legal-Terms-of-Use-Thumb.jpg "New App Hub: Legal Terms of Use Thumb")](wp-content/uploads/2011/07/New-App-Hub-Legal-Terms-of-Use.jpg)
 
 Quando finalmente damos entrada no Windows Phone Hub, verificamos que a interface foi completamente renovada:
 
-[![](/wp-content/uploads/2011/07/New-App-Hub-Windows-Phone-Hub-Thumb.jpg "New App Hub: Windows Phone Hub Thumb")](/wp-content/uploads/2011/07/New-App-Hub-Windows-Phone-Hub.jpg)
+[![](wp-content/uploads/2011/07/New-App-Hub-Windows-Phone-Hub-Thumb.jpg "New App Hub: Windows Phone Hub Thumb")](wp-content/uploads/2011/07/New-App-Hub-Windows-Phone-Hub.jpg)
 
 No ecrã principal podemos agora encontrar informação sobre os pagamentos, notificações de todos os tipos, resumo das nossas aplicações (onde vamos até encontrar informação sobre os total de bloqueios e craches das aplicações, e a Stack  Trace desses mesmos erros!!!) e relatórios estatísticos.
 

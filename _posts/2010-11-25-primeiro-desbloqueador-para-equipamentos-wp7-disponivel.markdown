@@ -15,7 +15,7 @@ tags:
 - Windows Phone 7
 - ChevronWP7
 ---
-[![](/wp-content/uploads/2010/11/ChevronWP7.jpg "ChevronWP7")](http://www.chevronwp7.com)E eis que chegou o primeiro sistema de "jailbreak" funcional para o Windows Phone 7: [ChevronWP7](http://www.chevronwp7.com/), desenvolvido por [Long Zheng](http://www.istartedsomething.com/), [Rafael Rivera](http://www.withinwindows.com/) e [Chris Walsh](http://blog.walshie.me/)!
+[![](wp-content/uploads/2010/11/ChevronWP7.jpg "ChevronWP7")](http://www.chevronwp7.com)E eis que chegou o primeiro sistema de "jailbreak" funcional para o Windows Phone 7: [ChevronWP7](http://www.chevronwp7.com/), desenvolvido por [Long Zheng](http://www.istartedsomething.com/), [Rafael Rivera](http://www.withinwindows.com/) e [Chris Walsh](http://blog.walshie.me/)!
 
 Estes três heróis(!!) vem assim facilitar um pouco a vida aos programadores, que até agora precisavam de ter uma conta no Windows Phone Marketplace (e para tal, teriam que desembolsar 99 USD) para poderem desbloquear os seus dispositivos, e assim carregar XAP's directamente ou fazer a depuração das suas aplicações!
 

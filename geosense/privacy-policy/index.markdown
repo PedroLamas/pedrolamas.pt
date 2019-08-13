@@ -16,7 +16,7 @@ Last updated: 03-04-2012
 
 In order to provide the information for you, we may need to access your location information. As such, we are providing the following privacy policy. This privacy policy may be updated and you can receive information about updates through the web site or the service.
 
-The latest version of the privacy policy is available to you at [/geosense/privacy-policy/](/geosense/privacy-policy/).
+The latest version of the privacy policy is available to you at [geosense/privacy-policy/](geosense/privacy-policy/).
 
 When you chose to enable location service, we collect the location of your phone and send it over the internet to get the location information.
 

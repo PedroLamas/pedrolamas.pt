@@ -12,7 +12,7 @@ tags:
 - Enterprise Library
 - Patterns &amp; Practices
 ---
-[![Enterprise Library](/wp-content/uploads/2008/05/enterprise_library.png "enterprise_library")](/wp-content/uploads/2008/05/enterprise_library.png)
+[![Enterprise Library](wp-content/uploads/2008/05/enterprise_library.png "enterprise_library")](wp-content/uploads/2008/05/enterprise_library.png)
 
 Já está disponível a versão 4.0 da [Enterprise Library](http://msdn.microsoft.com/en-us/library/cc467894.aspx)!
 

@@ -14,7 +14,7 @@ tags:
 - Policial
 - Saw
 ---
-[![Saw IV](/wp-content/uploads/2008/01/saw-iv.thumbnail.jpg)](/wp-content/uploads/2008/01/saw-iv.jpg "Saw IV")
+[![Saw IV](wp-content/uploads/2008/01/saw-iv.thumbnail.jpg)](wp-content/uploads/2008/01/saw-iv.jpg "Saw IV")
 
 Sendo um assumido fã da série de filmes do Saw, não podia deixar de ver o último: [Saw IV - A Revelação](http://www.imdb.com/title/tt0890870/).
 

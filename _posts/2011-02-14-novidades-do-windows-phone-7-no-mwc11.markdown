@@ -18,7 +18,7 @@ tags:
 - Windows Phone 7
 - MWC11
 ---
-[![](/wp-content/uploads/2011/02/Mobile-World-Congress-2011.jpg "Mobile World Congress 2011")](http://www.microsoft.com/Presspass/Features/2011/feb11/02-14MWC.mspx)Acabou à poucos minutos a Keynote da Microsoft no [Mobile World Congress](http://www.mobileworldcongress.com) (MWC), onde foram apresentadas as novas funcionalidades que estarão presentes no Windows Phone 7 ainda este ano!
+[![](wp-content/uploads/2011/02/Mobile-World-Congress-2011.jpg "Mobile World Congress 2011")](http://www.microsoft.com/Presspass/Features/2011/feb11/02-14MWC.mspx)Acabou à poucos minutos a Keynote da Microsoft no [Mobile World Congress](http://www.mobileworldcongress.com) (MWC), onde foram apresentadas as novas funcionalidades que estarão presentes no Windows Phone 7 ainda este ano!
 
 As novidades são as seguintes:
 

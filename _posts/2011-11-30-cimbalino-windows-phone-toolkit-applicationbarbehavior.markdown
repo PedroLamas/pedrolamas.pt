@@ -16,7 +16,7 @@ tags:
 - ApplicationBar
 - ApplicationBarBehavior
 ---
-![](/wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")A [ApplicationBar](http://msdn.microsoft.com/en-us/library/microsoft.phone.shell.applicationbar(v=vs.92).aspx) disponível para utilização no desenvolvimento de aplicações para Windows Phone foi desde o primeiro dia uma grande dor de cabeça para os programadores, pelo simples facto de este controlo não ser um [FrameworkElement](http://msdn.microsoft.com/en-us/library/system.windows.frameworkelement(v=VS.95).aspx).
+![](wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")A [ApplicationBar](http://msdn.microsoft.com/en-us/library/microsoft.phone.shell.applicationbar(v=vs.92).aspx) disponível para utilização no desenvolvimento de aplicações para Windows Phone foi desde o primeiro dia uma grande dor de cabeça para os programadores, pelo simples facto de este controlo não ser um [FrameworkElement](http://msdn.microsoft.com/en-us/library/system.windows.frameworkelement(v=VS.95).aspx).
 
 Quer isto dizer que não é possível aplicar Styles ou Templates à ApplicationBar, e mais importante ainda, não é possível fazer Binding das suas propriedades, algo que complica e muito quem quer utilizar uma arquitectura baseada em MVVM!
 

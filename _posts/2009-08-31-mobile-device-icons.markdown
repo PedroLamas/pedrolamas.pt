@@ -11,4 +11,4 @@ tags:
 - Windows Mobile
 - Mobile Device Icons
 ---
-[![Mobile Device Icons](/wp-content/uploads/2009/08/Mobile-Device-Icons.jpg "Mobile Device Icons")](http://www.iconarchive.com/category/computer/mobile-device-icons-by-pierocksmysocks.html)Porque nunca se sabe quando podemos precisar de um icon de um dado dispositivo móvel, aqui fica uma colecção de [60 icons de alta qualidade](http://www.iconarchive.com/category/computer/mobile-device-icons-by-pierocksmysocks.html) que encontrei recentemente.
+[![Mobile Device Icons](wp-content/uploads/2009/08/Mobile-Device-Icons.jpg "Mobile Device Icons")](http://www.iconarchive.com/category/computer/mobile-device-icons-by-pierocksmysocks.html)Porque nunca se sabe quando podemos precisar de um icon de um dado dispositivo móvel, aqui fica uma colecção de [60 icons de alta qualidade](http://www.iconarchive.com/category/computer/mobile-device-icons-by-pierocksmysocks.html) que encontrei recentemente.

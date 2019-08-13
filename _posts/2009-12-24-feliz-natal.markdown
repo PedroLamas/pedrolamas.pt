@@ -10,6 +10,6 @@ categories:
 tags:
 - Natal
 ---
-[![](/wp-content/uploads/2009/12/Christmas-Puppy.jpg "Christmas Puppy")](/wp-content/uploads/2009/12/Christmas-Puppy.jpg)Queria apenas para desejar um **Feliz Natal** para todos aqueles que me acompanham aqui no Nação do Cimbalino! :)
+[![](wp-content/uploads/2009/12/Christmas-Puppy.jpg "Christmas Puppy")](wp-content/uploads/2009/12/Christmas-Puppy.jpg)Queria apenas para desejar um **Feliz Natal** para todos aqueles que me acompanham aqui no Nação do Cimbalino! :)
 
 Um abraço, Pedro Lamas

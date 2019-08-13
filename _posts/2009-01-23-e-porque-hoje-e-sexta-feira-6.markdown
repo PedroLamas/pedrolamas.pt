@@ -11,7 +11,7 @@ tags:
 - Sexta-feira
 - Barack Obama
 ---
-[caption id="attachment\_498" align="alignnone" width="453" caption="Barack Obama durante o seu juramento como Presidente dos E.U.A."]![Barack Obama durante o seu juramento como Presidente dos E.U.A.](/wp-content/uploads/2009/01/barack-obama.jpg "Barack Obama")[/caption]
+[caption id="attachment\_498" align="alignnone" width="453" caption="Barack Obama durante o seu juramento como Presidente dos E.U.A."]![Barack Obama durante o seu juramento como Presidente dos E.U.A.](wp-content/uploads/2009/01/barack-obama.jpg "Barack Obama")[/caption]
 
 Foi a notícia da semana: Barack Obama tomou posse como Presidente dos Estados Unidos da América, herdando uma pesada herança deixada pela anterior administração de George W. Bush!
 

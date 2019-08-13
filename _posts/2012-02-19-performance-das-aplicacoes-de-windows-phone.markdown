@@ -25,7 +25,7 @@ Imagens
 
 Sempre que possível, utilizar imagens em formato JPEG em vez de PNG. É certo que os ficheiros JPEG tem perda de qualidade e que não suportam transparência, mas sempre que estes dois pontos não forem impeditivos (por exemplo, em fotos ou fundos da aplicação), este é o formato preferencial dado que a sua descodificação e leitura é em geral mais rápida.
 
-Outra questão nas imagens é relativamente ao seu carregamento fora do thread da interface, algo que já anteriormente referi [neste artigo](/2011/10/28/bitmapimage-no-windows-phone-mango/).
+Outra questão nas imagens é relativamente ao seu carregamento fora do thread da interface, algo que já anteriormente referi [neste artigo](2011/10/28/bitmapimage-no-windows-phone-mango/).
 
 Com o Expression Design é possível criar imagens vectoriais que são elementos em formato XAML; mais uma vez, sempre que possível, prefiram guardar e usar essas imagens em formato estático em vez de usarem o XAML!
 

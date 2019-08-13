@@ -12,7 +12,7 @@ tags:
 - Windows 7
 - PDC08
 ---
-[![](/wp-content/uploads/2008/10/windows-7-desktop-thumb.jpg)](/wp-content/uploads/2008/10/windows-7-desktop.png "Windows 7 Desktop")Com o decorrer do [PDC](/tag/pdc08/), novas imagens do [Windows 7](/tag/windows-7/) (desta vez, totalmente reais) apareceram espalhadas por inúmeros locais na Internet!
+[![](wp-content/uploads/2008/10/windows-7-desktop-thumb.jpg)](wp-content/uploads/2008/10/windows-7-desktop.png "Windows 7 Desktop")Com o decorrer do [PDC](tag/pdc08/), novas imagens do [Windows 7](tag/windows-7/) (desta vez, totalmente reais) apareceram espalhadas por inúmeros locais na Internet!
 
 Basta pesquisar no Google para rapidamente encontrar inumeros screenshots de utilizadores que já instalaram e experimentaram aquele que será o sucessor do Windows Vista, mas gostei da [análise](http://tek.sapo.pt/multimedia/primeiras_imagens_do_windows_7_893596.html) que o [Tek Sapo](http://tek.sapo.pt/) apresentou sobre o novo sistema operativo!
 

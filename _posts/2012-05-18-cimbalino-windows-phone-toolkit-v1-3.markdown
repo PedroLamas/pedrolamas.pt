@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - WPDev
 ---
-[![](/wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org)Encontra-se disponível desde ontem a **versão 1.3** do [**Cimbalino Windows Phone Toolkit**](/tag/cimbalino/)!
+[![](wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org)Encontra-se disponível desde ontem a **versão 1.3** do [**Cimbalino Windows Phone Toolkit**](tag/cimbalino/)!
 
 Entre os vários melhoramentos e correcções feitas, existe agora um novo projecto:
 
@@ -27,7 +27,7 @@ Para já, o único controlo presente é o **PropertyGrid**, a grande novidade d
 
 Este controlo simula no Windows Phone o comportamento do [PropertyGrid](http://msdn.microsoft.com/en-us/library/system.windows.forms.propertygrid.aspx) que encontramos em Windows Forms: basta apontar para um qualquer objecto, e ele tratará de desenhar a interface mais adequeada de acordo com as propriedades e os metadados do objecto em causa.
 
-[![](/wp-content/uploads/2012/05/PropertyGrid-control-from-Cimbalino-Windows-Phone-Toolkit-thumb.png "PropertyGrid control from Cimbalino Windows Phone Toolkit")](/wp-content/uploads/2012/05/PropertyGrid-control-from-Cimbalino-Windows-Phone-Toolkit.png)
+[![](wp-content/uploads/2012/05/PropertyGrid-control-from-Cimbalino-Windows-Phone-Toolkit-thumb.png "PropertyGrid control from Cimbalino Windows Phone Toolkit")](wp-content/uploads/2012/05/PropertyGrid-control-from-Cimbalino-Windows-Phone-Toolkit.png)
 
 Para melhor se perceber o comportamento do controlo, podem consultar o [exemplo](https://github.com/Cimbalino/Cimbalino-Phone-Toolkit/tree/master/samples/ManipulateObjectProperties) disponível no [código fonte do toolkit](https://github.com/Cimbalino/Cimbalino-Phone-Toolkit).
 

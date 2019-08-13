@@ -14,6 +14,6 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2010/07/ApplicationIcon.png "Windows Phone 7 Analog Clock")](http://wp7analogclock.codeplex.com/)Acabei de actualizar a minha aplicação de demonstração de um Relógio Analógico (Analog Clock) para o Windows Phone 7, de acordo com a Windows Phone Developer Tools versão Beta!
+[![](wp-content/uploads/2010/07/ApplicationIcon.png "Windows Phone 7 Analog Clock")](http://wp7analogclock.codeplex.com/)Acabei de actualizar a minha aplicação de demonstração de um Relógio Analógico (Analog Clock) para o Windows Phone 7, de acordo com a Windows Phone Developer Tools versão Beta!
 
 Podem aceder à solução directamente no [CodePlex](http://www.codeplex.com/) em [http://wp7analogclock.codeplex.com/](http://wp7analogclock.codeplex.com/).

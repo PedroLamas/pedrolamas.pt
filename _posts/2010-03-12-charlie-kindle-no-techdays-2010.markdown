@@ -15,6 +15,6 @@ tags:
 - Windows Phone 7 Series
 - TechdaysPT10
 ---
-![](/wp-content/uploads/2010/02/Techdays-2010.jpg "Microsoft Techdays 2010 Portugal")Está confirmada a presença de [Charlie Kindle](http://blogs.msdn.com/ckindel/), Partner Manager da equipa do Windows Phone 7, no [Techdays](http://www.techdays2010.com/) deste ano!
+![](wp-content/uploads/2010/02/Techdays-2010.jpg "Microsoft Techdays 2010 Portugal")Está confirmada a presença de [Charlie Kindle](http://blogs.msdn.com/ckindel/), Partner Manager da equipa do Windows Phone 7, no [Techdays](http://www.techdays2010.com/) deste ano!
 
 Pelo menos [uma sessão](http://www.techdays2010.com/Event/Session/Details/windows-phone-session-1) e a própria [keynote](http://www.techdays2010.com/Event/Session/Details/keynote-sessao-abertura-techdays-2010) terão a participação dele!

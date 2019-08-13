@@ -16,7 +16,7 @@ tags:
 - WP7Dev
 - WPDev
 ---
-![](/wp-content/uploads/2011/11/Windows-Phone-Development-@-Instituto-Politécnico-da-Guarda.png "Windows Phone Development @ Instituto Politécnico da Guarda")
+![](wp-content/uploads/2011/11/Windows-Phone-Development-@-Instituto-Politécnico-da-Guarda.png "Windows Phone Development @ Instituto Politécnico da Guarda")
 
 Ontem tive o prazer de apresentar um Workshop sobre Windows Phone Development no [Instituto Politécnico da Guarda](http://www.ipg.pt/) (IPG), aceitando com todo o gosto o convite que me foi feito pelo Prof. Carlos Carreto, coordenador do [Mestrado em Computação Móvel](http://mcm.ipg.pt) leccionado nesta instituição.
 

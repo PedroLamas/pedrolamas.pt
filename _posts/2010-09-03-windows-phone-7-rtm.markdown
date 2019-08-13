@@ -13,7 +13,7 @@ tags:
 - WP7
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2010/09/01/windows-phone-7-released-to-manufacturing.aspx)O dia de 1 Setembro marca um ponto essencial na história do Windows Phone 7, com a [notícia](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2010/09/01/windows-phone-7-released-to-manufacturing.aspx) da disponibilização da versão RTM para os parceiros e fabricantes!
+[![](wp-content/uploads/2010/07/Windows-Phone-7.jpg "Windows Phone 7")](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2010/09/01/windows-phone-7-released-to-manufacturing.aspx)O dia de 1 Setembro marca um ponto essencial na história do Windows Phone 7, com a [notícia](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2010/09/01/windows-phone-7-released-to-manufacturing.aspx) da disponibilização da versão RTM para os parceiros e fabricantes!
 
 Sendo este um sistema operativo desenhado a pensar no utilizador final, desde a versão inicial muitos elementos foram adicionados, outros melhorados e corrigidos, para que hoje se possa realmente dizer que existe um sério candidato a "iPhone Killer"!
 

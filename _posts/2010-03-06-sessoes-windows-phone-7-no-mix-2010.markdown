@@ -17,7 +17,7 @@ tags:
 - WP7
 - WP7S
 ---
-[![](/wp-content/uploads/2010/03/MIX-2010.jpg "MIX 2010")](http://live.visitmix.com/)Já são conhecidos os [detalhes das sessões](http://live.visitmix.com/Sessions#/tags/WindowsPhone) dedicadas ao desenvolvimento para equipamentos Windows Phone 7 Series, a serem apresentadas na edição deste ano do [MIX](http://live.visitmix.com/)!
+[![](wp-content/uploads/2010/03/MIX-2010.jpg "MIX 2010")](http://live.visitmix.com/)Já são conhecidos os [detalhes das sessões](http://live.visitmix.com/Sessions#/tags/WindowsPhone) dedicadas ao desenvolvimento para equipamentos Windows Phone 7 Series, a serem apresentadas na edição deste ano do [MIX](http://live.visitmix.com/)!
 
 Resumidamente, são elas:
 

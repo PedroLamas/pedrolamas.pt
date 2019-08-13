@@ -14,7 +14,7 @@ tags:
 - Windows Mobile
 - Silverlight 2.0
 ---
-![Microsoft Silverlight](/wp-content/uploads/2008/10/silverlight.jpg "Microsoft Silverlight")Já há algum tempo que não se ouviam novidades da plataforma [Silverlight](http://silverlight.net) na sua vertente Windows Mobile, mas eis que aparece o [msmobiles.com](http://msmobiles.com/) com um completo ponto de situação, de onde destaco os seguintes pontos:
+![Microsoft Silverlight](wp-content/uploads/2008/10/silverlight.jpg "Microsoft Silverlight")Já há algum tempo que não se ouviam novidades da plataforma [Silverlight](http://silverlight.net) na sua vertente Windows Mobile, mas eis que aparece o [msmobiles.com](http://msmobiles.com/) com um completo ponto de situação, de onde destaco os seguintes pontos:
 
 -   Neste momento, o Silverlight não está disponível para Windows Mobile, quer oficialmente ou não (e não, pelo menos até agora nem pelos "canais menos legais" é possível fazer o seu download).
 -   Dentro da Microsoft existe isso sim é um ficheiro de instalação chamado "Silverlight 2 for Windows Mobile December 2008 CTP.msi", disponibilizado apenas a alguns funcionários (sortudos!)

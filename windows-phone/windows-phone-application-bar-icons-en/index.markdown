@@ -9,7 +9,7 @@ date: 2011-09-12 22:53:40.000000000 +01:00
 categories: []
 tags: []
 ---
-(Clique [aqui](/projectos/windows-phone-application-bar-icons/) para a descrição em português)
+(Clique [aqui](projectos/windows-phone-application-bar-icons/) para a descrição em português)
 
 Download
 --------
@@ -30,7 +30,7 @@ This number seemed quite low to get things done, even more after seeing the othe
 
 Thus, I now present you a collection of 132 extra icons in comparison to the 32 that comes on the SDK (please click on the image below to get a full size visualization of the collection)
 
-[![](/wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons-Thumb.png "Windows Phone 7.1 Application Bar Icons")](/wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons.png)
+[![](wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons-Thumb.png "Windows Phone 7.1 Application Bar Icons")](wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons.png)
 
 A large part of these icons are really the original ones that show up in the Windows Phone 7 apps (extracted from the application resources), others where simply modified to get the correct measures (changing the "canvas" to 48x48, the right size to this type of icons).
 

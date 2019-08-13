@@ -14,6 +14,6 @@ tags:
 - LG
 - LG Maximo 7
 ---
-[![](/wp-content/uploads/2010/12/Teste-ao-LG-Maximo-7.jpg "Teste ao LG Maximo 7")](http://www.pocketpt.net/forum/index.php?showtopic=32868)O Natal está à porta e o [PocketPT](http://www.pocketpt.net) apresenta uma sugestão para o sapatinho: o [LG Maximo 7](http://www.lg.com/pt/telemoveis/modelos/LG-E900.jsp), apresentado num magnífico teste realizado pelo [Ricardo Chaves](http://ricardochaves.pocketpt.net)!
+[![](wp-content/uploads/2010/12/Teste-ao-LG-Maximo-7.jpg "Teste ao LG Maximo 7")](http://www.pocketpt.net/forum/index.php?showtopic=32868)O Natal está à porta e o [PocketPT](http://www.pocketpt.net) apresenta uma sugestão para o sapatinho: o [LG Maximo 7](http://www.lg.com/pt/telemoveis/modelos/LG-E900.jsp), apresentado num magnífico teste realizado pelo [Ricardo Chaves](http://ricardochaves.pocketpt.net)!
 
 Este foi o primeiro equipamento Windows Phone 7 colocado à venda em Portugal, e destaca-se não só pelo seu preço mais apelativo relativamente à concorrência, mas também pelas suas capacidades de transmissão de conteúdos multimédia através do protocolo DLNA!

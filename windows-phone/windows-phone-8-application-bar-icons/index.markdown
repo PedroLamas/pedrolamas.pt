@@ -28,7 +28,7 @@ Para mim, este número revelou-se muito insuficiente para suprir as minhas neces
 
 Dessa forma, apresento-vos uma colecção de **99 novos ícones** relativamente aos que são disponibilizados no SDK (cliquem na imagem abaixo para terem uma visualização da colecção no tamanho original)
 
-[![Windows Phone 8 Application Bar Icons](/wp-content/uploads/2012/12/Windows-Phone-8-Application-Bar-Icons-Thumb.png "Windows Phone 8 Application Bar Icons")](/wp-content/uploads/2012/12/Windows-Phone-8-Application-Bar-Icons.png)
+[![Windows Phone 8 Application Bar Icons](wp-content/uploads/2012/12/Windows-Phone-8-Application-Bar-Icons-Thumb.png "Windows Phone 8 Application Bar Icons")](wp-content/uploads/2012/12/Windows-Phone-8-Application-Bar-Icons.png)
 
 Grande parte destes ícones são realmente os originais que aparecem nas aplicações do Windows Phone 8 (obtidos directamente dos *resources* binários das aplicações), outros foram simplesmente modificados de forma a ficarem com as medidas correctas (modificado o "canvas" para 76x76, o tamanho correcto para este tipo de ícones).
 

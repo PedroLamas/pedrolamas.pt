@@ -17,6 +17,6 @@ tags:
 - Windows Mobile 7
 - Windows Phone 7 Series
 ---
-[![](/wp-content/uploads/2010/02/Windows-Phone-7-Series.jpg "Windows Phone 7 Series")](http://www.windowsphone7series.com/)Tal como já era esperado, há menos de uma hora Steve Ballmer apresentou ao mundo o [Windows Phone 7 Series](http://www.windowsphone7series.com/), o novo sistema operativo da Microsoft para dispositivos móveis!
+[![](wp-content/uploads/2010/02/Windows-Phone-7-Series.jpg "Windows Phone 7 Series")](http://www.windowsphone7series.com/)Tal como já era esperado, há menos de uma hora Steve Ballmer apresentou ao mundo o [Windows Phone 7 Series](http://www.windowsphone7series.com/), o novo sistema operativo da Microsoft para dispositivos móveis!
 
 Com uma interface notoriamente baseada no Zune, este promete ser um dispositivo móvel tanto para utilização profissional, como pessoal!

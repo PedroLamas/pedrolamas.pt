@@ -17,7 +17,7 @@ tags:
 - ChevronWP7
 - WPDev
 ---
-[![](/wp-content/uploads/2011/11/ChevronWP7-Labs.png "ChevronWP7 Labs")](http://labs.chevronwp7.com/)Está (finalmente!) aberto o [ChevronWP7 Labs](http://labs.chevronwp7.com/), onde qualquer programador por uma pequena quantia (9 doláres, menos de 7 euros), pode desbloquear o seu Windows Phone para desenvolver aplicações!
+[![](wp-content/uploads/2011/11/ChevronWP7-Labs.png "ChevronWP7 Labs")](http://labs.chevronwp7.com/)Está (finalmente!) aberto o [ChevronWP7 Labs](http://labs.chevronwp7.com/), onde qualquer programador por uma pequena quantia (9 doláres, menos de 7 euros), pode desbloquear o seu Windows Phone para desenvolver aplicações!
 
 Tudo o que precisam é de uma conta [PayPal](http://www.paypal.com) para fazerem o pagamento, uma conta Live para o registo, a ferramenta de desbloqueio criada para equipa do ChevronWP7, e o SDK do Windows Phone correctamente instalado.
 

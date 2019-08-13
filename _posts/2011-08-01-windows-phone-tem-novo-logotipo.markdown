@@ -15,10 +15,10 @@ tags:
 - WPDev
 - Metro
 ---
-![](/wp-content/uploads/2011/08/Windows-Phone-new-logo.jpg "Windows Phone new logo")
+![](wp-content/uploads/2011/08/Windows-Phone-new-logo.jpg "Windows Phone new logo")
 
 Nas últimas semanas começou a circular pela Internet o novo logótipo do Windows Phone 7.5 e este acaba de ser confirmado oficialmente através de um [artigo](http://blogs.msdn.com/b/shintak/archive/2011/08/01/10191547.aspx) num blog da Microsoft Japão.
 
 A nova imagem vem muito mais de encontro ao restante tema "Metro" que podemos encontrar em todo o Windows Phone, e conta já com alguns esquemas de cor diferentes:
 
-![](/wp-content/uploads/2011/08/New-Windows-Phone-Logo-with-different-colors.jpg "New Windows Phone Logo with different colors")
+![](wp-content/uploads/2011/08/New-Windows-Phone-Logo-with-different-colors.jpg "New Windows Phone Logo with different colors")

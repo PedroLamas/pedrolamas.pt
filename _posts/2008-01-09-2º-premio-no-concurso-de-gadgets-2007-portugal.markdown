@@ -15,7 +15,7 @@ tags:
 - Sidebar
 - resultados
 ---
-Acabou à poucos momentos o 1º concurso de gadgets português, e consultando os [resultados](http://www.gadgetcompetition.com.pt) não pude deixar de ficar muito satisfeito com o 2º lugar obtido com o [Hattrick Gadget](/projectos/hattrick-gadget/)!
+Acabou à poucos momentos o 1º concurso de gadgets português, e consultando os [resultados](http://www.gadgetcompetition.com.pt) não pude deixar de ficar muito satisfeito com o 2º lugar obtido com o [Hattrick Gadget](projectos/hattrick-gadget/)!
 
 Não deixando de ser um excelente lugar, não posso deixar de admitir uma certa surpresa quanto aos resultados finais... Ainda assim, acredito na total honestidade dos votos e como tal aceito plenamente os resultados finais!
 

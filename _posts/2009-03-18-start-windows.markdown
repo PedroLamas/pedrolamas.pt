@@ -14,4 +14,4 @@ tags:
 - Start Windows
 - Windows Phone
 ---
-E foi com este mesmo vídeo que a Microsoft deu a conhecer no [MWC](/tag/mwc09/) que decorreu à algumas semanas atrás, a sua visão para o futuro da Mobilidade, com a introdução do conceito de Windows Phone, e tudo o que pode ser feito com um! :)
+E foi com este mesmo vídeo que a Microsoft deu a conhecer no [MWC](tag/mwc09/) que decorreu à algumas semanas atrás, a sua visão para o futuro da Mobilidade, com a introdução do conceito de Windows Phone, e tudo o que pode ser feito com um! :)

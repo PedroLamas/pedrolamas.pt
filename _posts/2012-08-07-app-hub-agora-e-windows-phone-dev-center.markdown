@@ -17,7 +17,7 @@ tags:
 - App Hub
 - WPDev
 ---
-[![](/wp-content/uploads/2012/08/Windows-Phone-Dev-Center.png "Windows Phone Dev Center")](http://dev.windowsphone.com/)
+[![](wp-content/uploads/2012/08/Windows-Phone-Dev-Center.png "Windows Phone Dev Center")](http://dev.windowsphone.com/)
 
 A prometida evolução do portal de desenvolvimento App Hub foi hoje conhecida, e dá pelo nome de [Windows Phone Dev Center](http://dev.windowsphone.com/)!
 

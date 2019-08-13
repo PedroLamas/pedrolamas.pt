@@ -15,7 +15,7 @@ tags:
 - Acção
 - Underworld
 ---
-[![Underworld: Rise of the Lycans](/wp-content/uploads/2009/03/underworld-rise-of-the-lycans-150x150.jpg)](/wp-content/uploads/2009/03/underworld-rise-of-the-lycans.jpg "Underworld: Rise of the Lycans")Retornando à batalha incessante entre Vampiros e Lobisomens, [Underworld: Rise of the Lycans](http://www.imdb.com/title/tt0834001/) (Underworld: A Revolta) mostra-nos como tudo começou, numa era feudal em que os lobisomens (Lycans) eram escravos dos vampiros aristocratas.
+[![Underworld: Rise of the Lycans](wp-content/uploads/2009/03/underworld-rise-of-the-lycans-150x150.jpg)](wp-content/uploads/2009/03/underworld-rise-of-the-lycans.jpg "Underworld: Rise of the Lycans")Retornando à batalha incessante entre Vampiros e Lobisomens, [Underworld: Rise of the Lycans](http://www.imdb.com/title/tt0834001/) (Underworld: A Revolta) mostra-nos como tudo começou, numa era feudal em que os lobisomens (Lycans) eram escravos dos vampiros aristocratas.
 
 Neste filme vemos Michael Sheen mais uma vez no papel de Lucian, aparecendo como o lider da revolta dos Lycans contra os Vampiros liderados por Viktor (Bill Nighy); no elenco encontramos ainda Rhona Mitra no papel de Sonja, a filha de Viktor que se envolve amorosamente com Lucian.
 

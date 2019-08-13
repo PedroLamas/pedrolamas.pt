@@ -17,7 +17,7 @@ tags:
 - ApplicationBarBehavior
 - WP8Dev
 ---
-[![](/wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org/)Como prenda de fim de ano, a **versão 2.0** do [**Cimbalino Windows Phone Toolkit**](/tag/cimbalino/) está agora disponível! :D
+[![](wp-content/uploads/2011/11/Cimbalino-Windows-Phone-Toolkit.png "Cimbalino Windows Phone Toolkit")](http://cimbalino.org/)Como prenda de fim de ano, a **versão 2.0** do [**Cimbalino Windows Phone Toolkit**](tag/cimbalino/) está agora disponível! :D
 
 E aqui está a lista (resumida!) das novidades:
 

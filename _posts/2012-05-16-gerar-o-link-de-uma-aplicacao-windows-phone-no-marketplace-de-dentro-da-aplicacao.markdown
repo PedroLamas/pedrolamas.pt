@@ -19,11 +19,11 @@ tags:
 ---
 Depois de submetida ao Marketplace, cada aplicação passa a ter um link directo personalizado para a página de instalação, facilitando assim a partilha da mesma!
 
-A título de exemplo, o link de instalação da minha aplicação [Totojogos](/2012/03/01/totojogos/) é [http://windowsphone.com/s?appid=bba5b571-13d3-49e9-841e-0e2bf0009fd3](http://windowsphone.com/s?appid=bba5b571-13d3-49e9-841e-0e2bf0009fd3)
+A título de exemplo, o link de instalação da minha aplicação [Totojogos](2012/03/01/totojogos/) é [http://windowsphone.com/s?appid=bba5b571-13d3-49e9-841e-0e2bf0009fd3](http://windowsphone.com/s?appid=bba5b571-13d3-49e9-841e-0e2bf0009fd3)
 
 Este é o link aparece no AppHub, na página de detalhes ("details") da aplicação, com a designação de "deep link" conforme mostra a imagem:
 
-![](/wp-content/uploads/2012/05/Deep-Link-in-AppHub-application-page.png "Deep Link in AppHub application page")
+![](wp-content/uploads/2012/05/Deep-Link-in-AppHub-application-page.png "Deep Link in AppHub application page")
 
 Estes links tem uma parte fixa e uma variável, que é basicamente o identificador da aplicação; podemos daqui facilmente perceber que o link tem o seguinte formato:
 

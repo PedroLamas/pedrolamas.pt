@@ -10,7 +10,7 @@ categories:
 tags:
 - QuickMark
 ---
-[![](/wp-content/uploads/2008/09/quickmark.png "QuickMark")](http://www.quickmark.com.tw/)A ideia de utilizar códigos de barras de duas dimensões já não é recente, e até mesmo a Microsoft tem utilizado este tipo de tecnologia nas impressões das faces dos CD's e DVD's dos seus programas.
+[![](wp-content/uploads/2008/09/quickmark.png "QuickMark")](http://www.quickmark.com.tw/)A ideia de utilizar códigos de barras de duas dimensões já não é recente, e até mesmo a Microsoft tem utilizado este tipo de tecnologia nas impressões das faces dos CD's e DVD's dos seus programas.
 
 O [QuickMark](http://www.quickmark.com.tw/) é um dos programas que utiliza esta tecnologia, sendo compatível com a maior parte dos telemóveis e PDA's do mercado.
 

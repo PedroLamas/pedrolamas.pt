@@ -12,7 +12,7 @@ tags:
 - Beta
 - Windows 7
 ---
-![Windows 7 Build 7000](/wp-content/uploads/2009/01/windows-7-build-7000.jpg "Windows 7 Build 7000")Como que por magia(!), surgiu na passada semana na Internet a primeira versão "beta" do [Windows 7](/tag/windows-7/), correspondendo ao Build 7000!
+![Windows 7 Build 7000](wp-content/uploads/2009/01/windows-7-build-7000.jpg "Windows 7 Build 7000")Como que por magia(!), surgiu na passada semana na Internet a primeira versão "beta" do [Windows 7](tag/windows-7/), correspondendo ao Build 7000!
 
 Estando disponível nos "canais do costume", tenho vindo a testar este novo sistema operativo, e estou em condições de poder confirmar os rumores que afirmam tratar-se de um sistema operativo notoriamente mais rápido e leve que o Windows Vista, chegando mesmo a ser mais rápido que o Windows XP em alguns aspectos, como por exemplo em tempo de arranque!
 

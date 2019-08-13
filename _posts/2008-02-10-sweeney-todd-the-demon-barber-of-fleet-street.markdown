@@ -14,7 +14,7 @@ tags:
 - Sweeney Todd
 - Musical
 ---
-[![Sweeney Todd](/wp-content/uploads/2008/02/sweeneytodd.thumbnail.jpg)](/wp-content/uploads/2008/02/sweeneytodd.jpg "Sweeney Todd")
+[![Sweeney Todd](wp-content/uploads/2008/02/sweeneytodd.thumbnail.jpg)](wp-content/uploads/2008/02/sweeneytodd.jpg "Sweeney Todd")
 
 Pela mão de Tim Burton chega-nos a adaptação do musical de Stephen Sondheim, [Sweeney Todd: The Demon Barber of Fleet Street](http://www.imdb.com/title/tt0408236/) (Sweeney Todd: O Terrível Barbeiro de Fleet Street).
 

@@ -14,7 +14,7 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2011/02/Windows-Phone-Fest-@-Universidade-Portucalense.jpg "Windows Phone Fest @ Universidade Portucalense")](http://gozoomin.com/wpfest/default.aspx)
+[![](wp-content/uploads/2011/02/Windows-Phone-Fest-@-Universidade-Portucalense.jpg "Windows Phone Fest @ Universidade Portucalense")](http://gozoomin.com/wpfest/default.aspx)
 
 A Microsoft prepara-se para promover juntamente com a Universidade Portucalense, o [Windows Phone Fest](http://gozoomin.com/wpfest/default.aspx)!
 

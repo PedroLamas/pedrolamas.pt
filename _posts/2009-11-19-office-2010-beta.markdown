@@ -14,7 +14,7 @@ tags:
 - Office 2010
 - Office Mobile 2010
 ---
-![Office 2010 Beta](/wp-content/uploads/2009/11/Office-2010-Beta.jpg "Office 2010 Beta")Num único dia, a Microsoft disponibilizou para download as versões beta do [Office 2010](http://www.microsoft.com/office/2010/) e do seu equivalente móvel, o [Office Mobile 2010](http://www.microsoft.com/office/2010/en/mobile/default.aspx)!
+![Office 2010 Beta](wp-content/uploads/2009/11/Office-2010-Beta.jpg "Office 2010 Beta")Num único dia, a Microsoft disponibilizou para download as versões beta do [Office 2010](http://www.microsoft.com/office/2010/) e do seu equivalente móvel, o [Office Mobile 2010](http://www.microsoft.com/office/2010/en/mobile/default.aspx)!
 
 Aquela que me parece ser a grande novidade no Office 2010 e a principal aposta da Microsoft, tem a ver c0m o Sharepoint Workspace, algo que vem facilitar o trabalho corporativo/colaborativo entre os utilizadores de empresas e não só.
 

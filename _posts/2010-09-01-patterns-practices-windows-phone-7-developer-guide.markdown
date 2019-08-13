@@ -16,6 +16,6 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2008/05/enterprise_library.png "Patterns & Practices")](http://wp7guide.codeplex.com/)
+[![](wp-content/uploads/2008/05/enterprise_library.png "Patterns & Practices")](http://wp7guide.codeplex.com/)
 
 Já era de se esperar que seria apenas uma questão de tempo até que fosse lançados elementos de "best practices" (boas práticas) para o desenvolvimento de aplicações para o Windows Phone 7, e heis que elas [aqui estão](http://wp7guide.codeplex.com/), como de costume no [Codeplex](http://www.codeplex.com)!

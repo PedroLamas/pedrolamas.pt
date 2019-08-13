@@ -13,9 +13,9 @@ tags:
 - Programação
 - Patterns &amp; Practices
 ---
-![Enterprise Library](/wp-content/uploads/2008/05/enterprise_library.png "Enterprise Library")
+![Enterprise Library](wp-content/uploads/2008/05/enterprise_library.png "Enterprise Library")
 
-Já antes tinha aqui da [*Patterns and Practices Enterprise Library*](/2008/05/21/enterprise-library-40-%e2%80%93-maio-de-2008/), um guia de boas práticas para desenvolvimento de aplicações com a .NET Framework.
+Já antes tinha aqui da [*Patterns and Practices Enterprise Library*](2008/05/21/enterprise-library-40-%e2%80%93-maio-de-2008/), um guia de boas práticas para desenvolvimento de aplicações com a .NET Framework.
 
 Agora, falo do equivalente para a .NET Compact Framework e para dispositivos móveis, a [*Smart Client Software Factory*](http://www.codeplex.com/smartclient).
 

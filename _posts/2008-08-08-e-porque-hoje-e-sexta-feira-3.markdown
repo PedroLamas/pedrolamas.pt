@@ -11,7 +11,7 @@ tags:
 - Sexta-feira
 - Jogos Olímpicos 2008
 ---
-[caption id="attachment\_227" align="alignnone" width="400" caption="Fogo de artifício na abertura dos Jogos Olímpicos de 2008"]![Fogo de artifício na abertura dos Jogos Olímpicos de 2008](/wp-content/uploads/2008/08/2008-olympics-china.jpg "Jogos Olímpicos de 2008")[/caption]
+[caption id="attachment\_227" align="alignnone" width="400" caption="Fogo de artifício na abertura dos Jogos Olímpicos de 2008"]![Fogo de artifício na abertura dos Jogos Olímpicos de 2008](wp-content/uploads/2008/08/2008-olympics-china.jpg "Jogos Olímpicos de 2008")[/caption]
 
 Acabou à pouco a abertura da XXIX Olimpíada, a decorrer na China. Do espetáculo de abertura que decorreu no "Ninho de Pássaro", o Estádio Nacional em Pequim, vem a foto de que podem ver acima, tirada durante o fogo de artifício.
 

@@ -14,7 +14,7 @@ tags:
 - Windows Phone
 - WP7
 ---
-[![](/wp-content/uploads/2010/11/6º-Seminário-PocketPT.jpg "6º Seminário PocketPT")](http://www.mtechseminar.com/2010/inscricoes.htm)Aproxima-se mais um Seminário do PocketPT, as novidades são muitas e serão todas abordadas neste seminário a não perder.
+[![](wp-content/uploads/2010/11/6º-Seminário-PocketPT.jpg "6º Seminário PocketPT")](http://www.mtechseminar.com/2010/inscricoes.htm)Aproxima-se mais um Seminário do PocketPT, as novidades são muitas e serão todas abordadas neste seminário a não perder.
 
 A equipa do PocketPT irá falar ao pormenor sobre o novo Windows Phone 7, e será uma excelente oportunidade de ver e testar os novos equipamentos Windows Phone 7 e aprender e ve o que esta plataforma promete.
 

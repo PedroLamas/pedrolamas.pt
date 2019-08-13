@@ -11,7 +11,7 @@ categories:
 tags:
 - Natal
 ---
-![Keep Calm and have a Merry Christmas](/wp-content/uploads/2012/12/KeepCalmChristmas.png)
+![Keep Calm and have a Merry Christmas](wp-content/uploads/2012/12/KeepCalmChristmas.png)
 
 Mesmo estando fora de Portugal, não posso deixar de dar os meus sinceros votos de um Feliz Natal para todos os que acompanham o Nação do Cimbalino! :)
 

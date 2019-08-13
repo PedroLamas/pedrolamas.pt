@@ -11,7 +11,7 @@ tags:
 - XNA
 - Xbox 360
 ---
-[![Xbox 360](/wp-content/uploads/2009/02/xbox-360.jpg "Xbox 360")](http://www.xbox.com/pt-PT/)Nos últimos [Webcast4Share](http://www.microsoft.com/portugal/msdn/webcasts4share/default.mspx) da Microsoft tive o prazer de ser o sortudo que ficou com a [Xbox 360](http://www.xbox.com/pt-PT/) (a versão [Elite](http://www.xbox.com/pt-PT/hardware/x/xbox360elitesystem/), por acaso) que eles tinham para quem convidasse mais amigos para participar no evento online!
+[![Xbox 360](wp-content/uploads/2009/02/xbox-360.jpg "Xbox 360")](http://www.xbox.com/pt-PT/)Nos últimos [Webcast4Share](http://www.microsoft.com/portugal/msdn/webcasts4share/default.mspx) da Microsoft tive o prazer de ser o sortudo que ficou com a [Xbox 360](http://www.xbox.com/pt-PT/) (a versão [Elite](http://www.xbox.com/pt-PT/hardware/x/xbox360elitesystem/), por acaso) que eles tinham para quem convidasse mais amigos para participar no evento online!
 
 Longe de ser um viciado em video jogos (até porque não tenho grande tempo para isso!), apresento-me hoje aqui como um jogador moderado mas combativo.
 

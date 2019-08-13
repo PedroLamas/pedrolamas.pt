@@ -14,7 +14,7 @@ tags:
 - WPDev
 - NetPonto
 ---
-Passaram já alguns meses desde que apresentei uma sessão no [NetPonto](http://netponto.org/) de Coimbra intitulada "Truques & Dicas no Desenvolvimento para Windows Phone" (e [aqui](/2011/11/24/truques-dicas-no-desenvolvimento-para-windows-phone-netponto/) referenciada anteriormente)!
+Passaram já alguns meses desde que apresentei uma sessão no [NetPonto](http://netponto.org/) de Coimbra intitulada "Truques & Dicas no Desenvolvimento para Windows Phone" (e [aqui](2011/11/24/truques-dicas-no-desenvolvimento-para-windows-phone-netponto/) referenciada anteriormente)!
 
 A grande novidade, é que agora podem ver o vídeo da mesma! ;)
 

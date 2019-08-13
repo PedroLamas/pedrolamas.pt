@@ -16,7 +16,7 @@ tags:
 - WP7Dev
 - MIX11
 ---
-[![](/wp-content/uploads/2011/04/MIX11.jpg "MIX11")](http://live.visitmix.com/)Já são conhecidos os nomes das 11 sessões da [track de Windows Phone](http://live.visitmix.com/MIX11/Sessions/Tagged/Windows-Phone) que ainda estavam por determinar no [MIX11](/tag/mix11/)!
+[![](wp-content/uploads/2011/04/MIX11.jpg "MIX11")](http://live.visitmix.com/)Já são conhecidos os nomes das 11 sessões da [track de Windows Phone](http://live.visitmix.com/MIX11/Sessions/Tagged/Windows-Phone) que ainda estavam por determinar no [MIX11](tag/mix11/)!
 
 São elas:
 

@@ -12,7 +12,7 @@ tags:
 - Semana Aberta
 - Engenharia
 ---
-![FEUP - Semana Aberta 2008](/wp-content/uploads/2008/03/feup_semana_aberta_2008.jpg)
+![FEUP - Semana Aberta 2008](wp-content/uploads/2008/03/feup_semana_aberta_2008.jpg)
 
 Mais uma vez a Faculdade de Engenharia da Universidade do Porto realiza a Semana Aberta, em são abertas as portas aos alunos e professores do Ensino Secundário para que possam visitar as instalações e saberem um pouco mais sobre o que é ser Engenheiro nos dias de hoje.
 

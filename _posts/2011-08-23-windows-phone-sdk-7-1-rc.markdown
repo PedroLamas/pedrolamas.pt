@@ -17,7 +17,7 @@ tags:
 - WPDev
 - RC
 ---
-Com o aproximar da disponibilização da actualização do Windows Phone 7.1 (mais conhecida como ["Mango"](/tag/mango/)), também as ferramentas de desenvolvimento se aproximam da versão final.
+Com o aproximar da disponibilização da actualização do Windows Phone 7.1 (mais conhecida como ["Mango"](tag/mango/)), também as ferramentas de desenvolvimento se aproximam da versão final.
 
 Neste momento já é possível fazer o [download da versão Release Candidate](http://go.microsoft.com/?linkid=9772716) do Windows Phone SDK 7.1, e **fazer mesmo upload das aplicações para o Marketplace com esta nova versão!** :D
 

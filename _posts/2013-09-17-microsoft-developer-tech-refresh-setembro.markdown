@@ -16,7 +16,7 @@ tags:
 - Developer Tech Refresh
 - Visual Studio 2013
 ---
-[![Microsoft Developer Tech Refresh - Setembro](/wp-content/uploads/2013/09/Microsoft-Developer-Tech-Refresh-Setembro.png)](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032564008&Culture=en-PT)
+[![Microsoft Developer Tech Refresh - Setembro](wp-content/uploads/2013/09/Microsoft-Developer-Tech-Refresh-Setembro.png)](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032564008&Culture=en-PT)
 
 De forma a reunir as mais recentes novidades no Windows, Windows Phone, Windows Azure, e Visual Studio, a Microsoft Portugal apresenta no próximo dia **24 de Setembro** o **Developer Tech Refresh**!
 

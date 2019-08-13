@@ -14,7 +14,7 @@ tags:
 - Windows 8
 - Windows 8 CP
 ---
-![](/wp-content/uploads/2012/02/Windows-8.png "Windows 8")
+![](wp-content/uploads/2012/02/Windows-8.png "Windows 8")
 
 Desde ontem que está disponível o Windows 8 Consumer Preview!
 

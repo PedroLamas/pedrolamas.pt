@@ -10,6 +10,6 @@ categories:
 - Mobilidade
 tags: []
 ---
-[![](/wp-content/uploads/2010/11/Google-Search.jpg "Google Search")](http://googlemobile.blogspot.com/2010/11/google-search-app-for-windows-phone-7.html)A Google deu ontem a conhecer a sua [primeira aplicação](http://googlemobile.blogspot.com/2010/11/google-search-app-for-windows-phone-7.html) para o Windows Phone 7: Google Search!
+[![](wp-content/uploads/2010/11/Google-Search.jpg "Google Search")](http://googlemobile.blogspot.com/2010/11/google-search-app-for-windows-phone-7.html)A Google deu ontem a conhecer a sua [primeira aplicação](http://googlemobile.blogspot.com/2010/11/google-search-app-for-windows-phone-7.html) para o Windows Phone 7: Google Search!
 
 Espera-se que esta seja apenas a primeira de muitas aplicações da Google, sendo que esta já se encontra disponível no Marketplace para instalação!

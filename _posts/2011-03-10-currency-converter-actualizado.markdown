@@ -17,7 +17,7 @@ tags:
 - Marketplace
 - Currency Converter
 ---
-Acabei de verificar que o [Currency Converter](/tag/currency-converter/), a aplicação que fiz em colaboração com o [Coding4Fun](http://www.coding4fun.com/), já tem a actualização disponível no Marketplace do Windows Phone 7!
+Acabei de verificar que o [Currency Converter](tag/currency-converter/), a aplicação que fiz em colaboração com o [Coding4Fun](http://www.coding4fun.com/), já tem a actualização disponível no Marketplace do Windows Phone 7!
 
 E que novidades podem encontrar nesta versão? Bem, é mais rápida e gasta tráfego de dados, dado que agora conta com um sistema de "caching" das taxas de conversão utilizadas!
 

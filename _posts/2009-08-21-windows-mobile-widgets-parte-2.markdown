@@ -14,7 +14,7 @@ tags:
 - Windows Mobile 6.5
 - Windows Mobile Widgets
 ---
-Na continuação da série de artigos sobre [Windows Mobile Widgets](/tag/windows-mobile-widgets/) que tenho pensada, este segundo artigo focará em essencial como podemos "internacionalizar" os nossos Widgets, ou seja, como fazer para que a interface do Widget seja multi-língua (*Localization*), apresentando o idioma correcto conforme as *Regional Settings* (Definições Regionais) do PDA onde ele estiver a ser executado.
+Na continuação da série de artigos sobre [Windows Mobile Widgets](tag/windows-mobile-widgets/) que tenho pensada, este segundo artigo focará em essencial como podemos "internacionalizar" os nossos Widgets, ou seja, como fazer para que a interface do Widget seja multi-língua (*Localization*), apresentando o idioma correcto conforme as *Regional Settings* (Definições Regionais) do PDA onde ele estiver a ser executado.
 
 A localização da interface de Widgets consiste em dividir a aplicação em "recursos", sejam eles imagens, javascript, ou outros tipos de ficheiros, e colocar cópias desses recursos devidamente localizados em pastas individuais que indicam qual o idioma (*Locale*).
 
@@ -40,18 +40,18 @@ Para efeitos de exemplo, vamos fazer agora a tradução dos recursos para Portug
 
 Esta é a estrutura de ficheiros do nosso Widget já alterado:
 
-![Hello World localized files](/wp-content/uploads/2009/08/Hello-World-localized-files.jpg "Hello World localized files")
+![Hello World localized files](wp-content/uploads/2009/08/Hello-World-localized-files.jpg "Hello World localized files")
 
-Falta apenas empacotar os ficheiros seguindo as indicações do [primeiro artigo](/2009/07/25/windows-mobile-widgets-parte-1/), instalar e testar!
+Falta apenas empacotar os ficheiros seguindo as indicações do [primeiro artigo](2009/07/25/windows-mobile-widgets-parte-1/), instalar e testar!
 
 Para correctamente podermos ver o nosso Widget em Português, teremos que indicar ao PDA que pretendemos utilizar as Definições Regionais de Portugal, utilizando para isso as opções que podemos encontram em *Start \\ Settings \\ System \\ Regional Settings*, e alterando as definições tal como mostra a imagem seguinte:
 
-[![Regional Settings](/wp-content/uploads/2009/08/Regional-Settings.jpg "Regional Settings")](/wp-content/uploads/2009/08/Regional-Settings.jpg)
+[![Regional Settings](wp-content/uploads/2009/08/Regional-Settings.jpg "Regional Settings")](wp-content/uploads/2009/08/Regional-Settings.jpg)
 
 Irá aparecer um aviso para reiniciar o PDA, que no nosso caso poderá ser ignorado visto que para a execução de Widgets a alteração das Definições Regionais são imediatas.
 
 De seguida executando o Widget, poderemos ver a interface em Português de Portugal tal como pretendiamos:
 
-[![Hello World Widget running localized](/wp-content/uploads/2009/08/Hello-World-Widget-running-localized.jpg "Hello World Widget running localized")](/wp-content/uploads/2009/08/Hello-World-Widget-running-localized.jpg)
+[![Hello World Widget running localized](wp-content/uploads/2009/08/Hello-World-Widget-running-localized.jpg "Hello World Widget running localized")](wp-content/uploads/2009/08/Hello-World-Widget-running-localized.jpg)
 
-Podem [aqui](/2009/07/25/windows-mobile-widgets-parte-2/localized-hello-world/) descarregar o ficheiro "Localized Hello World.wgt" que tem o resultado desta demonstração... encontramo-nos no próximo artigo! ;)
+Podem [aqui](2009/07/25/windows-mobile-widgets-parte-2/localized-hello-world/) descarregar o ficheiro "Localized Hello World.wgt" que tem o resultado desta demonstração... encontramo-nos no próximo artigo! ;)

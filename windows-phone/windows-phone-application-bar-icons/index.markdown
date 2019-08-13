@@ -12,7 +12,7 @@ tags: []
 Atenção
 -------
 
-**Novos ícones para Windows Phone 8 disponíveis [aqui](/windows-phone/windows-phone-8-application-bar-icons/)!**
+**Novos ícones para Windows Phone 8 disponíveis [aqui](windows-phone/windows-phone-8-application-bar-icons/)!**
 
 Download
 --------
@@ -33,7 +33,7 @@ Para mim, este número revelou-se muito insuficiente para suprir as minhas neces
 
 Dessa forma, apresento-vos uma colecção de 132 ícones extra relativamente à dos 32 que vem no SDK (cliquem na imagem abaixo para terem uma visualização da colecção no tamanho original)
 
-[![](/wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons-Thumb.png "Windows Phone 7.1 Application Bar Icons")](/wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons.png)
+[![](wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons-Thumb.png "Windows Phone 7.1 Application Bar Icons")](wp-content/uploads/2011/09/Windows-Phone-7-Application-Bar-Icons.png)
 
 Grande parte destes ícones são realmente os originais que aparecem nas aplicações do Windows Phone 7 (obtidos binariamente dos "resources" das aplicações), outros foram simplesmente modificados de forma a ficarem com as medidas correctas (modificado o "canvas" para 48x48, o tamanho correcto para este tipo de ícones).
 

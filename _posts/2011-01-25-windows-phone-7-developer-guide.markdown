@@ -14,4 +14,4 @@ tags:
 - WP7
 - WP7Dev
 ---
-[![](/wp-content/uploads/2011/01/Windows-Phone-7-Developer-Guide.jpg "Windows Phone 7 Developer Guide")](http://msdn.microsoft.com/en-us/library/gg490765.aspx)A equipa de Patterns & Practices da Microsoft escreveu um excelente [guia de desenvolvimento para Windows Phone 7](http://msdn.microsoft.com/en-us/library/gg490765.aspx), no qual é introduzido um cenário fictício de uma empresa com uma aplicação na Cloud, sobre a qual é desenvolvida uma solução para WP7, mostrando assim o conjunto de padrões e boas práticas que utilizaram nessa solução!
+[![](wp-content/uploads/2011/01/Windows-Phone-7-Developer-Guide.jpg "Windows Phone 7 Developer Guide")](http://msdn.microsoft.com/en-us/library/gg490765.aspx)A equipa de Patterns & Practices da Microsoft escreveu um excelente [guia de desenvolvimento para Windows Phone 7](http://msdn.microsoft.com/en-us/library/gg490765.aspx), no qual é introduzido um cenário fictício de uma empresa com uma aplicação na Cloud, sobre a qual é desenvolvida uma solução para WP7, mostrando assim o conjunto de padrões e boas práticas que utilizaram nessa solução!

@@ -20,7 +20,7 @@ Estas resoluções vão desde o 800x480 (WVGA) que encontramos nos equipamentos 
 
 Para além disso, o novo Start Screen que vamos encontrar no WP7.8 e no WP8 apresenta uma maior ocupação do ecrã, visto que desaparece a seta com o círculo que podemos encontrar actualmente no canto superior direito.
 
-[![](/wp-content/uploads/2012/09/WP7-and-WP8-Start-Screens-thumb.png "WP7 and WP8 Start Screens")](/wp-content/uploads/2012/09/WP7-and-WP8-Start-Screens.png)
+[![](wp-content/uploads/2012/09/WP7-and-WP8-Start-Screens-thumb.png "WP7 and WP8 Start Screens")](wp-content/uploads/2012/09/WP7-and-WP8-Start-Screens.png)
 
 A imagem anterior apresenta à esquerda o actual WP7 e à direita o WP8, e facilmente vemos que os Tiles de 173x173 foram substituídos por outros bastante maiores!
 

@@ -12,7 +12,7 @@ tags:
 - Microsoft
 - Mobicomp
 ---
-![Mobicomp](/wp-content/uploads/2008/06/mobicomp.jpg "Mobicomp")Num movimento totalmente inesperado, a Microsoft comprou ontem a [Mobicomp](http://www.mobicomp.com/), uma empresa portuguesa sediada em Braga, que tem por base de negócio o desenvolvimento de aplicações móveis.
+![Mobicomp](wp-content/uploads/2008/06/mobicomp.jpg "Mobicomp")Num movimento totalmente inesperado, a Microsoft comprou ontem a [Mobicomp](http://www.mobicomp.com/), uma empresa portuguesa sediada em Braga, que tem por base de negócio o desenvolvimento de aplicações móveis.
 
 A intenção mostrada pela Microsoft é de integrar a empresa num centro de investigação e desenvolvimento na área da mobilidade, mantendo a maior parte ou mesmo a totalidade da actual equipa da Mobicomp.
 

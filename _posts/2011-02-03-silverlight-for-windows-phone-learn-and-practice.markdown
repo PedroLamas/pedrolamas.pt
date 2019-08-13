@@ -15,7 +15,7 @@ tags:
 - WP7Dev
 - Windows Phone 7
 ---
-[![](/wp-content/uploads/2011/02/Silverlight-for-Windows-Phone-eBook.jpg "Silverlight for Windows Phone eBook")](http://cid-3543a916eed05fb8.office.live.com/self.aspx/MIC-ITB%20Activities/Silverlight%5E_for%5E_WindowsPhone%5E_English.pdf?wa=wsignin1.0&sa=735463032)Mais um eBook gratuito está neste momento disponível na Internet: [Silverlight for Windows Phone - Learn and Practice](http://cid-3543a916eed05fb8.office.live.com/self.aspx/MIC-ITB%20Activities/Silverlight%5E_for%5E_WindowsPhone%5E_English.pdf?wa=wsignin1.0&sa=735463032)!
+[![](wp-content/uploads/2011/02/Silverlight-for-Windows-Phone-eBook.jpg "Silverlight for Windows Phone eBook")](http://cid-3543a916eed05fb8.office.live.com/self.aspx/MIC-ITB%20Activities/Silverlight%5E_for%5E_WindowsPhone%5E_English.pdf?wa=wsignin1.0&sa=735463032)Mais um eBook gratuito está neste momento disponível na Internet: [Silverlight for Windows Phone - Learn and Practice](http://cid-3543a916eed05fb8.office.live.com/self.aspx/MIC-ITB%20Activities/Silverlight%5E_for%5E_WindowsPhone%5E_English.pdf?wa=wsignin1.0&sa=735463032)!
 
 Escrito por [Puja Pramudya](http://geeks.netindonesia.net/blogs/poedja_p/) do Microsoft Innovation Center, Indonésia, tem uma particularidade que achei muito curiosa, que é de estar feito a pensar apenas no Emulador do Windows Phone 7, já que não são cobertos alguns conceitos mais avançados como o uso das capacidades de multi-toque ou acelerómetro, por exemplo!
 

@@ -11,7 +11,7 @@ tags:
 - PocketPT
 - HTC Touch Pro
 ---
-[![HTC Touch Pro](/wp-content/uploads/2008/06/htc_touch_pro.jpg "HTC Touch Pro")](http://www.htc.com/europe/product.aspx?id=49918)Conhecido à poucas horas, o **HTC Touch Pro** é já considerado por muitos como o melhor equipamento com Windows Mobile da actualidade!
+[![HTC Touch Pro](wp-content/uploads/2008/06/htc_touch_pro.jpg "HTC Touch Pro")](http://www.htc.com/europe/product.aspx?id=49918)Conhecido à poucas horas, o **HTC Touch Pro** é já considerado por muitos como o melhor equipamento com Windows Mobile da actualidade!
 
 Ficam as características deste magnífico equipamento:
 

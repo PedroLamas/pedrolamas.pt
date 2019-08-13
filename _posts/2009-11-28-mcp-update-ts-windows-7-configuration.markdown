@@ -13,7 +13,7 @@ tags:
 - MCP
 - 70-680
 ---
-![Windows 7, Configuration](/wp-content/uploads/2009/11/Windows-7-Configuration.jpg "Windows 7, Configuration")
+![Windows 7, Configuration](wp-content/uploads/2009/11/Windows-7-Configuration.jpg "Windows 7, Configuration")
 
 Há alguns meses atrás fiz o exame beta *[70-680 TS: Windows 7, Configuration](http://www.microsoft.com/learning/en/us/Exam.aspx?ID=70-680)*, e hoje tive a notícia que finalmente estava a figurar no meu [MCP Transcript](https://mcp.microsoft.com/authenticate/validatemcp.aspx) (ID: *616431*, password: *Pedro Lamas*)
 

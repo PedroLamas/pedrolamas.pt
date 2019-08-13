@@ -18,7 +18,7 @@ tags:
 - WP8Dev
 - W8Dev
 ---
-[![App Me Up](/wp-content/uploads/2012/12/App-Me-Up.png)](http://app-me-up.com/)Está agora a fazer um ano que a Microsoft lançou o programa [App Me Up](/tag/app-me-up/) para a promoção dos programadores de Windows Phone 7 e das suas aplicações; a iniciativa está agora de volta, actualizada para o Windows 8 e Windows Phone 8!
+[![App Me Up](wp-content/uploads/2012/12/App-Me-Up.png)](http://app-me-up.com/)Está agora a fazer um ano que a Microsoft lançou o programa [App Me Up](tag/app-me-up/) para a promoção dos programadores de Windows Phone 7 e das suas aplicações; a iniciativa está agora de volta, actualizada para o Windows 8 e Windows Phone 8!
 
 Para além da promoção dos programadores e das apps desenvolvidas, o programa inclui ainda o App VIP que permite ganhar alguns prémios muito apelativos:
 

@@ -16,7 +16,7 @@ tags:
 - Windows Phone 8
 - WP8
 ---
-[![](/wp-content/uploads/2012/06/Windows-Phone-New-Start-Screen-Thumb.png "Windows Phone New Start Screen")](/wp-content/uploads/2012/06/Windows-Phone-New-Start-Screen.png)Decorreu esta tarde em San Francisco o [Windows Phone Summit](http://channel9.msdn.com/Events/Windows-Phone/Summit), o evento que serviu para apresentar ao mundo as próximas versões do Windows Phone!
+[![](wp-content/uploads/2012/06/Windows-Phone-New-Start-Screen-Thumb.png "Windows Phone New Start Screen")](wp-content/uploads/2012/06/Windows-Phone-New-Start-Screen.png)Decorreu esta tarde em San Francisco o [Windows Phone Summit](http://channel9.msdn.com/Events/Windows-Phone/Summit), o evento que serviu para apresentar ao mundo as próximas versões do Windows Phone!
 
 E digo "versões" porque estamos de facto a falar de duas versões distintas: o Windows Phone 7.8 para os equipamentos actuais, e o Windows Phone 8 para os futuros.
 

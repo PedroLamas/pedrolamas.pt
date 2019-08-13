@@ -14,6 +14,6 @@ tags:
 - MCP
 - 70-511
 ---
-![](/wp-content/uploads/2010/06/TS-Windows-Applications-Development-with-Microsoft-.NET-Framework-4.jpg "TS: Windows Applications Development with Microsoft .NET Framework 4")
+![](wp-content/uploads/2010/06/TS-Windows-Applications-Development-with-Microsoft-.NET-Framework-4.jpg "TS: Windows Applications Development with Microsoft .NET Framework 4")
 
 Mais uma actualização para o perfil de MCP, com um exame da "nova geração" do .NET 4.0, o [70-511 TS: Windows Applications Development with Microsoft .NET Framework 4](http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-511)!

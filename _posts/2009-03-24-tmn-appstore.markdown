@@ -12,7 +12,7 @@ tags:
 - TMN
 - tmn AppStore
 ---
-[![tmn AppStore](/wp-content/uploads/2009/03/tmn-appstore.jpg "tmn AppStore")](http://www.tmn.pt/appstore)
+[![tmn AppStore](wp-content/uploads/2009/03/tmn-appstore.jpg "tmn AppStore")](http://www.tmn.pt/appstore)
 
 A [TMN](http://www.tmn.pt/) estabeleceu uma parceria com a Microsoft para trazer à luz do dia a sua [AppStore](http://www.tmn.pt/appstore), um local onde os programadores podem colocar as suas aplicações para Windows Mobile, para serem adquiridas e descarregadas pelos diversos utilizadores.
 
